@@ -1,0 +1,10 @@
+<script type='text/javascript'>var numposts = 7;var showpostthumbnails = true;var displaymore = false;var displayseparator = true;var showcommentnum = true;var showpostdate = true;var showpostsummary = false;var numchars = 100;</script> 
+<script type="text/javascript" src="/feeds/posts/default/-/Gunslinger%20Stratos%20:%20The%20Animation?published&alt=json-in-script&callback=labelthumbs"></script>
+
+*Gunslinger%20Stratos%20:%20The%20Animation (Ganti Dengan Label anda) *Jika ada Spasi gunakan ini %20
+*numposts = 7 (Jumlah post yang muncul)
+*showpostthumbnails = true (Menampilkan Gambar)
+*showcommentnum = true (Menampilkan Komentar)
+*showpostdate = true (Menampilkan Waktu / Tanggal)
+*showpostsummary = false (Menampilkan Deskripsi)
+*numchars = 100 (Mengatur Jumlah Kata Deskripsi)

@@ -1,0 +1,21 @@
+<div class='donatur-widget'>
+<!-- START -->
+
+<div class='donatur-item'>
+<b data-queue='2'>Himekishi Ga Classmate!</b>
+<p>being worked on, you can donate to speed up work</p>
+<div class="progress" data-donate='$10'>
+<div class="progress-bar" data-percent='60' style="width:60px"></div>
+</div>
+</div>
+
+<div class='donatur-item'>
+<b data-queue='5'>Himekishi Ga Classmate!</b>
+<p>being worked on, you can donate to speed up work</p>
+<div class="progress" data-donate='$30'>
+<div class="progress-bar" data-percent='60' style="width:30px"></div>
+</div>
+</div>
+
+<!-- END -->
+</div>

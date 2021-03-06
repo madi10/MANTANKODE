@@ -1,0 +1,58 @@
+<div class='staff-page row-fetty'>
+<!-- START -->
+<div class='staff-item drop'>
+<div class='staff-thumb'>
+<img src='https://1.bp.blogspot.com/-pt5uO9QXFP4/V5xdjzsz3gI/AAAAAAAAABI/lTYe8YS8FHsKRJ5mhN6al-Zch1vJyYk7QCPcB/s1600/large.png'/>
+</div>
+<div class='staff-box'>
+<b>Usagilabs</b>
+<i>Encoder</i>
+</div>
+<span class='staff-desc'>Dalam kegelapan, cahaya dengan cepat menghilang. Bahkan tanpa sadar tangan ini diulurkan tanpa bisa meraih apa pun. Saat jatuh, ada rasa menekan di bagian bawah</span>
+</div>
+
+<div class='staff-item hiatus'>
+<div class='staff-thumb'>
+<img src='https://1.bp.blogspot.com/-DmOVmFrkUPE/WApcIxqHFwI/AAAAAAAAALo/oeuOel3-8jgkOFXwWYe2vPCMczbddA-yACPcB/s1600/img5.jpg'/>
+</div>
+<div class='staff-box'>
+<b>Usagilabs</b>
+<i>Encoder</i>
+</div>
+<span class='staff-desc'>Dalam kegelapan, cahaya dengan cepat menghilang. Bahkan tanpa sadar tangan ini diulurkan tanpa bisa meraih apa pun. Saat jatuh, ada rasa menekan di bagian bawah</span>
+</div>
+
+<div class='staff-item'>
+<div class='staff-thumb'>
+<img src='https://1.bp.blogspot.com/-DmOVmFrkUPE/WApcIxqHFwI/AAAAAAAAALo/oeuOel3-8jgkOFXwWYe2vPCMczbddA-yACPcB/s1600/img5.jpg'/>
+</div>
+<div class='staff-box'>
+<b>Usagilabs</b>
+<i>Encoder</i>
+</div>
+<span class='staff-desc'>Dalam kegelapan, cahaya dengan cepat menghilang. Bahkan tanpa sadar tangan ini diulurkan tanpa bisa meraih apa pun. Saat jatuh, ada rasa menekan di bagian bawah</span>
+</div>
+
+<div class='staff-item'>
+<div class='staff-thumb'>
+<img src='https://4.bp.blogspot.com/-Y0JQKRzXnWI/WApcG_3gI3I/AAAAAAAAALo/OpssRq5MhA4r2xg9V0RMEYXz3lG-2dmtwCPcB/s1600/img11.jpg'/>
+</div>
+<div class='staff-box'>
+<b>Usagilabs</b>
+<i>Encoder</i>
+</div>
+<span class='staff-desc'>Dalam kegelapan, cahaya dengan cepat menghilang. Bahkan tanpa sadar tangan ini diulurkan tanpa bisa meraih apa pun. Saat jatuh, ada rasa menekan di bagian bawah</span>
+</div>
+
+<div class='staff-item'>
+<div class='staff-thumb'>
+<img src='https://4.bp.blogspot.com/-CAlIkPmbVFU/WApcHN6hasI/AAAAAAAAALo/sfUZfZF9VTwDxtFgWyoeCEnShyCs3P6NgCPcB/s1600/img1.jpg'/>
+</div>
+<div class='staff-box'>
+<b>Usagilabs</b>
+<i>Encoder</i>
+</div>
+<span class='staff-desc'>Dalam kegelapan, cahaya dengan cepat menghilang. Bahkan tanpa sadar tangan ini diulurkan tanpa bisa meraih apa pun. Saat jatuh, ada rasa menekan di bagian bawah</span>
+</div>
+<!-- END -->
+</div>

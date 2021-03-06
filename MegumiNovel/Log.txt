@@ -1,0 +1,8 @@
+<LOG>
+v1.0
+- Release Template
+
+v1.1
+- Fix Bug Label
+- Remove View, Replace with Comments
+- Other

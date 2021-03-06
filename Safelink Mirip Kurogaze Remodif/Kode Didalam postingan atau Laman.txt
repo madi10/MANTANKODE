@@ -1,0 +1,74 @@
+<div dir="ltr" style="text-align: left;" trbidi="on">
+<style type="text/css">
+div#my-timer {
+    background: #9e523a none repeat scroll 0 0;
+    border-radius: 5px;
+    color: #fff;
+    font-family: segoe ui;
+    font-size: 17px !important;
+    font-weight: bold;
+    margin: auto;
+    max-width: 240px;
+    padding: 2px 4% 5px;
+}
+.tengah {
+    font-weight: bold;
+    margin: 5px 0;
+}
+.Noroi {
+    border: 1px solid #9e523a;
+    border-radius: 5px;
+    color: #9e523a;
+    font-weight: bold;
+    padding: 3px;
+}
+.noroi-anime {
+    margin: 5px;
+}
+</style>
+<div class="noroi-anime">
+Teks Anda Disini</div>
+<br />
+<div class="tengah">
+Tunggu Sampai waktu berakhir</div>
+<div style="text-align: center;">
+<script type="text/javascript">
+        var settimmer = 0;
+        $(function(){
+        window.setInterval(function() {
+        var timeCounter = $("b[id=show-time]").html();
+        var updateTime = eval(timeCounter)- eval(1);
+        $("b[id=show-time]").html(updateTime);
+        if(updateTime == 0){
+ $("div[id=my-timer]").html("").html("Visit Link");
+        window.location = ("http://noroianime.blogspot.co.id/");
+        }
+        }, 1000);
+        });
+    </script>
+</div>
+<div id="my-timer">
+<div style="text-align: center;">
+Please Wait... <b id="show-time">20</b> seconds        
+    </div>
+</div>
+<center style="margin-top: -16px;">
+<br />
+</center>
+<center style="margin-top: -16px;">
+&nbsp;</center>
+<center style="margin-top: -16px;">
+&nbsp;</center>
+<center style="margin-top: -16px;">
+</center>
+<center style="margin-top: -16px;">
+</center>
+<center style="margin-top: -16px;">
+</center>
+<br />
+<br />
+<div class="Noroi">
+Thnks For Visit Noroi?Anime</div>
+<div class="noroi-anime">
+Teks Anda Disini</div>
+<br /></div>

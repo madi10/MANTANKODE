@@ -1,0 +1,39 @@
+Change	:
+- https://animeart-98.blogspot.co.id
+
+Label	: Fall%202016
+	: Summer%202016
+	: Movie
+	: OVA
+
+///////////////////////
+
+<!-- Fall 2016 -->
+<div class='recent_post'>
+<ol>
+<script src="https://animeart-98.blogspot.co.id/feeds/posts/default/-/Fall%202016?orderby=published&amp;alt=json-in-script&amp;callback=showrecentposts&amp;max-results=5"></script>
+</ol>
+</div>
+
+
+<!-- Summer 2016 -->
+<div class='recent_post'>
+<ol>
+<script src="https://animeart-98.blogspot.co.id/feeds/posts/default/-/Summer%202016?orderby=published&amp;alt=json-in-script&amp;callback=showrecentposts&amp;max-results=5"></script>
+</ol>
+</div>
+
+
+<!-- Movie -->
+<div class='recent_post'>
+<ol>
+<script src="https://animeart-98.blogspot.co.id/feeds/posts/default/-/Movie?orderby=published&amp;alt=json-in-script&amp;callback=showrecentposts&amp;max-results=5"></script>
+</ol>
+</div>
+
+<!-- Ova And Spesial -->
+<div class='recent_post'>
+<ol>
+<script src="https://animeart-98.blogspot.co.id/feeds/posts/default/-/OVA?orderby=published&amp;alt=json-in-script&amp;callback=showrecentposts&amp;max-results=5"></script>
+</ol>
+</div>
