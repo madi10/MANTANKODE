@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html b:css='false' b:defaultwidgetversion='2' b:layoutsVersion='3' expr:dir='data:blog.languageDirection' expr:lang='data:blog.locale' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<head>
+
+<meta charset='utf-8'/>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'/>
+<meta content='width=device-width,minimum-scale=1,initial-scale=1' name='viewport'/>
+<b:if cond='data:view.isHomepage'>
+<title><data:blog.title/></title>
+<b:elseif cond='data:view.isPost or data:view.isPage or data:view.search.label'/>
+<title><data:blog.pageName/> | <data:blog.title/></title>
+<b:elseif cond='data:view.search.query'/>
+<title><data:view.search.resultsMessage/> | <data:blog.title/></title>
+<b:elseif cond='data:view.search and !data:view.search.label and !data:view.search.query'/>
+<title><data:blog.title/></title>
+<b:elseif cond='data:view.isArchive'/>
+<title><data:view.archive.rangeMessage/> | <data:blog.title/></title>
+<b:elseif cond='data:view.isError'/>
+<title>404 | <data:blog.title/></title>
+</b:if>
+<b:include data='blog' name='all-head-content'/>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/1.7.1/jquery.min.js' type='text/javascript'/>
+
+
+<b:skin version='1.0.0'><![CDATA[
+
+html{color:#666;background:#eee;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}body{background:#eee}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td,hr,button,article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{margin:0;padding:0}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}ol,ul{list-style:none}em,i{font-style:normal;font-weight:500}img{border:0}audio,canvas,video{display:inline-block;*display:inline;*zoom:1}.row{*zoom:1}.row:before,.row:after{display:table;content:""}.row:after{clear:both}body,button,input,select,textarea{font:14px/1.5"Helvetica Neue",Helvetica,Arial,sans-serif}a{text-decoration:none;color:#fff;-webkit-transition:all .25s;-moz-transition:all .25s;-ms-transition:all .25s;transition:all .25s}a:hover{text-decoration:underline}strong,i,.bar,img,div{-webkit-transition:all .25s;-moz-transition:all .25s;-ms-transition:all .25s;transition:all .25s}#wh_head{background:#222 url(https://3.bp.blogspot.com/-bTEpxu0qHsQ/Wx9PqRVXllI/AAAAAAAAAiw/MUtZk02KQ8E-ujfPpuDFMaBRNUiDDiUIwCLcBGAs/s1600/topbg.png);left:0}.navbody{padding-left:260px}.navbody .mobile-nav{background-color:#fff;bottom:0;left:0;position:fixed;right:0;top:0;z-index:10;opacity: .9}.navbody .fixdx{-webkit-transform:translate3d(120px,0,0);transform:translate3d(120px,0,0);position:fixed}.logo{padding:20px;font-size:36px;font-weight:bold;text-align:center;text-transform:uppercase;position:relative}.logo a{width:292px;height:50px;display:block;text-decoration:none;margin:0 auto;margin-top:-10px;overflow: hidden;}.logo h1{height:16px}.content{position:relative}.content_box,.topgames{}.autow .content_box{}#footer{text-align:center;color:#999;font-size:12px;padding:20px 20px 0;margin-top:20px}#footer a{color:#999}.index-c{margin:20px auto}.index-s{margin:20px auto 40px}.most_box{max-width:1200px;background:#999;color:#eee;position:relative;height:40px;margin:10px auto 0}.most_box h1, .most_box h2{font-size:14px;font-weight:400;line-height:40px}.mh{margin-top:15px;font-size:14px;font-weight:400;text-align:center}.most{position:absolute;left:0;top:0;color:#666}.most a, .most span{color:#999}.most a.current{color:#eee;text-decoration:underline}.apkmeta a{color:#666}.apkcode{width:120px;height:120px;position:absolute;right:10px;top:10px}.addinfo li{float:left;width:20%}.addinfo li strong{display:block}.addinfo li a{color:#31ae1f}.addinfo li div{padding:10px;border:1px solid #ddd;overflow:hidden;font-weight:400;text-overflow:ellipsis;white-space:nowrap}.content article{}.apkmeta{padding-left:60px;color:#666}.content article a.pic,.apkinfo{float:left}.content article.sac a.pic img{display:block;width:100px;height:100px}.apkinfo{line-height:138%;width:540px;padding:0 20px;position:relative}.apkimg, .apkimg img{width:380px;height:200px}.apktest{margin-top:10px}.votes{margin-top:5px;color:#666;position:relative}.votes a{color:#666;text-decoration:underline;margin-right:5px}.votes span.gvotes, .content article:hover span.gvotes{position:absolute;height:50px;width:50px;line-height:50px;left:20px;top:0;text-align:center;color:#eee;font-weight:700;font-size:16px}.content article div.apkbox{padding:20px;position:relative;background:#fff}.apkimg{float:right}.content article strong{margin-top:5px;display:block;font-weight:400;text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;}.content article strong a{color:#333;font-size:22px}.content article strong i{color:#999;font-size:14px;margin-left:5px;display:inline-block}.content article strong.sing{height:auto}.content article a:hover strong{top:80px}.content article span.edit-link a{color:#999;font-size:12px}.content article span img{vertical-align:-2px;margin:0 1px}.content article span i{-webkit-transform:scale(.8);font-size:10px;display:inline-block}.content article i{font-size:12px;color:#999;margin-top:10px;display:block}.content article:hover span, .content article:hover i{top:0}.post-ratings-loading{display:none;position:absolute;left:0;top:0;width:16px;height:16px;overflow:hidden}.post-ratings-loading img{vertical-align:top;margin-right:5px}.post-ratings{float:left}.post-ratings img{vertical-align:-1px;padding:0 2px 0 0}#comments{}#comments li,#respond{border-top:1px solid #e2e2e2;padding-top:10px;margin-top:10px}.comment time, .logged-in-as a{color:#aaa;font-size:12px}.logged-in-as a{}.main{max-width:1200px;margin:10px auto}.entry-title{}.comment strong{color:#81bb5a;font-size:18px}.center-google{height:280px;width:336px;background:#222;position:absolute;left:50%;margin-left:-168px;top:50%;margin-top:-140px}.flashLoading{position:absolute}.progress_box{background:#333;position:absolute;bottom:-20px;height:12px;width:100%}#myProgressBar{background:#eee;text-indent:-999em;height:12px}.game-test,#comments{padding:10px;position:relative;color:#999}.game-test h1{color:#333;line-height:28px;margin-bottom:3px;font-size:28px;font-weight:400}.controls{color:#999}.game-info{color:#666;margin-top:12px;float:left}.more-post{position:relative;padding:0 20px 20px;background:#fff}.more-post h3{color:#666;margin-bottom:5px}.more-post h4{margin-top:5px}.moreshow{cursor:pointer;color:#31ae1f;position:absolute;bottom:-9px;height:30px;width:100%;line-height:50px;background:linear-gradient(rgba(255, 255, 255, 0.0980392) 0px, rgb(255, 255, 255) 100%)}.moreshow:hover{text-decoration:underline}.more-show{}.oversions a{display:inline-block;background:url(https://1.bp.blogspot.com/-8CFyjeZdcb8/Wx9JTuKl4PI/AAAAAAAAAic/zzuyUipfXYYqt1bjkmL82GgCX1qdQ0F3ACLcBGAs/s1600/icon.png) no-repeat left 3px;padding-left:13px}.oversions a.GooglePlayVersion{background-position:left -24px}.oversions strong{display:block;font-weight:400;width:152px;text-align:center}.oversions img.gcode{border:1px solid #eee;margin-top:10px;width:150px;height:150px;background:#f5f5f5}.oversions{margin:20px 0}.addthis-tools{margin-top:15px}.game-img{float:left;width:200px}.game-img img{display:block;width:180px;height:180px}.image-wrapper{max-width:1160px;overflow:hidden;overflow-x:scroll;padding:20px 0 10px;background:#fff;border-left:20px solid #fff;border-right:20px solid #fff;border-bottom:20px solid #fff}.image-x{white-space:nowrap}.image-x img{max-width:500px;max-height:500px}.image-wrapper::-webkit-scrollbar{width:8px;height:8px}.image-wrapper::-webkit-scrollbar-track{box-shadow:1px 1px 5px rgba(0, 0, 0, .1) inset;background:#eee;border-radius:8px}.image-wrapper::-webkit-scrollbar-thumb{background-color:#aaa;border-radius:8px}.image-wrapper::-webkit-scrollbar-thumb:hover{background-color:#525252}.like-apk-file{text-align:center;background:#eee;padding:0 0 30px}.like-apk-file p{word-wrap:break-word;margin:12px 12px 0;line-height:100%}.like-apk-file a.freedow{border-radius:3px;transition:all .625s cubic-bezier(0, .8, .26, .99), opacity .05s linear;padding:15px 0 11px;max-width:380px;width:100%;margin:30px 0 0;color:#fff;display:inline-block;font-size:18px;background:#31ae1f}.like-apk-file a.freedow:hover{text-decoration:none;background:#272727}.like-apk-file p a{color:#ddd;margin-top:5px}.nav .lsin, .nav .logouts{display:none}.nav .usname{display:block}.top ul li.fblogin a:hover, .top ul li a.current, .nav_list .current-cat a{opacity:1;background-color:#31ae1f}.cencss{background:#111;margin-top:20px;padding:10px 0 20px}.nav_phone{position:absolute;left:20px;top:20px;cursor:pointer;opacity: .8;transition:all .16s;-webkit-transition:all .16s;width:55px;height:34px;z-index:9;background:#333 url(https://1.bp.blogspot.com/-8CFyjeZdcb8/Wx9JTuKl4PI/AAAAAAAAAic/zzuyUipfXYYqt1bjkmL82GgCX1qdQ0F3ACLcBGAs/s1600/icon.png) no-repeat}.nav_phone:hover{opacity:1}.nav_col{opacity:1}.nav_list{position:absolute;background:#222 url(https://3.bp.blogspot.com/-bTEpxu0qHsQ/Wx9PqRVXllI/AAAAAAAAAiw/MUtZk02KQ8E-ujfPpuDFMaBRNUiDDiUIwCLcBGAs/s1600/topbg.png);width:320px;list-style:none;z-index:888;text-align:left;left:-320px;top:79px;min-height:100%}.nav_list a{cursor:pointer;opacity: .8;line-height:50px;height:50px;color:#fff;border-bottom:1px solid #333;background-size:30px 30px;padding-left:60px;background-position:10px 10px;background-repeat:no-repeat}.nav_block{left:0}.nav_list a:hover{color:#fff;text-decoration:none;opacity:1}.nav_list li, .nav_list li a{display:block;float:none}.form-submit{margin-top:10px}#author,#comment,#email{border:0;background-color:#f5f5f5;padding:5px;width:98%;margin-bottom:5px;color:#333;font-size:14px;border:1px solid #ccc}#submit{border:0;padding:5px 0;width:120px;background:#81bb5a;color:#fff}.form-allowed-tags,#email-notes,.current_none{display:none}#commentform,.game-top{position:relative}#loading,#error{position:absolute;bottom:5px;left:130px}ol.children li{padding-left:50px}#searchform{transition:all .16s;-webkit-transition:all .16s}#searchsubmit{cursor:pointer;border:0;width:56px;height:50px;text-indent:-999em;background:#ccc url(https://1.bp.blogspot.com/-8CFyjeZdcb8/Wx9JTuKl4PI/AAAAAAAAAic/zzuyUipfXYYqt1bjkmL82GgCX1qdQ0F3ACLcBGAs/s1600/icon.png) no-repeat 8px -52px;position:absolute;right:0;top:0;border-left:2px solid #ccc}#s{line-height:30px;height:30px;border:0;width:100%;color:#999;background:#eee}.entry-content,.page-header{margin:0 auto;background:#fff;padding:20px;max-width:1160px}.screen-reader-text,.search_form{display:none}.nav_sblock{display:block}.search_form{width:100%;position:absolute;left:0;top:10px;z-index:1001}.search_form div{position:relative;margin:0 73px 10px 10px;padding:10px;background-color:#eee;border:2px solid #999}.nav_search{position:absolute;right:20px;top:20px;cursor:pointer;height:36px;opacity: .9;transition:all .16s;-webkit-transition:all .16s;width:38px;z-index:1002;background:url(https://1.bp.blogspot.com/-8CFyjeZdcb8/Wx9JTuKl4PI/AAAAAAAAAic/zzuyUipfXYYqt1bjkmL82GgCX1qdQ0F3ACLcBGAs/s1600/icon.png) no-repeat 0 -59px}.nav_search:hover{opacity:1}.nav_searchs{background-position:0 -124px;opacity:1;width:40px}.comments-f{min-height:200px;max-width:960px;margin:20px auto;padding:20px;background:#fff}.fb-box{position:absolute;right:0;bottom:0}.showposts li{display:inline-block;width:200px;text-align:center}.showposts li img{width:180px;height:180px;display:block}.showposts{text-align:center;margin-top:20px}.showposts strong{margin-top:5px;display:block;font-weight:400;height:45px;width:180px;overflow:hidden}.img_thumbnail{margin:40px 10px 0}.zipownload{position:relative}.zipownload i{border:2px solid #fff;position:absolute;right:50px;bottom:50px}.zipownload img{width:640px;height:480px}.gnonetop{margin:20px auto 0;padding:10px;background:#d4d4d4;max-width:928px}.qierba{}.qierba .gnonetop{margin:0 auto 20px;padding:0}.singright{float:right;width:200px;margin-left:20px}.singright .topgames{margin-left:0}.iphoneb a{color:#31ae1f;background:url(https://1.bp.blogspot.com/-8CFyjeZdcb8/Wx9JTuKl4PI/AAAAAAAAAic/zzuyUipfXYYqt1bjkmL82GgCX1qdQ0F3ACLcBGAs/s1600/icon.png) no-repeat left -213px;padding-left:11px}.iphoneb i{color:#666}.iphoneb{position:absolute;right:20px;bottom:0}.iphoneb p{}.most a.current-c{color:#ccc;text-decoration:none}.most a.current-c:hover{text-decoration:underline}p{margin-top:3px}.info-block{max-width:380px;margin:0 auto;width:100%}.file-info{float:left;text-align:left;width:280px}.filename{font-size:18px;color:#333}.block-view-file-type{background:url(https://2.bp.blogspot.com/-BM8-Zd3yARY/Wx9PqNd7hBI/AAAAAAAAAio/msOLIt-Y8ngPEn9n8qINFPYPbvHwCrdiQCLcBGAs/s1600/file.png) no-repeat;width:72px;height:82px;float:left;margin-right:20px}.cloud-with-arrow{background:url(https://1.bp.blogspot.com/-P10dCa5RFuA/Wx9PqFlueKI/AAAAAAAAAis/8OgYnvD0gKEGTV4rjxH4kGYZXC70LZMzwCLcBGAs/s1600/cloud.png) no-repeat;width:28px;height:25px;display:inline-block;margin-top:9px}.small-txt{color:#777;font-size:12px}.wp-pagenavi{margin-top:22px;text-align:center}.wp-pagenavi a, .wp-pagenavi .pages, .wp-pagenavi .current{margin:5px;padding:10px 30px;color:#fff;display:inline-block}.wp-pagenavi a{background-color:#31ae1f}.wp-pagenavi a:hover{color:#fff;background-color:#333;text-decoration:none}.wp-pagenavi .current, .wp-pagenavi .pages{background-color:#999}.wp-pagenavi i{margin:0 5px;color:#666}.content article{width:auto;max-width:1200px;margin:0 auto}.apkaadd{text-align:center}.main-box .votes{margin:5px 0}@media screen and (min-width: 780px) and (max-width: 3200px){}@media screen and (min-width: 960px) and (max-width: 1200px){.apkinfo{padding:0 0 0 20px;width:480px}.apkimg{float:left}.apktest{overflow:hidden;height:76px}.iphoneb{right:0}.showposts li{width:33%}.showposts li img, .showposts strong{width:95%;height:auto;display:inline-block}.showposts strong{height:45px}}@media screen and (min-width: 660px) and (max-width: 959px){.apkinfo{padding:0 0 0 20px;width:360px}.apkimg, .iphoneb i{display:none}.content article a.pic{}.apktest{overflow:hidden;height:96px}.iphoneb{right:0}.showposts li{width:33%}.showposts li img, .showposts strong{width:95%;height:auto;display:inline-block}.showposts strong{height:45px}.img_thumbnail{margin:10px 10px 0}}@media screen and (min-width: 460px) and (max-width: 659px){.post-ratings-loading{left:17px;top:25px}.votes span.gvotes, .content article:hover span.gvotes,.award_bg{left:0;top:10px}.apkinfo{padding:5px 0 40px;width:380px;height:auto}.apkimg{float:left}.iphoneb i{display:none}.apktest{}.apkimg, .apkimg img{width:380px;height:200px}.iphoneb{right:0}.showposts li{width:50%}.showposts li img, .showposts strong{width:95%;height:auto;display:inline-block}.showposts strong{height:45px}.img_thumbnail{margin:10px 10px 0}.content article strong i{margin-left:0}}@media screen and (min-width: 300px) and (max-width: 459px){.post-ratings-loading{left:17px;top:25px}.votes span.gvotes, .content article:hover span.gvotes,.award_bg{left:0;top:10px}#s{width:160px}.apkinfo{padding:5px 0 40px;width:260px;height:auto}.apkimg{float:left}.most i, .most span{display:none}.apktest{}.apkimg, .apkimg img{width:260px;height:136px}.iphoneb{right:0}.most_box h1, .most_box h2{display:block}.most_box{height:81px}.showposts li{width:50%}.showposts li img, .showposts strong{width:95%;height:auto;display:inline-block}.showposts strong{height:45px}.img_thumbnail{margin:10px 10px 0}.content article strong i{margin-left:0}}#wh_head{position:fixed;top:0;width:100%;z-index:999}.most a{line-height:40px;text-decoration:none;display:inline-block;width:96px;height:38px;border:1px solid #999;color:#fff;text-align:center}.most a:hover{background:#000;border:1px solid #000}.most a.current{background:#fff;text-decoration:none;color:#999;border-bottom:1px solid #fff}.most_box{position:relative}.smore{position:absolute;right:20px;top:12px}.content article strong i{margin:0}.like-apk-file a.freedow{max-width:400px}.Populargames .most_box{margin:0;max-width:100%;height:40px;color:#fff}.Populargames .most_box h2, .most_box h1{font-size:14px;line-height:40px;padding-left:20px}.Populargames{margin:10px auto 0;max-width:1200px}.main-box::-webkit-scrollbar{width:8px;height:8px}.main-box::-webkit-scrollbar-track{box-shadow:1px 1px 5px transparent inset;background:#fff;border-radius:8px}.main-box::-webkit-scrollbar-thumb{background-color:#fff;border-radius:8px}.main-box::-webkit-scrollbar-thumb:hover{background-color:#fff}.content .Populargames article span img, .action span img{width:16px;height:16px}.most i, .most span{display:none}.wp-pagenavi a, .wp-pagenavi .current, .wp-pagenavi i{display:none}.wp-pagenavi a.Prev, .wp-pagenavi a.Next{display:inline-block}.main-box{max-width:1180px;margin:0 auto;padding:10px;background:#fff;text-align:center}.main-box article{display:inline-block;max-width:auto;margin:0;width:12.2%;position:relative}.content .main-box article div.apkbox{padding:10px;margin:0;text-align:center}.content .main-box article div.apkbox:hover{background:rgba(0, 0, 0, .05)}.content .main-box article strong, .main-box .votes{padding-left:0}.content .main-box article strong a{font-size:14px;color:#333}.content .main-box article a.pic, .main-box .apkinfo{float:none;height:auto}.main-box .apkinfo{text-align:center;width:auto;margin:0 auto;padding:0}.content .main-box article a.pic img{display:block;width:100%}.content .main-box article strong{margin:5px 0 0}.content .main-box article .iphoneb a{-webkit-box-sizing:border-box;box-sizing:border-box;-webkit-transition:all .2s;transition:all .2s;background-image:none;padding:5px 0;color:#fff;display:block;background:#31ae1f;text-align:center;font-size:12px}.content .main-box article .iphoneb a:hover{background:#333;text-decoration:none}.content .main-box article .iphoneb{left:0;bottom:0;display:none;width:100%}.content .main-box article:hover .iphoneb{display:block}@media screen and (min-width: 0px) and (max-width: 1200px){.apkaadd,#DAPK{margin:0 20px}.Populargames{margin:10px 20px 0}.more-post,.image-wrapper{margin:0 20px}.comments-f{margin:0 20px}.Populargames .main-box .apkinfo{height:auto}.content article.sac,.modadd{margin:0 20px}.autow .content_box article{margin:0 auto 20px}.main-box{}.content .main-box article a.pic{display:block}.edit-link, .content .main-box article .iphoneb, .content .main-box article:hover .iphoneb{display:none}.autow .content_box .Populargames .main-box article{margin:0 auto}.main-box article{width:12.5%}.content article i{margin-top:5px}}@media screen and (min-width: 0px) and (max-width: 1000px){.content .main-box article strong a, .content .main-box article i{font-size:12px}.content .main-box article span img{width:12px;height:12px}.main-box .apkinfo{height:60px;line-height:100%}.main-box .votes{padding:0}.content .main-box article div.apkbox{margin:0}}@media screen and (min-width: 0px) and (max-width: 960px){.apkcode{display:none}.content .Populargames article span img{width:10px;height:10px}.addinfo li div{padding:5px}.addinfo li{width:50%}.addinfo li strong{display:inline-block;margin-right:10px}}@media screen and (min-width: 0px) and (max-width: 800px){.logo a{background-size:80%;background-position:center center}.content .main-box article div.apkbox{margin:2px 2px 0;padding:5px}}@media screen and (min-width: 0px) and (max-width: 660px){.content article strong i{display:none}.addinfo li strong{display:block}.logo a{background-size:80%;background-position:center center}.main-box article{width:25%}.votes span.gvotes, .content article:hover span.gvotes,.award_bg{display:none}.content article strong,.votes{padding-left:0}.iphoneb{text-align:center;width:100%}.iphoneb a{text-decoration:none;width:100%;display:inline-block;background:#31ae1f;color:#fff;background-image:none;padding:8px 0}.addthis-tools,.apktest{margin-bottom:5px}.content .main-box article span img{width:8px;height:8px}}@media screen and (min-width: 0px) and (max-width: 460px){.Populargames{margin:10px 10px 0}.autow .content_box article{margin:0 10px 20px}.qierba .content_box article,.more-post,.image-wrapper,.apkaadd,#DAPK,.comments-f,.modadd{margin:0 10px}.logo a{background-size:60%;background-position:center center;width:200px}.addinfo li strong{display:inline-block}.content article{margin:0;max-width:100%}.apkimg, .apkimg img{width:100%;height:100%}.apkinfo{width:100%}.content article div.apkbox{padding:10px}.main-box article{width:33%}.most_box{height:110px}.content .main-box article span img{width:9px;height:9px;vertical-align:2px}.Populargames .main-box article{margin:0;width:33%}}.like-apk-file p a span{display:block}.like-apk-file p a{transition:all .625s cubic-bezier(0, .8, .26, .99), opacity .05s linear;background:#666;border-radius:3px;background-image:none;padding:10px 0;max-width:400px;width:100%;text-decoration:none;display:inline-block}.like-apk-file p a:hover{background-color:#272727;color:#fff}li.bg-menu a{background-image:url(https://2.bp.blogspot.com/-BM8-Zd3yARY/Wx9PqNd7hBI/AAAAAAAAAio/msOLIt-Y8ngPEn9n8qINFPYPbvHwCrdiQCLcBGAs/s1600/file.png)}#b-section-PageList1{display:inline-block}h1,h2,h3,h4,h5{display:block;font-weight:700}h1{font-size:150%}h2{font-size:140%}h3{font-size:130%}h4{font-size:120%}h5{font-size:110%}table{width:100%}table th{color:#4285f4;border:1px solid rgba(0,0,0,0.12);text-align:left;vertical-align:top;font-size:18px}table td{border:1px solid rgba(0,0,0,0.12);text-align:left;vertical-align:top}table caption{border:none;font-style:italic}th{font-weight:700}td,th{padding:8px;line-height:1.42857143;vertical-align:top;text-align:left;border:1px solid rgba(0,0,0,0.12)}table.striped tr:nth-child(even)>td{background-color:#f2f2f2}table.dark tr,table.dark th{background-color:#212529;color:#fff}table.dark.striped tr:nth-child(even) > td,table.dark.striped tr>th{background-color:rgba(255,255,255,.05)}table.tr-caption-container{width:auto}table.tr-caption-container td{padding:8px;background:#fff!important}table.tr-caption-container td a{margin:0!important}.post ol, .post ul{display:block;-webkit-margin-before:1em;-webkit-margin-after:1em;-webkit-margin-start:0;-webkit-margin-end:0;-webkit-padding-start:40px}.post ol li{list-style-type:decimal;padding-left:5px}.post ul li{list-style-type:square;padding-left:5px}code,pre{font-family:Menlo,Monaco,Consolas,"Courier New",monospace;font-size:16px;color:rgba(0,0,0,.8)}pre{background:#efefef;margin:16px 0;white-space:pre-wrap;margin:10px 0;padding:10px 15px;border:1px solid #ddd}code{line-height:inherit;word-break:break-all;word-wrap:break-word}blockquote{border-left:2px solid #2196f3;font-family:Georgia,Times,"Times New Roman",serif;margin:16px 0;padding-left:16px}hr{border-top:1px solid rgba(0,0,0,0.12);display:block;margin-bottom:16px;width:100%}p{margin:0;margin-bottom:16px}small{color:rgba(0,0,0,0.54);vertical-align:bottom}figcaption{font-family:Georgia,Times,"Times New Roman",serif}u{text-decoration:underline}s{text-decoration:line-through}sup{font-size:14px;vertical-align:super}sub{font-size:14px;vertical-align:sub}mark{background:#ffeb3b}hr{border-top:1px solid rgba(0,0,0,0.12);display:block;margin-bottom:16px;width:100%}img{height:auto;max-width:100%;vertical-align:baseline}.post-body{word-wrap:break-word}
+
+]]></b:skin>
+
+<b:if cond='data:view.isSingleItem'>
+<style type='text/css'>.like-apk-file .llbb .boxac{margin:20px 12px 0;}.like-apk-file .llbb .hv{border:1px solid #ccc; cursor: pointer;transition: all 0.625s cubic-bezier(0, 0.8, 0.26, 0.99), opacity 0.05s linear;background:#eee url(../media/img/icon.png?v=2017091502) no-repeat right -180px;border-radius:3px;padding:10px 0;max-width: 398px;width: 100%;text-decoration: none;display:inline-block;}.like-apk-file p a{padding: 20px 0;}.like-apk-file a.freedow{padding: 20px 0 18px;}.commentlist .comment-reply-link,#cancel-comment-reply-link {color:#999;font-size:12px;}
+.like-apk-file .llbb .hvls, .commentlist .edit-link, .comment-edit-link {display:none;}.like-apk-file .llbb .hv_sblock {display:block;} .like-apk-file .llbb .hv:hover {background-color:#ddd;}.like-apk-file .llbb .hvs{background-position:right -222px;}.image-x img{max-height: 450px; }.image-x{text-align:center;}.main {max-width: 1000px;}
+.bdd .likead{padding: 0 30px;max-width: 300px;width: 100%;height: 60px;background: #34ba44;color: white;font-size: 22px;font-weight: bold;font-family: inherit;display:block;}.content article.sac a.pic img{width:55px;height:55px;}ul.children li {padding-left: 50px;}
+.bdd{position: absolute;right: 100px;top: 26px;max-width: 280px;}.more-post{padding: 15px 20px 20px;}.like-apk-file p a span{padding: 0 10px;}.apkcode{width:80px;height:80px;}#comments{color:#666;padding:0;}#author, #comment, #email{margin-bottom:0;}.comment-form-email{margin-top:8px;}.addthis-tools {height: 37px;margin: 0;background: #e5e5e5;padding: 12px 0 6px;text-align: center;}
+.apkinfo{width: auto;padding:0 0 0 20px;}.apkimg,.like-apk-file a.phone,.btn2apk{display:none;}.iphoneb{right: 0;}.img_thumbnail{margin: 0px 10px 0;}.sbox {position:relative;margin-top:40px;}.showposts{margin-top: 10px;}.sbox h3 {margin:0 10px;}.showposts strong{line-height:120%;}
+@media screen and (min-width:960px) and (max-width:1200px){.apkimg{display:block;}.apkinfo{width: 480px;}.apktest{height: 56px;}}
+@media screen and (min-width:660px) and (max-width:959px){.apkinfo{width: 460px;}.apktest{height: 56px;}}
+@media screen and (min-width:460px) and (max-width:659px){.apkimg{display:block;}.apkinfo{width: auto;height: auto;float: left;}.apktest{}.content article strong i{display:inline-block;}}
+@media screen and (min-width:300px) and (max-width:459px){.apkimg{display:block;}.apkinfo{width: auto;height: auto;float: left;}.apktest{}}
+@media screen and (min-width: 0px) and (max-width: 580px){.addthis-tools{margin-top:10px;}.sac .apkinfo{padding: 0;float:none;}.content article.sac a.pic,.post-ratings{float:none;}.addinfo li span{float:right;}.more-post{padding: 15px 10px 20px;}.addinfo li{margin-top: -1px;width: 100%;}.like-apk-file a.freedow{width: auto;margin: 0 auto 10px;display: block;}.like-apk-file{padding-top:40px;}.post-ratings-loading{position: inherit;left: 0;top: 0;margin: 0 auto;}.content article strong i{display:block;}
+.content article a.pic img {margin: 0 auto;}.content article strong.sing{margin: 10px 0 4px;text-align: center;}.post-ratings,.addinfo li strong{display:inline-block;}.votes,.addthis-tools{text-align: center;} li.saner{display:none;}}
+.like-apk-file p a{margin: 0;}.more-post a {color:#31ae1f;}
+@media screen and (min-width:0px) and (max-width:1024px){.bdd{display:none;}.like-apk-file a.phone{}.like-apk-file a.googlephone{}.btn2apk{display:block;}.image-x img{max-height: 200px;}#goTop{right: -999px;}
+.bdd .likead{position: static;right: 0;bottom: 0;}.bdd{width: 100%;float: left;margin: 20px 0 10px;}}
+@media screen and (min-width: 0px) and (max-width: 420px) {.like-apk-file a.freedow{display: block;width: auto;margin: 0 12px 10px;}}
+.like-apk-file a.freedow span{display:block;padding:0 10px;}.edit-link {margin-left:10px;}.like-apk-file a.googlephone span i{font-weight: bold;}
+.more-show  h3{margin-bottom:0;}.more-show p {margin-top:9px;}.image-x img{max-width:380px;}
+</style>
+</b:if>
+
+</head>
+<body>
+
+<div class='mobile-nav'/>
+<div id='wh_head'>
+<div class='logo'>
+<a href='/'><data:blog.title/></a>
+</div>
+<div class='nav_phone'/>
+<div class='nav_search'/>
+<div class='search_form' itemscope='' itemtype='https://schema.org/WebSite'>
+<meta expr:content='data:view.url.canonical' itemprop='url'/>
+<form action='/search' class='searchform' id='searchform' itemprop='potentialAction' itemscope='itemscop' itemtype='https://schema.org/SearchAction' method='get' role='search'>
+<meta content='/search?q={q}' itemprop='target'/>
+<div>
+<input id='s' itemprop='query-input' name='q' placeholder='Search...' type='text' value=''/>
+<button id='searchsubmit' type='submit'>Search</button>
+</div>
+</form>
+</div>
+<script type='text/javascript'>
+$(document).ready(function(){$(&quot;.nav_phone&quot;).click(function(){$(&quot;.nav_phone&quot;).toggleClass(&quot;nav_col&quot;);$(&quot;.nav_list&quot;).toggleClass(&quot;nav_block&quot;);$(&quot;body&quot;).toggleClass(&quot;navbody&quot;);});});
+</script>
+<script type='text/javascript'>
+$(document).ready(function(){$(&quot;.nav_search&quot;).click(function(){$(&quot;.nav_search&quot;).toggleClass(&quot;nav_searchs&quot;);$(&quot;.search_form&quot;).toggleClass(&quot;nav_sblock&quot;);});});
+</script>
+</div>
+<b:section id='b-section-Label1' maxwidgets='1' showaddelement='no'>
+  <b:widget id='Label1' locked='true' title='Label Menu' type='Label' version='2' visible='true'>
+    <b:widget-settings>
+      <b:widget-setting name='sorting'>ALPHA</b:widget-setting>
+      <b:widget-setting name='display'>LIST</b:widget-setting>
+      <b:widget-setting name='selectedLabelsList'/>
+      <b:widget-setting name='showType'>USER_SELECTED</b:widget-setting>
+      <b:widget-setting name='showFreqNumbers'>false</b:widget-setting>
+    </b:widget-settings>
+    <b:includable id='main' var='this'>
+<div class='nav_list' itemscope='itemscope' itemtype='http://schema.org/SiteNavigationElement' role='navigation'>
+<ul class='row'>
+<li class='bg-menu'>
+<a href='/'>Home</a>
+</li>
+<b:loop values='data:labels' var='label'>
+<li class='bg-menu'>
+<a expr:href='data:label.url + &quot;?max-results=16&quot;' expr:title='data:label.name' itemprop='url'>
+<span itemprop='name'><data:label.name/></span> 	
+</a>
+</li>
+</b:loop>
+</ul>
+</div>
+</b:includable>
+    <b:includable id='cloud'/>
+    <b:includable id='content'/>
+    <b:includable id='list'/>
+  </b:widget>
+</b:section>
+<div class='fixdx'>
+<div class='apkaadd' style='border-top:0;max-width:100%;margin:89px 0 0;'/>
+<div class='content row autow'>
+<div class='content_box row'>
+<b:section id='b-section-PopularPosts1' maxwidgets='1' showaddelement='no'>
+  <b:widget cond='data:view.isHomepage' id='PopularPosts1' locked='true' title='PopularPosts' type='PopularPosts' version='2' visible='true'>
+    <b:widget-settings>
+      <b:widget-setting name='numItemsToShow'>8</b:widget-setting>
+      <b:widget-setting name='showThumbnails'>true</b:widget-setting>
+      <b:widget-setting name='showSnippets'>true</b:widget-setting>
+      <b:widget-setting name='timeRange'>ALL_TIME</b:widget-setting>
+    </b:widget-settings>
+    <b:includable id='main' var='this'>
+<div class='Populargames'>
+<div class='most_box'>
+<h2 class='inx'><data:title/></h2>
+</div>
+<div class='main-box row'>
+<b:loop values='data:posts' var='post'>
+<article>
+<div class='row apkbox'>
+<a class='pic' expr:href='data:post.link ? data:post.link : data:post.url' expr:title='data:post.title ? data:post.title : data:messages.noTitle'>
+<img expr:alt='data:post.title ? data:post.title : data:messages.image' expr:src='data:post.featuredImage ? resizeImage(data:post.featuredImage, 127, &quot;127:127&quot;) : &quot;https://placehold.it/127x127/777/eee?text=&quot; + data:blog.title + &quot;&quot;' expr:title='data:post.title ? data:post.title : data:messages.image'/>
+</a>
+<div class='apkinfo'>
+<strong>	
+<a expr:href='data:post.url' expr:title='data:post.title ? data:post.title : data:messages.noTitle'>
+<b:eval expr='data:post.title ? data:post.title : data:messages.noTitle'/>
+</a>
+</strong>
+<i><b:eval expr='format(data:post.date, &quot;YYYY-MM-d&quot;)'/></i>
+</div>
+</div>
+</article>
+</b:loop>
+</div>
+</div>
+</b:includable>
+    <b:includable id='snippetedPostByline'/>
+    <b:includable id='snippetedPosts'/>
+  </b:widget>
+  <b:widget id='Blog1' locked='true' title='Blog Posts' type='Blog' version='2' visible='true'>
+    <b:widget-settings>
+      <b:widget-setting name='commentLabel'>komentar</b:widget-setting>
+      <b:widget-setting name='showShareButtons'>true</b:widget-setting>
+      <b:widget-setting name='authorLabel'>Oleh</b:widget-setting>
+      <b:widget-setting name='style.unittype'>TextAndImage</b:widget-setting>
+      <b:widget-setting name='timestampLabel'/>
+      <b:widget-setting name='reactionsLabel'>Reaksi:</b:widget-setting>
+      <b:widget-setting name='showAuthorProfile'>false</b:widget-setting>
+      <b:widget-setting name='style.layout'>1x1</b:widget-setting>
+      <b:widget-setting name='showLocation'>true</b:widget-setting>
+      <b:widget-setting name='showTimestamp'>true</b:widget-setting>
+      <b:widget-setting name='postsPerAd'>1</b:widget-setting>
+      <b:widget-setting name='style.bordercolor'>#ffffff</b:widget-setting>
+      <b:widget-setting name='backlinksLabel'>Link ke posting ini</b:widget-setting>
+      <b:widget-setting name='showDateHeader'>false</b:widget-setting>
+      <b:widget-setting name='style.textcolor'>#000000</b:widget-setting>
+      <b:widget-setting name='showCommentLink'>false</b:widget-setting>
+      <b:widget-setting name='style.urlcolor'>#008000</b:widget-setting>
+      <b:widget-setting name='postLocationLabel'>Lokasi:</b:widget-setting>
+      <b:widget-setting name='showAuthor'>true</b:widget-setting>
+      <b:widget-setting name='style.linkcolor'>#0000ff</b:widget-setting>
+      <b:widget-setting name='style.bgcolor'>#ffffff</b:widget-setting>
+      <b:widget-setting name='showLabels'>true</b:widget-setting>
+      <b:widget-setting name='postLabelsLabel'/>
+      <b:widget-setting name='showBacklinks'>true</b:widget-setting>
+      <b:widget-setting name='showInlineAds'>false</b:widget-setting>
+      <b:widget-setting name='showReactions'>true</b:widget-setting>
+    </b:widget-settings>
+    <b:includable id='main' var='this'>
+<b:comment>var=&#39;this&#39; digunakan untuk mengirim setiap data allBylineItems agar bisa terbaca</b:comment>		
+<b:include name='article.loop'/>
+</b:includable>
+    <b:includable id='aboutPostAuthor'/>
+    <b:includable id='addComments'/>
+    <b:includable id='article.loop'>
+<b:if cond='data:view.isMultipleItems'>
+<b:include name='article.loop.index'/>
+<b:else/>
+<b:include name='article.loop.post'/>
+</b:if>
+</b:includable>
+    <b:includable id='article.loop.index'>
+<div class='Populargames'>
+<div class='most_box'>
+<h2 class='inx'>
+<b:if cond='data:view.isHomepage'>
+<data:messages.latestPosts/>
+<b:else/>
+<data:blog.pageName/>
+</b:if>
+</h2>
+</div>
+<div class='main-box row blog-posts post'>
+<b:loop values='data:posts' var='post'>
+<article itemscope='itemscope' itemtype='https://schema.org/BlogPosting'>
+<b:include name='article.schema'/>
+<div class='row apkbox'>
+<a class='pic' expr:href='data:post.link ? data:post.link : data:post.url' expr:title='data:post.title ? data:post.title : data:messages.noTitle'>
+<img expr:alt='data:post.title ? data:post.title : data:messages.image' expr:src='data:post.featuredImage ? resizeImage(data:post.featuredImage, 127, &quot;127:127&quot;) : &quot;https://placehold.it/127x127/777/eee?text=&quot; + data:blog.title + &quot;&quot;' expr:title='data:post.title ? data:post.title : data:messages.image'/>
+</a>
+<div class='apkinfo'>
+<strong>	
+<a expr:href='data:post.url' expr:title='data:post.title ? data:post.title : data:messages.noTitle'>
+<b:eval expr='data:post.title ? data:post.title : data:messages.noTitle'/>
+</a>
+</strong>
+<i><b:eval expr='format(data:post.date, &quot;YYYY-MM-d&quot;)'/></i>
+</div>
+</div>
+</article>
+</b:loop>
+</div>
+</div>
+<b:include name='article.pagination'/>
+</b:includable>
+    <b:includable id='article.loop.post'>
+<div class='content_box main row post' itemscope='itemscope' itemtype='https://schema.org/Blog'>
+<b:loop values='data:posts' var='post'>
+<article class='sac' itemprop='blogPost' itemscope='itemscope' itemtype='https://schema.org/BlogPosting'>
+<b:include name='article.schema'/>
+<div class='row apkbox'>
+<a class='pic' expr:href='data:post.link ? data:post.link : data:post.url' expr:title='data:post.title ? data:post.title : data:messages.noTitle'>
+<img expr:alt='data:post.title ? data:post.title : data:messages.image' expr:src='data:post.featuredImage ? resizeImage(data:post.featuredImage, 55, &quot;55:55&quot;) : &quot;https://placehold.it/55x55/777/eee?text=&quot; + data:blog.title + &quot;&quot;' expr:title='data:post.title ? data:post.title : data:messages.image'/>
+</a>
+<div class='apkinfo'>
+<h1><strong class='sing'><a href='javascript:void(0);'><b:eval expr='data:post.title ? data:post.title : data:messages.noTitle'/></a> <i><b:eval expr='format(data:post.date, &quot;YYYY-MM-d&quot;)'/></i></strong></h1>
+
+<div class='votes row'>
+<b:if cond='data:this.allBylineItems.labels'>
+<b:if cond='data:post.labels and !data:post.labels.empty and data:this.allBylineItems.labels'>
+<b:loop values='data:post.labels limit 3' var='label'>
+<a expr:href='data:label.url + &quot;?max-results=8&quot;' expr:title='data:label.name' rel='category tag'><data:label.name/></a>
+</b:loop>
+<b:else/>
+<span>Unlabelled</span>
+</b:if>
+</b:if>
+</div>
+
+</div>
+</div>
+</article>
+<div class='more-post' style='padding-top:0;'>
+<data:post.body/>
+</div>
+</b:loop>
+</div>
+</b:includable>
+    <b:includable id='article.pagination'>
+<b:if cond='not data:view.isSingleItem'>
+<b:if cond='data:olderPageUrl'>
+<div class='linkloadmore wp-pagenavi'>
+<div id='linkloadmore' style='display:inline-block'>
+<a class='Next' expr:href='data:olderPageUrl' expr:id='data:widget.instanceId + &quot;_pagination-old&quot;' expr:title='data:messages.olderPosts'>
+<span>Load More</span>
+</a>
+</div>
+</div>
+</b:if>	
+</b:if>
+</b:includable>
+    <b:includable id='article.schema'>
+<b:with value='&quot;https://placehold.it/800x600/222/eee?text=&quot; + data:blog.title + &quot;&quot;' var='imageLogo'>
+<b:include name='article.microdata'/>
+</b:with>
+</b:includable>
+    <b:includable id='commentAuthorAvatar'/>
+    <b:includable id='commentDeleteIcon'/>
+    <b:includable id='commentForm'/>
+    <b:includable id='commentFormIframeSrc'/>
+    <b:includable id='commentItem'/>
+    <b:includable id='commentList'/>
+    <b:includable id='commentPicker'/>
+    <b:includable id='comments'/>
+    <b:includable id='commentsTitle'/>
+    <b:includable id='feedLinks'/>
+    <b:includable id='feedLinksBody'/>
+    <b:includable id='homePageLink'/>
+    <b:includable id='iframeComments'/>
+    <b:includable id='inlineAd'/>
+    <b:includable id='nextPageLink'/>
+    <b:includable id='post'/>
+    <b:includable id='postBody'/>
+    <b:includable id='postBodySnippet'/>
+    <b:includable id='postCommentsAndAd'/>
+    <b:includable id='postCommentsLink'/>
+    <b:includable id='postFooter'/>
+    <b:includable id='postFooterAuthorProfile'/>
+    <b:includable id='postHeader'/>
+    <b:includable id='postJumpLink'/>
+    <b:includable id='postMeta'/>
+    <b:includable id='postPagination'/>
+    <b:includable id='postTitle'/>
+    <b:includable id='previousPageLink'/>
+    <b:includable id='status-message'/>
+    <b:includable id='threadedCommentForm'/>
+    <b:includable id='threadedCommentJs'/>
+    <b:includable id='threadedComments'/>
+  </b:widget>
+  <b:widget cond='data:view.isPost' id='PopularPosts2' locked='true' title='PopularPosts' type='PopularPosts' version='2' visible='true'>
+    <b:widget-settings>
+      <b:widget-setting name='numItemsToShow'>10</b:widget-setting>
+      <b:widget-setting name='showThumbnails'>true</b:widget-setting>
+      <b:widget-setting name='showSnippets'>true</b:widget-setting>
+      <b:widget-setting name='timeRange'>ALL_TIME</b:widget-setting>
+    </b:widget-settings>
+    <b:includable id='main' var='this'>
+<div class='Populargames main'>
+<div class='most_box'>
+<h2 class='inx'><data:title/></h2>
+</div>
+<div class='main-box row'>
+<b:loop values='data:posts' var='post'>
+<article>
+<div class='row apkbox'>
+<a class='pic' expr:href='data:post.link ? data:post.link : data:post.url' expr:title='data:post.title ? data:post.title : data:messages.noTitle'>
+<img expr:alt='data:post.title ? data:post.title : data:messages.image' expr:src='data:post.featuredImage ? resizeImage(data:post.featuredImage, 127, &quot;127:127&quot;) : &quot;https://placehold.it/127x127/777/eee?text=&quot; + data:blog.title + &quot;&quot;' expr:title='data:post.title ? data:post.title : data:messages.image'/>
+</a>
+<div class='apkinfo'>
+<strong>	
+<a expr:href='data:post.url' expr:title='data:post.title ? data:post.title : data:messages.noTitle'>
+<b:eval expr='data:post.title ? data:post.title : data:messages.noTitle'/>
+</a>
+</strong>
+<i><b:eval expr='format(data:post.date, &quot;YYYY-MM-d&quot;)'/></i>
+</div>
+</div>
+</article>
+</b:loop>
+</div>
+</div>
+</b:includable>
+    <b:includable id='snippetedPostByline'/>
+    <b:includable id='snippetedPosts'/>
+  </b:widget>
+</b:section>
+</div>
+</div>
+<footer id='footer'><data:blog.title/> 2017
+<b:section id='b-section-PageList1' maxwidgets='1' showaddelement='no'>
+   <b:widget id='PageList1' locked='true' title='Pages' type='PageList' version='2' visible='true'>
+     <b:widget-settings>
+       <b:widget-setting name='pageListJson'><![CDATA[{'link0': {'href': 'https://pungliapk.blogspot.com/', 'title': 'New MOD APK Site', 'position': 0}}]]></b:widget-setting>
+       <b:widget-setting name='homeTitle'>Home</b:widget-setting>
+     </b:widget-settings>
+     <b:includable id='main'>
+<b:loop values='data:links' var='link'>
+<i> &#183; </i>
+<a expr:href='data:link.href' expr:title='data:link.title'>
+<data:link.title/>
+</a>
+</b:loop>
+</b:includable>
+     <b:includable id='content'/>
+     <b:includable id='overflowButton'/>
+     <b:includable id='overflowablePageList'/>
+     <b:includable id='pageLink'/>
+     <b:includable id='pageList'/>
+   </b:widget>
+ </b:section>
+</footer>
+</div>
+
+<b:section id='reset'>
+  <b:widget id='HTML1' locked='false' title='' type='HTML' version='2' visible='false'>
+    <b:widget-settings>
+      <b:widget-setting name='content'>&lt;script type=&quot;text/javascript&quot;&gt;
+var setting = {
+pageurl : &quot;https://business.irfaandemmy.com/p/out.html&quot;,
+pengecualianstatus : true,
+pengecualian : &quot;google.com,twitter.com,javascript:;,mailto:&quot;,
+hanyauntukstatus : false,
+hanyauntuk : &quot;githubusercontent.com&quot;,
+path : &quot;#link?from=&quot;
+};	
+&lt;/script&gt;
+
+&lt;script type=&quot;text/javascript&quot; src=&#39;https://min.gitcdn.link/repo/irfaanprogrammer/bloggercode/master/js/crypto.js&#39;&gt;&lt;/script&gt;
+
+&lt;script type=&quot;text/javascript&quot; src=&#39;https://min.gitcdn.link/repo/irfaanprogrammer/bloggercode/25e2c6011e4fec887aa622a0afe60cb3d95752b5/js/replacelink.js&#39;&gt;&lt;/script&gt;</b:widget-setting>
+    </b:widget-settings>
+    <b:includable id='main'>
+<b:include name='widget-title'/>
+<div class='widget-content'>
+<data:content/>
+</div>
+</b:includable>
+  </b:widget>
+</b:section>
+
+<style type='text/css'>#goTop{width:50px;height:50px;position: fixed;bottom: 20px;right: 20px;z-index: 3;display:none;cursor: pointer;}#goTop img {width:50px;height:50px;opacity: 0.37;} #goTop img:hover{opacity:0.72}@media screen and (min-width:300px) and (max-width:400px){#goTop{right:-100px;}}</style>
+<script>
+//<![CDATA[
+$('#linkloadmore').on('click',function(event){event.preventDefault();var elload=$("#Blog1_pagination-old");var link=elload.attr('href');var alreadyClicked=elload.data('clicked');if(alreadyClicked){return false;} elload.data('clicked',true);$('#linkloadmore a span').html('Loading...');$.get(link,function(data){var source=$(data).find('.blog-posts').length?$(data):$('<div></div>');$(".blog-posts").append(source.find('.blog-posts').html());var clone=source.find('#Blog1_pagination-old').clone();if(clone.html()===undefined){$(".linkloadmore").html('<div class="alert alert-warning"><i class="fa fa-info-circle fa-fw"/>Empty Post</div>');}else{$("#linkloadmore").html(clone);} elload.data('clicked',false);},"html");})
+
+$(function(){var $goTop=$('<div id="goTop"><img title="Back to Top" src="https://2.bp.blogspot.com/-Hjagi6FjUEs/Wx9cMCctoJI/AAAAAAAAAjA/S59iPJia7OorCVnGzKCAuo6GgD7L7NQ0ACLcBGAs/s1600/icontop.png" alt="Icon backtotop"/></div>').appendTo('body');$(window).scroll(function(){if($(this).scrollTop()!=0){$goTop.fadeIn()}else{$goTop.fadeOut()}});$goTop.click(function(){$('body, html').animate({scrollTop:0},300)})});
+//]]>
+</script>
+
+<b:defaultmarkups>
+<b:defaultmarkup type='Common'>
+<b:includable id='article.microdata'>
+<meta expr:content='data:post.title ? data:post.title : data:messages.noTitle' itemprop='name headline'/>
+<meta expr:content='data:post.link ? data:post.link : data:post.url' itemprop='mainEntityOfPage'/>
+<span itemprop='image' itemscope='itemscope' itemtype='https://schema.org/ImageObject'>
+<b:if cond='data:post.featuredImage'>
+<meta expr:content='resizeImage(data:post.featuredImage, 640, &quot;640:240&quot;)' itemprop='url'/>
+<b:else/>
+<meta expr:content='resizeImage(data:imageLogo, 320, &quot;320:320&quot;)' itemprop='url'/>
+</b:if>
+<meta content='640' itemprop='width'/>
+<meta content='240' itemprop='height'/>
+</span>
+<b:if cond='data:this.allBylineItems.timestamp'>	
+<meta expr:content='data:post.date.iso8601' itemprop='datePublished'/>
+<meta expr:content='data:post.lastUpdated.iso8601' itemprop='dateModified'/>
+</b:if>
+<b:if cond='data:view.isSingleItem'>
+<meta expr:content='data:post.snippets.long snippet { length: 150, links: false, linebreaks: false, ellipsis: false }' itemprop='description'/>
+</b:if>
+<span itemprop='publisher' itemscope='itemscope' itemtype='https://schema.org/Organization'>
+<meta expr:content='data:blog.title' itemprop='name'/>
+<span itemprop='logo' itemscope='itemscope' itemtype='https://schema.org/ImageObject'>
+<meta expr:content='resizeImage(data:imageLogo, 320, &quot;320:320&quot;)' itemprop='url'/>
+<meta content='320' itemprop='width'/>
+<meta content='320' itemprop='height'/>
+</span>
+</span>	
+<span itemprop='author' itemscope='itemscope' itemtype='https://schema.org/Person'>
+<meta expr:content='data:post.author.profileUrl' itemprop='url' rel='author'/>
+<meta expr:content='data:post.author.name' itemprop='name'/>
+</span>
+</b:includable>
+</b:defaultmarkup>
+</b:defaultmarkups>
+
+</body>
+</html>

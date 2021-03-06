@@ -1,0 +1,16 @@
+<table style="width: auto;">
+	<thead>
+		<th width="200">Alias</th>
+		<th>Keterangan</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>wowthemes</td>
+			<td>Untuk Source Kode yang sangat bagus</td>
+		</tr>
+		<tr>
+			<td>mankoin</td>
+			<td>Untuk Source Kode custom komentar bloggernya yang sudah di fix</td>
+		</tr>				
+	</tbody>
+</table>

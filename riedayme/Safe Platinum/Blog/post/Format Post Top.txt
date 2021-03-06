@@ -1,0 +1,5 @@
+<div id="timer"></div>
+<div class="text-center">
+	<button id='getlink' class='btn bt-success hidden' disabled=''>Get Link</button>
+	<!-- iklan -->
+</div>

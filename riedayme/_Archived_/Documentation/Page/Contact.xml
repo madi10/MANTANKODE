@@ -1,0 +1,20 @@
+<form class="form-contact">
+<div>
+<label for="name">Name</label>
+<input id="ContactForm1000_contact-form-name" name="name" type="text" value="" />
+</div>
+<div>
+<label for="name">Email Address:</label>
+<input id="ContactForm1000_contact-form-email" name="name" type="text" value="" />
+</div>
+<div>
+<label for="textarea">Message:</label>
+<textarea id="ContactForm1000_contact-form-email-message" name="textarea"></textarea>
+</div>
+<input id="ContactForm1000_contact-form-submit" type="button" value="Submit" />
+
+<div id="ContactForm1000_contact-form-error-message">
+</div>
+<div id="ContactForm1000_contact-form-success-message">
+</div>
+</form>

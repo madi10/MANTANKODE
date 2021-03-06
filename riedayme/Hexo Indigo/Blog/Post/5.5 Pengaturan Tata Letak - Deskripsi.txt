@@ -1,0 +1,1 @@
+bagian pengaturan tata letak hexo indigo, halaman ini berisikan panduan pengaturan tata letak untuk mengatur template

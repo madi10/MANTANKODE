@@ -1,0 +1,142 @@
+<div class="table-responsive">
+<table id="example" class="display table table-bordered" cellspacing="0" width="100%"><thead>
+<tr> <th>Title</th> <th>Published</th> <th>Updated</th> <th>Label</th> <th>Option</th> </tr>
+</thead> <tbody id="LoadFeedsitemap"> </tbody> </table>
+</div>
+<div id="modal-article" class="modal fade" tabindex="-1">
+<div class="modal-dialog modal-lg">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal">&#215;</button> <h4 id='article-title' class="modal-title">
+</h4>
+</div>
+<div id='article-content' class="modal-body" >
+</div>
+<div class="modal-footer">
+<div class='modal-btn'>
+<button type="button" class="btn btn-danger" data-dismiss="modal"> <b class='fa fa-remove'></b> Close </button> </div>
+</div>
+</div>
+</div>
+</div>
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.16/css/jquery.dataTables.min.css"/>
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/responsive/2.2.0/css/responsive.dataTables.min.css">
+<script type="text/javascript" src='https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js'></script>
+<script type="text/javascript" src='https://cdn.datatables.net/responsive/2.2.0/js/dataTables.responsive.min.js'></script>
+<script type="text/javascript">
+function LoadFeedsitemap(jsonku){
+var maxjsonku = jsonku.feed.entry.length;
+var createarray = new Array();
+
+var monthformat = new Array();      
+monthformat[1] = "January", 
+monthformat[2] = "February", 
+monthformat[3] = "Maret", 
+monthformat[4] = "April", 
+monthformat[5] = "May", 
+monthformat[6] = "Juni", 
+monthformat[7] = "July", 
+monthformat[8] = "August", 
+monthformat[9] = "September", 
+monthformat[10] = "October", 
+monthformat[11] = "November", 
+monthformat[12] = "December"; 
+
+for (var i=0; i < maxjsonku; i++){
+var title = jsonku.feed.entry[i].title.$t;
+
+var published = jsonku.feed.entry[i].published.$t,
+yearpublished = published.substring(0, 4),
+monthpublished = published.substring(5, 7),
+daypublished = published.substring(8, 10),
+timepublished = published.substring(11, 16);
+
+var updated = jsonku.feed.entry[i].updated.$t,
+yearupdated = updated.substring(0, 4),
+monthupdated = updated.substring(5, 7),
+dayupdated = updated.substring(8, 10),
+timeupdated = updated.substring(11, 16);
+
+var link = jsonku.feed.entry[i].id.$t;
+link = link.substring(51,70);
+var label;
+for(var l=0;l < jsonku.feed.entry[i].category.length; l++){
+label = jsonku.feed.entry[i].category[l].term;               
+}
+var button = "<button id='button-article' class='btn btn-primary btn-xs' data-toggle='modal' data-target='#modal-article' data-id='"+link+"'><b class='glyphicon glyphicon-edit'></b> Lihat</button>";
+var toarray = "<tr><td>"+title+"</td><td data-order='"+yearpublished+"-"+monthpublished+"-"+daypublished+"'>"+daypublished + "-" + monthformat[parseInt(monthpublished,10)] + "-" + yearpublished +"</td><td data-order='"+yearupdated+"-"+monthupdated+"-"+dayupdated+"'>"+dayupdated + "-" + monthformat[parseInt(monthupdated,10)] + "-" + yearupdated +"</td><td>"+label+"</td><td>"+button+"</td></tr>";
+createarray[i] = toarray;
+
+}
+var html = "";
+for (var x=0;x < createarray.length;x++){
+html += createarray[x];
+}
+var id = document.getElementById('LoadFeedsitemap');
+id.innerHTML = html;
+}     
+
+//var index = ["1","151","301","451","601","751","901","1051"];
+var index = ["1"];
+for(var o=0;o < index.length;o++){
+document.write('<scr' + 'ipt src="/feeds/posts/summary?alt=json-in-script&amp;start-index='+index[o]+'&amp;max-results=150&amp;callback=LoadFeedsitemap"><\/scr' + 'ipt>');  
+}  
+
+$(document).ready(function() {
+$('#example').DataTable({
+'responsive': true,
+'order': [[1, 'desc']],
+"lengthMenu": [[5, 10, 25, 50, 100], [5, 10, 25, 50, "100"]],
+"pageLength": 5
+}); 
+}); 
+
+
+BlogID = "4537954353495502241";
+APIV3 = "https://www.googleapis.com/blogger/v3/blogs/";
+APIKEY = "AIzaSyBi9vbsvCCqJvWONvkDwliaK_io__sPwWc";
+
+function APIdelJSONsitemap(feedjson) {
+var supprimescript = document.getElementById(feedjson);
+if (supprimescript) {
+supprimescript.parentNode.removeChild(supprimescript);
+}
+}
+
+function APIuseJSONsitemap(PostID) {
+APIdelJSONsitemap('APIuseJSONsitemap');
+var callback = "extractPostsitemap";
+var fields = "content%2Clabels%2Ctitle%2Curl";
+var apiuri = APIV3 + BlogID + "/posts/" + PostID + "?key=" + APIKEY + "&callback=" + callback + "&fields=" + fields;
+var createScript = document.createElement('script');
+createScript.setAttribute('src', apiuri);
+createScript.setAttribute('id', 'APIuseJSONsitemap');
+createScript.setAttribute('type', 'text/javascript');
+(document.getElementsByTagName("head")[0] || document.getElementsByTagName("body")[0]).appendChild(createScript);
+}
+function extractPostsitemap(json){
+if (json.url === undefined) {
+var url = "";
+}else {
+var url = json.url;
+var title = json.title;
+var content = json.content;
+$('#article-title').html(title);
+$('#article-content').html(content);
+$('[data-toggle="tooltip"]').tooltip();
+for(var pres=document.querySelectorAll("blockquote,pre,mark"),i=0;i<pres.length;i++)pres[i].addEventListener("dblclick",function(){var e=getSelection(),t=document.createRange();t.selectNodeContents(this),e.removeAllRanges(),e.addRange(t)},!1);
+var names = $('[data-url]').map(function(event,element){
+var PostID = $(element).data('url');
+$(this).attr('onclick',"APIuseJSON('"+PostID+"')");
+}).get();
+}
+} 
+$(document).on('click', '#button-article', function(e){
+e.preventDefault();
+var url = $(this).data('id'); 
+var loading = "<img style='width:50px;margin:auto' src='https://1.bp.blogspot.com/-BVhntqN7bBM/V7dtVi3C0zI/AAAAAAAAmho/RrhY5vS_AX062VYgti9KH1kOX4uNPQRkQCPcB/s1600/loading.gif'/>"; 
+$('#article-content').html(loading);
+$('#article-title').html('Loading...');
+APIuseJSONsitemap(url);           
+}); 
+</script>

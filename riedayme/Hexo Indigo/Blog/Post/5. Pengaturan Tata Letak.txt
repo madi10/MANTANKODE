@@ -1,0 +1,40 @@
+<table style="width: auto;">
+	<thead>
+		<th width="200">Nama Widget</th>
+		<th>Keterangan</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Avatar URL</td>
+			<td>Widget untuk mengubah avatar atau gambar profil yang ada di bagian navigasi sidebar</td>
+		</tr>
+		<tr>
+			<td>Social Icon</td>
+			<td>widget untuk mengubah social icon yang ada di bagian navigasi sidebar</td>
+		</tr>
+		<tr>
+			<td>Navigation Post [Vertical] & Navigation Label [Vertical], Navigation Label [Horizontal]</td>
+			<td>widget untuk pengaturan menu navigasi secara otomatis berdasarkan label maupun page</td>
+		</tr>
+		<tr>
+			<td>Free HTML</td>
+			<td>widget kosong siapa tau terpakai</td>
+		</tr>
+		<tr>
+			<td>Redirect Link JS</td>
+			<td>ini adalah script auto safelink, anda bisa mengarahkannya ke halaman page</td>
+		</tr>
+		<tr>
+			<td>Navigation Pages [Footer]</td>
+			<td>widget untuk pengaturan menu navigasi secara otomatis berdasarkan label maupun page</td>
+		</tr>
+		<tr>
+			<td>Adblock Plugin</td>
+			<td>widget untuk blokir plugin adblock</td>
+		</tr>
+		<tr>
+			<td>Count View</td>
+			<td>widget untuk melihat jumlah pengujung dan jumlah halaman</td>
+		</tr>
+	</tbody>
+</table>

@@ -1,0 +1,8 @@
+<table style="width: auto;">
+<thead>
+<tr> <th>Template</th> <th>Link</th> </tr> 
+</thead>
+<tbody>
+<tr> <td>Safeplatinum</td> <td> <a href="https://safeplatinum.blogspot.com/" target="_blank">https://safeplatinum.blogspot.com</a> </td> </tr> <tr> <td>Mediumish</td> <td> <a href="https://mediumish.blogspot.com/" target="_blank">https://mediumish.blogspot.com</a> </td> </tr> 
+</tbody>
+</table>

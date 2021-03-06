@@ -1,0 +1,44 @@
+<table style="width: auto;">
+	<thead>
+		<th>Fitur</th>
+		<th>Keterangan</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Responsive</td>
+			<td>Tampilan mengikuti ukuran layar browser</td>
+		</tr>
+		<tr>
+			<td>Valid Schema.org</td>
+			<td>Navigasi, BlogPosting, Search, Breadcrumb</td>
+		</tr>
+		<tr>
+			<td>Pengaturan Melalui Tata Letak</td>
+			<td>Avatar, Social Icon, Menu Navigasi</td>
+		</tr>
+		<tr>
+			<td>Menu Navigasi</td>
+			<td>Berdasarkan Label, Page</td>
+		</tr>
+		<tr>
+			<td>Share Button</td>
+			<td>Tampilan index dan post berbeda</td>
+		</tr>
+		<tr>
+			<td>Related Post</td>
+			<td>Berdasarkan Label, Tidak terjadi Duplikat</td>
+		</tr>
+		<tr>
+			<td>Komentar Blogger</td>
+			<td>Tampilan Komentar bawaan blogger</td>
+		</tr>
+		<tr>
+			<td>Widget Iklan</td>
+			<td>Index Loop Post, Post Bagian Atas, Tengah, Bawah. Penempatan kode iklan bisa langsung di tata letak</td>
+		</tr>
+		<tr>
+			<td>Safelink Page</td>
+			<td>Bisa dibuat safelink pada halaman page beserta auto linknya (tanpa fitur enkripsi manual)</td>
+		</tr>
+	</tbody>
+</table>

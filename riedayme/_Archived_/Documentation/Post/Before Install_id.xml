@@ -1,0 +1,62 @@
+sebelum melakukan perubahan template anda harus mengatur informasi tentang blog anda ditemplate ini, seperti id googleplus, kode web master, dan sebagainya. untuk mengaturnya anda hanya harus mencari kalimat - kalimat dibawah ini dan menggantinya sesuai dengan informasi yang sesuai dengan blog anda. silahkan anda buka template ini dengan text editor untuk mencarinya.
+
+<table>
+<thead>
+<tr>
+<th>Informasi</th>
+<th>Kode</th>
+<th>Jumlah</th>
+<th>Contoh</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Google Veritification</td>			
+<td>xxxxxxxxxxxx_g_v_xxxxxxxxxxxxx</td>
+<td>1</td>
+<td>qUb4tch1MHFzRmcnbN2h4Cdp-EC51cvQMxLBZ3h9JKg</td>
+</tr>
+<tr>
+<td>Bing Vertification</td>
+<td>xxxxxxxxxxxx_b_v_xxxxxxxxxxxxx</td>
+<td>1</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Alexa Vertification</td>
+<td>xxxxxxxxxxxx_a_v_xxxxxxxxxxxxx</td>
+<td>1</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Google Plus ID</td>
+<td>xxxxxxxxxxxx_gp_id_xxxxxxxxxxxxx</td>
+<td>3</td>
+<td>110056268768116065742</td>
+</tr>
+<tr>
+<td>Facebook Fanspage URL</td>
+<td>xxxxxxxxxxxx_ff_url_xxxxxxxxxxxxx</td>
+<td>3</td>
+<td>https://www.facebook.com/kodeinblogger</td>
+</tr>
+<tr>
+<td>Facebook App ID</td>
+<td>xxxxxxxxxxxx_f_app_id_xxxxxxxxxxxxx</td>
+<td>1</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Twitter Username</td>
+<td>xxxxxxxxxxxx_twitter_username_xxxxxxxxxxxxx</td>
+<td>2</td>
+<td>@irfaandemmy</td>	
+</tr>
+<tr>
+<td>Logo Blog</td>	
+<td>xxxxxxxxxxxx_logo_xxxxxxxxxxxxx</td>
+<td>7</td>
+<td>path url logo</td>	
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html b:css='false' b:defaultwidgetversion='2' b:layoutsVersion='3' b:responsive='true' b:templateUrl='safeplatinum.xml' b:templateVersion='1.0' b:version='2' lang='en'><head>
+
+<!--  
+-->
+
+<meta content='IE=edge' http-equiv='X-UA-Compatible'/>
+<meta content='width=device-width, initial-scale=1' name='viewport'/>
+<title><data:view.title.escaped/></title>
+<b:include data='blog' name='all-head-content'/>
+
+<b:skin version='1.0.0'><![CDATA[ 
+
+	/**
+	*
+	* Blogger Template Documentation
+	* Name 			: Safe Platinum
+	* Date 			: 30 August 2017
+	* URL 			: safeplatinum.blogspot.com
+	* Version		: Premium Template v3 Version
+	* Created by	: Irfaan Programmer
+	* Message 		: Need Create Template ? Contact me fb.com/programmer.irfaan
+	* Dont Remove This Code ! Use you own Risk !
+	*/
+	layout {padding:50px}
+	body#layout {max-width:100%;}
+	#layout{min-width:0}	
+	#layout textarea {display:none}
+
+	/* CSS RESET */
+	html{box-sizing:border-box;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-size:100%;line-height:1;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}*,*:before,*:after{box-sizing:inherit;margin:0;padding:0;border:0;font-family:inherit;font-size:inherit;line-height:inherit;font-weight:inherit;font-style:inherit;vertical-align:baseline;background:transparent}img{max-width:100%;height:auto;border-style:none}a{color:currentColor;text-decoration:none}ol,ul{list-style:none}[type='button'],[type='color'],[type='date'],[type='datetime-local'],[type='email'],[type='file'],[type='month'],[type='number'],[type='password'],[type='range'],[type='reset'],[type='search'],[type='submit'],[type='tel'],[type='text'],[type='time'],[type='url'],[type='week'],select,textarea,button{border-radius:0;-webkit-appearance:none;-moz-appearance:none}::-webkit-input-placeholder{color:currentColor;opacity:.5}:-moz-placeholder{color:currentColor;opacity:.5}::-moz-placeholder{color:currentColor;opacity:.5}:-ms-input-placeholder{color:currentColor;opacity:.5}table,tr,th,td{border-collapse:collapse;border-spacing:0}.row{display:block;width:100%;margin:0 auto;clear:both}.row:before,.row:after{content:' ';display:table;clear:both}.row.left{float:left}.row.right{float:right}.row.xs{max-width:32rem}.row.sm{max-width:48rem}.row.md{max-width:64rem}.row.lg{max-width:80rem}.row.xl{max-width:96rem}.col{display:block;width:100%;float:left}.xs-0{display:none}.xs-1,.xs-2,.xs-3,.xs-4,.xs-5,.xs-6,.xs-7,.xs-8,.xs-9,.xs-10,.xs-11,.xs-12{display:block}.xs-1{width:8.3333%}.xs-2{width:16.6667%}.xs-3{width:25%}.xs-4{width:33.3333%}.xs-5{width:41.6667%}.xs-6{width:50%}.xs-7{width:58.3333%}.xs-8{width:66.6667%}.xs-9{width:75%}.xs-10{width:83.3333%}.xs-11{width:91.6667%}.xs-12{width:100%}@media (min-width:32em){.sm-0{display:none}.sm-1,.sm-2,.sm-3,.sm-4,.sm-5,.sm-6,.sm-7,.sm-8,.sm-9,.sm-10,.sm-11,.sm-12{display:block}.sm-1{width:8.3333%}.sm-2{width:16.6667%}.sm-3{width:25%}.sm-4{width:33.3333%}.sm-5{width:41.6667%}.sm-6{width:50%}.sm-7{width:58.3333%}.sm-8{width:66.6667%}.sm-9{width:75%}.sm-10{width:83.3333%}.sm-11{width:91.6667%}.sm-12{width:100%}}@media (min-width:48em){.md-0{display:none}.md-1,.md-2,.md-3,.md-4,.md-5,.md-6,.md-7,.md-8,.md-9,.md-10,.md-11,.md-12{display:block}.md-1{width:8.3333%}.md-2{width:16.6667%}.md-3{width:25%}.md-4{width:33.3333%}.md-5{width:41.6667%}.md-6{width:50%}.md-7{width:58.3333%}.md-8{width:66.6667%}.md-9{width:75%}.md-10{width:83.3333%}.md-11{width:91.6667%}.md-12{width:100%}}@media (min-width:64em){.lg-0{display:none}.lg-1,.lg-2,.lg-3,.lg-4,.lg-5,.lg-6,.lg-7,.lg-8,.lg-9,.lg-10,.lg-11,.lg-12{display:block}.lg-1{width:8.3333%}.lg-2{width:16.6667%}.lg-3{width:25%}.lg-4{width:33.3333%}.lg-5{width:41.6667%}.lg-6{width:50%}.lg-7{width:58.3333%}.lg-8{width:66.6667%}.lg-9{width:75%}.lg-10{width:83.3333%}.lg-11{width:91.6667%}.lg-12{width:100%}}@media (min-width:80em){.xl-0{display:none}.xl-1,.xl-2,.xl-3,.xl-4,.xl-5,.xl-6,.xl-7,.xl-8,.xl-9,.xl-10,.xl-11,.xl-12{display:block}.xl-1{width:8.3333%}.xl-2{width:16.6667%}.xl-3{width:25%}.xl-4{width:33.3333%}.xl-5{width:41.6667%}.xl-6{width:50%}.xl-7{width:58.3333%}.xl-8{width:66.6667%}.xl-9{width:75%}.xl-10{width:83.3333%}.xl-11{width:91.6667%}.xl-12{width:100%}}
+
+	/* ROOT ELEMENT */	
+	body{font-family:Helvetica,Arial,sans-serif;background:#FFF;color:#545454}
+	a{color:#758cff;text-decoration:none}
+	img{max-width:100%;max-height:100%}
+
+	/* HEADING */
+	h1,h2,h3,h4,h5{margin:0;padding:0;display:block;font-weight:700}
+	h1{font-size:150%}
+	h2{font-size:140%}
+	h3{font-size:130%}
+	h4{font-size:120%}
+	h5{font-size:110%}
+
+	/* HEADER */	
+	.Navbar {padding: 50px 0; min-height: 53px; background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAxNi4wLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+DQo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCSB3aWR0aD0iODAwcHgiIGhlaWdodD0iNDAwcHgiIHZpZXdCb3g9IjAgMCA4MDAgNDAwIiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCA4MDAgNDAwIiB4bWw6c3BhY2U9InByZXNlcnZlIj4NCjxyZWN0IGRpc3BsYXk9Im5vbmUiIGZpbGw9IiMzNTNBNEEiIHdpZHRoPSI4MDAiIGhlaWdodD0iNDAwIi8+DQo8cG9seWdvbiBmaWxsPSIjQjhDM0U5IiBwb2ludHM9IjcxNi40MDMsMCA3ODUuMTA2LDAgODAwLDAgODAwLDQwMCAwLDQwMCAiLz4NCjxwb2x5Z29uIG9wYWNpdHk9IjAuMDUiIGZpbGw9IiMwMjAyMDIiIHBvaW50cz0iNjA0LjA4MSw0MDAgNjE4LjEyNSw0MDAgODAwLDIuMTkgIi8+DQo8cG9seWdvbiBmaWxsPSIjRUVGMEYzIiBwb2ludHM9IjgwMCwyLjE5IDgwMCw0MDAgNjE4LjEyNSw0MDAgIi8+DQo8cG9seWdvbiBmaWxsPSIjRUI1MDU1IiBwb2ludHM9IjY0Ni45MzgsOTIuMjI5IDgwMCw0MDAgMCw0MDAgIi8+DQo8cG9seWdvbiBvcGFjaXR5PSIwLjEiIGZpbGw9IiMwMjAyMDIiIHBvaW50cz0iNjQ3LjMxOSw5MS44NDggODAwLDQwMCA4MDAuMzc0LDM1MS43NzEgIi8+DQo8L3N2Zz4NCg==) no-repeat top right fixed; background-color: #546dc3; text-align: center; background-size: cover; } .Navbar-child {width: 33.333%; display: inline-block; vertical-align: top; } .Navbar-logo {font-size: 24px; margin: 0; padding: 0 20px; width:100%; overflow:hidden; } .Navbar-logo a{color:#FFF; position:relative; } .safeplatinum_form {padding: 10px 50px } .PasswordGroup {padding-bottom: 8px; min-height: 40px; }
+
+	/* ARTICLE */
+	.platinum_wrapper {padding:50px 20px;}
+	.safeplatinum_content .images a:before{content:'';position:absolute;top:0;left:0;right:0;bottom:0;z-index:1;background:rgba(51,51,51,0.58)}
+	.safeplatinum_content .images a:after{position:absolute;top:50%;left:50%;z-index:2;display:block;content:'';width:0;height:0;background:rgba(255,255,255,.2);border-radius:100%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%);opacity:0}
+	.safeplatinum_content:hover .images a:after{-webkit-animation:circle .75s;animation:circle .75s}
+	.safeplatinum_content:hover .images a{opacity:1;-webkit-animation:flash 1.5s;animation:flash 1.5s}	
+	.max_platinum{max-width:1020px;margin:auto}
+	.safeplatinum ul{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap}
+	.safeplatinum .titlebox{text-align:center;margin:0;padding:0}
+	.safeplatinum_content{position:relative;overflow:hidden}
+	.safeplatinum_content .images{}
+	@-webkit-keyframes circle{0%{opacity:1}40%{opacity:1}100%{width:200%;height:200%;opacity:0}}
+	@keyframes circle{0%{opacity:1}40%{opacity:1}100%{width:200%;height:200%;opacity:0}}
+	.safeplatinum_content img{height:100%;width:100%}
+	.safeplatinum_content .title{position:absolute;bottom:0;left:0;right:0;-webkit-transition:.3s ease-in-out;transition:.3s ease-in-out;margin:10px;z-index:2}
+	.safeplatinum_content:hover .title{color:#E4EBEE}
+	.safeplatinum_content .title h3{margin:0;font-size:16px}
+	.safeplatinum_content .title a{color:#fff}
+	.safeplatinum_box_3,.safeplatinum_box_4,.safeplatinum_box_5{padding:20px}	
+	.safeplatinum_box_4{display:flex;flex-direction:column;width:100%}
+	.safeplatinum_box_4 .images{height:180px}
+	.safeplatinum_box_4 li{padding:0.5em;width:100%}
+	@media all and (min-width:40em){.safeplatinum_box_4 li{width:50%}}
+	@media all and (min-width:60em){.safeplatinum_box_4 li{width:25%}}
+	.safeplatinum_box_3{display:flex;flex-direction:column;width:100%}
+	.safeplatinum_box_3 .images{height:230px}
+	.safeplatinum_box_3 li{padding:0.5em;width:100%}
+	@media all and (min-width:40em){.safeplatinum_box_3 li{width:50%}}
+	@media all and (min-width:60em){.safeplatinum_box_3 li{width:33.3%}}
+	.safeplatinum_box_5{display:flex;flex-direction:column;width:100%}
+	.safeplatinum_box_5 .images{height:150px}
+	.safeplatinum_box_5 li{padding:0.5em;width:100%}
+	@media all and (min-width:40em){.safeplatinum_box_5 li{width:50%}}
+	@media all and (min-width:60em){.safeplatinum_box_5 li{width:20%}}
+	@-webkit-keyframes platinum{0%{border-color:#FFC107}25%{border-color:#2196F3}50%{border-color:#b8c3e9}75%{border-color:#546dc3}100%{border-color:#eb5055}}
+	@-o-keyframes platinumanimation{0%{border-color:#FFC107}25%{border-color:#2196F3}50%{border-color:#b8c3e9}75%{border-color:#546dc3}100%{border-color:#eb5055}}
+	@-moz-keyframes platinumanimation{0%{border-color:#FFC107}25%{border-color:#2196F3}50%{border-color:#b8c3e9}75%{border-color:#546dc3}100%{border-color:#eb5055}}
+	@keyframes platinumanimation{0%{border-color:#FFC107}25%{border-color:#2196F3}50%{border-color:#b8c3e9}75%{border-color:#546dc3}100%{border-color:#eb5055}}
+	.platinum_border{border:4px solid #FFC107;-webkit-animation:platinum 5s infinite alternate}
+	@media (max-width:768px){.platinum_border{display:none}}
+
+	/* ARTICLE STYLE */
+	.platinum_post{line-height:2em}	
+	.separator a {margin:0 !important;}
+	@media(max-width:544px){.separator a,table a{margin:0 0 10px!important;float:none!important}}
+
+	/* FOOTER */
+	.footer{background:#FFF;padding:25px 20px;border-top:5px solid #b8c3e9;overflow:hidden;clear:both}
+	.footer .left{float:left}
+	.footer .right{float:right}
+	.footer ul{list-style:none;display:inline-flex;margin:0;padding:0}
+	.footer .btn{padding-left:15px}
+	@media (max-width:768px){.footer .left,.footer .right{float:none;text-align:center}.footer ul{padding:10px 0}}
+
+	/* PANEL BOOTSTRAP */
+	.panel{margin-bottom:20px;background-color:#fff;border:1px solid transparent;-webkit-box-shadow:0 1px 1px rgba(0,0,0,.05);box-shadow:0 1px 1px rgba(0,0,0,.05)}.panel ul,.panel ol{margin:0}.panel-default{border-color:#ebebeb}.panel-default .panel-heading{padding:10px 15px;border-bottom:1px solid transparent;background:#546dc3;color:#fff;border-color:#ebebeb}.font28{font-size:28px}.panel-body{padding:15px}.panel-left{float:left;width:300px;margin-right:15px}.panel-right{float:right;width:300px;margin-left:15px}@media(max-width:768px){.font28,.Navbar-logo{font-size:initial}.panel-left,.panel-right{float:none;width:100%;margin:0}}
+
+	/* INPUT BUTTON */	
+	.input, .textarea {
+	padding: 8px;
+	color: #545454;
+	border-radius: 10px;
+	border: 1px solid #ddd;
+	background: #fff;
+	}
+	.input:focus,.textarea:focus{outline:none;border:1px solid #ddd}
+	.textarea{width:100%;max-width:100%;height:100px;max-height:100px}
+	.input{width:100%;margin-bottom:5px;font-family:FontAwesome,"Open Sans",Verdana,sans-serif}
+	.btnplatinum{clear:both;background-color:#546dc3;border:0;color:white;padding:12px 16px;display:block;font-size:16px;margin:0 auto;font-weight:bold}
+	#safeurldecode{width:200px;margin:0 auto}
+	#safeurldecode input,#safeurldecode button{height:40px;display:block;padding:10px;width:100%;padding:10px 15px 12px;font:700 12px/1 'Open Sans',sans-serif;border-radius:3px;box-shadow:inset 0 -1px 0 1px rgba(0,0,0,0.1),inset 0 -10px 20px rgba(0,0,0,0.1);font-weight:bold;border:none}
+	#safeurldecode input{color:#4f67b9;font-family:"FontAwesome";border:1px solid #ddd}
+	#safeurldecode button{cursor:pointer;margin-top:2px;background:#546dc3;color:#fff}
+	#safeurldecode button:hover{background:#384e98}
+
+	/* ALERT */	
+	.alert-success{color:#546dc3;background-color:#eef0f3;border-color:#546dc3}.alert{padding:15px;margin-bottom:5px;border:1px solid transparent;border-radius:4px;font-weight:bold;font-size:15px}.alert a{color:#337ab7;text-decoration:none;background-color:transparent}
+
+	/* PAGINATION POST */
+	.pagination {
+	clear: both;
+	margin:20px 0;
+	text-align:center; 
+	}
+	.blog-pager-newer-link,.home-link,.blog-pager-older-link{
+	padding: 10px;
+	background: #546dc3;
+	color: #fff;
+	margin: 0 2px;
+	}
+
+	]]></b:skin>   
+
+	<b:defaultmarkups>
+		<b:defaultmarkup type='Common'>
+			<b:includable id='safeplatinum_encode'>
+				<div class="safeplatinum_form">
+					<div class='PasswordGroup'>
+						<input tabindex="1" autofocus='' class="input" placeholder="&#xf0c1; http://example.com" type="url" pattern="https?://.+" required='' id="safeurlencode" onkeyup="safeurlencode()" onchange="safeurlencode()" />
+						<input id="safeurlencodepassword" type='text' class='input' placeholder='&#xf023; Password (Optional)' autocapitalize='off' autocorrect='off' spellcheck='false'  onkeyup="safeurlencode()" onchange="safeurlencode()" />
+						<input id="safeurlencodetitle" type='text' class='input' placeholder='Title (Optional)' onkeyup="safeurlencode()" onchange="safeurlencode()" />	
+					</div>
+					<textarea onclick="this.select()" onfocus="this.select()" id='safeurlencodesuccess' class='textarea' placeholder='Result Safe Platinum' tabindex='2'></textarea>		
+					<button class="btnplatinum copytoclipboard" style="display:none" id="copytoclipboard" data-clipboard-action="copy" data-clipboard-target="#safeurlencodesuccess"><span class='fa fa-floppy-o'></span> Copy URL</button>
+				</div>
+			</b:includable>
+		</b:defaultmarkup>
+		<b:defaultmarkup type='Blog'>	
+			<b:includable id='aboutPostAuthor'></b:includable><b:includable id='addComments'></b:includable><b:includable id='commentAuthorAvatar'></b:includable><b:includable id='commentDeleteIcon' var='comment'></b:includable><b:includable id='commentForm' var='post'></b:includable><b:includable id='commentFormIframeSrc' var='post'></b:includable><b:includable id='commentItem' var='comment'></b:includable><b:includable id='commentList' var='comments'></b:includable><b:includable id='commentPicker' var='post'></b:includable><b:includable id='comments' var='post'></b:includable><b:includable id='commentsTitle'></b:includable><b:includable id='defaultAdUnit'></b:includable><b:includable id='emailPostIcon'></b:includable><b:includable id='feedLinks'></b:includable><b:includable id='feedLinksBody' var='links'></b:includable><b:includable id='footerBylines'></b:includable><b:includable id='headerByline'></b:includable><b:includable id='homePageLink'></b:includable><b:includable id='iframeComments' var='post'></b:includable><b:includable id='inlineAd' var='post'></b:includable><b:includable id='nextPageLink'></b:includable><b:includable id='post' var='post'></b:includable><b:includable id='postBody' var='post'></b:includable><b:includable id='postBodySnippet' var='post'></b:includable><b:includable id='postCommentsAndAd' var='post'></b:includable><b:includable id='postCommentsLink'></b:includable><b:includable id='postFooter' var='post'></b:includable><b:includable id='postFooterAuthorProfile' var='post'></b:includable><b:includable id='postHeader' var='post'></b:includable><b:includable id='postJumpLink' var='post'></b:includable><b:includable id='postLabels'></b:includable><b:includable id='postMeta' var='post'></b:includable><b:includable id='postPagination'></b:includable><b:includable id='postTitle' var='post'></b:includable><b:includable id='previousPageLink'></b:includable><b:includable id='sharingButtonContent'></b:includable><b:includable id='threadedCommentForm' var='post'></b:includable><b:includable id='threadedCommentJs' var='post'></b:includable><b:includable id='threadedComments' var='post'></b:includable>
+		</b:defaultmarkup>
+
+		<b:defaultmarkup type='Blog'>
+			<b:includable id='article.images'>
+				<b:comment>{responsiveImage}</b:comment>
+				<b:if cond='data:image'>
+					<img b:whitespace='remove' expr:src='data:image'>
+						<b:class cond='data:imageClass' expr:name='data:imageClass'/>
+						<b:attr expr:value='data:altText ?: data:messages.image' name='alt'/>
+						<b:attr expr:value='data:post.title ?: data:post.title' name='title'/>
+						<b:attr cond='data:enhancedSourceset.isYoutube' expr:value='resizeImage(data:enhancedSourceset, 1152, &quot;1152:864&quot;)' name='data-ess'/>
+						<b:attr expr:value='sourceSet(data:image, (data:imageSizes ?: [200,400,800,1200,1600]), data:imageRatio)' name='srcset'/>
+					</img>
+					<b:else/>
+					<img src='//2.bp.blogspot.com/-s0NalNShRxQ/WZq1Jg6UjqI/AAAAAAAAAQA/ePB5d69WZLIBjviEsMx0gfR2owQkQdtUwCLcBGAs/s1600/default_image.png' expr:alt='data:post.title' expr:title='data:post.title'/>
+				</b:if>			
+			</b:includable>
+			<b:includable id='article.title'>
+				<data:post.title/>
+			</b:includable>
+			<b:includable id='article.pagination'>
+				<div class='pagination' role="navigation" itemscope='itemscope' itemtype='http://schema.org/SiteNavigationElement'>
+					<b:include cond='data:newerPageUrl' name='article.pagination.new'/>
+					<b:include cond='data:view.url != data:blog.homepageUrl' name='article.pagination.home'/>
+					<b:include cond='data:olderPageUrl' name='article.pagination.old'/>
+				</div>
+			</b:includable>
+			<b:includable id='article.pagination.new'>
+				<a class='blog-pager-newer-link' itemprop="url" expr:href='data:newerPageUrl' expr:id='data:widget.instanceId + &quot;_blog-pager-newer-link&quot;' expr:title='data:messages.newerPosts'>
+					<span itemprop="name"><data:messages.newerPosts/></span>
+				</a>
+			</b:includable>
+			<b:includable id='article.pagination.old'>
+				<a class='blog-pager-older-link' itemprop="url" expr:href='data:olderPageUrl' expr:id='data:widget.instanceId + &quot;_blog-pager-older-link&quot;' expr:title='data:messages.olderPosts'>
+					<span itemprop="name"><data:messages.olderPosts/></span>
+				</a>
+			</b:includable>
+			<b:includable id='article.pagination.home'>
+				<a class='home-link' expr:href='data:blog.homepageUrl'>
+					<data:messages.home/>
+				</a>				
+			</b:includable>
+			<b:includable id='safeplatinum_index'>
+				<li>
+					<div class="safeplatinum_content">
+						<div class="images">
+							<a expr:href="data:post.url">
+								<b:include data='{ image: data:post.featuredImage, imageSizes: [200],sourceSizes: &quot;(max-width: 1024px) 200px&quot; }' name='article.images'/>
+							</a>								
+						</div>
+						<div class="title">
+							<h3><a expr:href="data:post.url"><b:include name='article.title'/></a></h3>
+						</div>				
+					</div>
+				</li>
+			</b:includable>
+			<b:includable id='article.array'>
+				<script type="text/javascript"> var links =new Array(); <b:loop index='yo' values='data:posts' var='post'> links[<data:yo/>] = "<data:post.url/>"; </b:loop> </script>
+			</b:includable>
+			<b:includable id='safeplatinum_post'>
+				<div class="panel panel-default">
+					<div class="panel-heading font28">
+						<span id="yourlink"><b><i class="fa fa-shield"></i> You have requested a link to <span id="safeurldecodedomain"></span></b></span>
+					</div>
+					<div class="panel-body">
+						<div id='adslinktop'>
+							<br/>
+						</div>		
+						<button  id="safeurldecodetime" class="btnplatinum"><i class="fa fa-spinner fa-spin"></i> Loading... <span id="time"></span></button>
+						<span id="checkpassword" style="display:none"></span>
+						<div id="safeurldecode"></div>		
+						<br/>
+						<div class="alert alert-success"><i class="fa fa-shield"></i> We have reviewed your link, below are the results and button to visit your requested link.</div>
+						<div class="alert alert-success"><img width="10px" src="//2.bp.blogspot.com/-apNOOBqgIvM/Wax5tlGE2nI/AAAAAAAAASc/zHY0pAmNAoEEQthOqXueqfsNxuZxNCFRgCLcBGAs/s1600/google.png" alt="Google" /> Google <img width="10px" src="//3.bp.blogspot.com/--Fg3uUonoHQ/Wax5u8HYwXI/AAAAAAAAASg/Xo_P8_Vj5gIatlvK0kERfeJFV-VMdc-4QCLcBGAs/s1600/safe.png" alt="safe" /></div>
+						<div class="alert alert-success"><img width="10px" src="//1.bp.blogspot.com/-NhCjukGkk60/Wax5tjNQvaI/AAAAAAAAASU/L_Zf2ahlmbk0k393LLXBKQlpRmwz1R44gCLcBGAs/s1600/avg.png" alt="AVG" /> AVG <img width="10px" src="//2.bp.blogspot.com/-z8MPeSJvPUo/Wax5vB2u9YI/AAAAAAAAASk/1Mfhy6q_3f4vuWpcyPhqOHDVQ_is_NBiACLcBGAs/s1600/untested.png" alt="untested" /></div>	
+						<div id='adslinkbottom'/>		
+					</div>
+				</div>				
+				<div class="panel panel-default">
+					<div class="panel-heading font28">
+						<b>Read Article <b:include name='article.title'/></b>
+					</div>
+					<div id='platinum_post' class='platinum_post panel-body'>     
+						<data:post.body/>
+					</div>
+				</div>				        
+			</b:includable> 
+		</b:defaultmarkup>
+	</b:defaultmarkups>
+
+
+	<b:comment>FONT AWESOME</b:comment>
+	<link href='//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' rel='stylesheet' type='text/css'/>
+	<script type="text/javascript">
+		//<![CDATA[
+		$ = function(id){ return document.getElementById(id) };
+		function convertstr(str) {
+		return str.replace(/^\s+/, '').replace(/\s+$/, '');
+		}
+
+		function getparm(name) {
+		name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
+		var regex = new RegExp('[\\?&]' + name + '=([^&#]*)');
+		var results = regex.exec(location.search);
+		return results === null ? '' : decodeURIComponent(results[1]);
+		}  
+		function delparm(alamatnya) {var oldURL = alamatnya; var index = 0; var newURL = oldURL; index = oldURL.indexOf('?'); if (index == -1) {index = oldURL.indexOf('#'); } if (index != -1) {newURL = oldURL.substring(0, index); } return newURL; } 
+
+		function removeElement(element) {
+		element && element.parentNode && element.parentNode.removeChild(element);
+		}
+		function extractHostname(url) {
+		var hostname;
+		if (url.indexOf("://") > -1) {hostname = url.split('/')[2];}
+		else {hostname = url.split('/')[0];}
+		hostname = hostname.split(':')[0];
+		hostname = hostname.split('?')[0];
+		return hostname;
+		}
+		function check_element(elementid) {
+		return document.getElementById(elementid) ? 1 : 0;
+		}
+		function insertAfterBefore(element, target, setting) {
+		var moveto = target.parentNode;
+		if (setting == "after") {		
+		moveto.insertBefore(element, target.nextSibling)		
+		}if (setting == "before") {
+		moveto.insertBefore(element, target)		
+		}
+		}
+		function targetmove(set, tag, numtag, element,target,optional) {
+		if (!check_element(element)) {return false};
+		var moveto = document.getElementById(target), 
+		selecttag = moveto.getElementsByTagName(tag),
+		elementmove = document.getElementById(element);
+		if (numtag == 0 || selecttag.length < 0 || selecttag.length < numtag) {
+		moveto.insertAdjacentElement(optional,elementmove);
+		return false;
+		};
+		numtag = numtag-1;
+		insertAfterBefore(elementmove, selecttag[numtag], set);
+		}
+
+		!function(t){var e=function(e){this._options={checkOnLoad:!1,resetOnEnd:!1,loopCheckTime:50,loopMaxNumber:5,baitClass:"pub_300x250 pub_300x250m pub_728x90 text-ad textAd text_ad text_ads text-ads text-ad-links",baitStyle:"width: 1px !important; height: 1px !important; position: absolute !important; left: -10000px !important; top: -1000px !important;",debug:!1},this._var={version:"3.2.1",bait:null,checking:!1,loop:null,loopNumber:0,event:{detected:[],notDetected:[]}},void 0!==e&&this.setOption(e);var o=this,i=function(){setTimeout(function(){o._options.checkOnLoad===!0&&(o._options.debug===!0&&o._log("onload->eventCallback","A check loading is launched"),null===o._var.bait&&o._creatBait(),setTimeout(function(){o.check()},1))},1)};void 0!==t.addEventListener?t.addEventListener("load",i,!1):t.attachEvent("onload",i)};e.prototype._options=null,e.prototype._var=null,e.prototype._bait=null,e.prototype._log=function(t,e){console.log("[BlockAdBlock]["+t+"] "+e)},e.prototype.setOption=function(t,e){if(void 0!==e){var o=t;t={},t[o]=e}for(var i in t)this._options[i]=t[i],this._options.debug===!0&&this._log("setOption",'The option "'+i+'" he was assigned to "'+t[i]+'"');return this},e.prototype._creatBait=function(){var e=document.createElement("div");e.setAttribute("class",this._options.baitClass),e.setAttribute("style",this._options.baitStyle),this._var.bait=t.document.body.appendChild(e),this._var.bait.offsetParent,this._var.bait.offsetHeight,this._var.bait.offsetLeft,this._var.bait.offsetTop,this._var.bait.offsetWidth,this._var.bait.clientHeight,this._var.bait.clientWidth,this._options.debug===!0&&this._log("_creatBait","Bait has been created")},e.prototype._destroyBait=function(){t.document.body.removeChild(this._var.bait),this._var.bait=null,this._options.debug===!0&&this._log("_destroyBait","Bait has been removed")},e.prototype.check=function(t){if(void 0===t&&(t=!0),this._options.debug===!0&&this._log("check","An audit was requested "+(t===!0?"with a":"without")+" loop"),this._var.checking===!0)return this._options.debug===!0&&this._log("check","A check was canceled because there is already an ongoing"),!1;this._var.checking=!0,null===this._var.bait&&this._creatBait();var e=this;return this._var.loopNumber=0,t===!0&&(this._var.loop=setInterval(function(){e._checkBait(t)},this._options.loopCheckTime)),setTimeout(function(){e._checkBait(t)},1),this._options.debug===!0&&this._log("check","A check is in progress ..."),!0},e.prototype._checkBait=function(e){var o=!1;if(null===this._var.bait&&this._creatBait(),(null!==t.document.body.getAttribute("abp")||null===this._var.bait.offsetParent||0==this._var.bait.offsetHeight||0==this._var.bait.offsetLeft||0==this._var.bait.offsetTop||0==this._var.bait.offsetWidth||0==this._var.bait.clientHeight||0==this._var.bait.clientWidth)&&(o=!0),void 0!==t.getComputedStyle){var i=t.getComputedStyle(this._var.bait,null);!i||"none"!=i.getPropertyValue("display")&&"hidden"!=i.getPropertyValue("visibility")||(o=!0)}this._options.debug===!0&&this._log("_checkBait","A check ("+(this._var.loopNumber+1)+"/"+this._options.loopMaxNumber+" ~"+(1+this._var.loopNumber*this._options.loopCheckTime)+"ms) was conducted and detection is "+(o===!0?"positive":"negative")),e===!0&&(this._var.loopNumber++,this._var.loopNumber>=this._options.loopMaxNumber&&this._stopLoop()),o===!0?(this._stopLoop(),this._destroyBait(),this.emitEvent(!0),e===!0&&(this._var.checking=!1)):(null===this._var.loop||e===!1)&&(this._destroyBait(),this.emitEvent(!1),e===!0&&(this._var.checking=!1))},e.prototype._stopLoop=function(t){clearInterval(this._var.loop),this._var.loop=null,this._var.loopNumber=0,this._options.debug===!0&&this._log("_stopLoop","A loop has been stopped")},e.prototype.emitEvent=function(t){this._options.debug===!0&&this._log("emitEvent","An event with a "+(t===!0?"positive":"negative")+" detection was called");var e=this._var.event[t===!0?"detected":"notDetected"];for(var o in e)this._options.debug===!0&&this._log("emitEvent","Call function "+(parseInt(o)+1)+"/"+e.length),e.hasOwnProperty(o)&&e[o]();return this._options.resetOnEnd===!0&&this.clearEvent(),this},e.prototype.clearEvent=function(){this._var.event.detected=[],this._var.event.notDetected=[],this._options.debug===!0&&this._log("clearEvent","The event list has been cleared")},e.prototype.on=function(t,e){return this._var.event[t===!0?"detected":"notDetected"].push(e),this._options.debug===!0&&this._log("on",'A type of event "'+(t===!0?"detected":"notDetected")+'" was added'),this},e.prototype.onDetected=function(t){return this.on(!0,t)},e.prototype.onNotDetected=function(t){return this.on(!1,t)},t.BlockAdBlock=e,void 0===t.blockAdBlock&&(t.blockAdBlock=new e({checkOnLoad:!0,resetOnEnd:!0}))}(window);	
+
+		var aesCrypto={};!function(t){"use strict";t.formatter={prefix:"",stringify:function(t){var r=this.prefix;return r+=t.salt.toString(),r+=t.ciphertext.toString()},parse:function(t){var r=CryptoJS.lib.CipherParams.create({}),e=this.prefix.length;return 0!==t.indexOf(this.prefix)?r:(r.ciphertext=CryptoJS.enc.Hex.parse(t.substring(16+e)),r.salt=CryptoJS.enc.Hex.parse(t.substring(e,16+e)),r)}},t.encrypt=function(r,e){try{return CryptoJS.AES.encrypt(r,e,{format:t.formatter}).toString()}catch(n){return""}},t.decrypt=function(r,e){try{var n=CryptoJS.AES.decrypt(r,e,{format:t.formatter});return n.toString(CryptoJS.enc.Utf8)}catch(i){return""}}}(aesCrypto); 			
+
+		(function () {    
+		var clipboard = document.createElement("script");
+		clipboard.type = 'text/javascript'
+		clipboard.src = "//min.gitcdn.link/repo/zenorocha/clipboard.js/master/dist/clipboard.min.js";
+		clipboard.id = "hiddenjs";     
+		clipboard.onload = function(){
+		removeElement(document.getElementById("hiddenjs"));
+		};
+		(document.getElementsByTagName("head")[0] || document.getElementsByTagName("body")[0]).appendChild(clipboard);      
+		})();			
+
+		safeurlencode = function () {
+		var safeurlencode = $("safeurlencode").value;
+		var safeurlencodedomain = extractHostname(safeurlencode);
+		var safeurlencodepassword = $("safeurlencodepassword").value ? $("safeurlencodepassword").value : "secret";    
+		var randindex = Math.random() * links.length; 
+		randindex = parseInt(randindex);
+		var urlRegex = /(((https?:\/\/)|(www\.))[^\s]+)/g;
+		if (urlRegex.test(safeurlencode) == false) {
+		$("safeurlencodesuccess").value = "Website URL is not valid yet";
+		$("copytoclipboard").style.display = "none";
+		}else {      
+		var safeurlencodetitle = $("safeurlencodetitle");			
+		if (safeurlencodetitle && safeurlencodetitle.value) {
+		var link = delparm(links[randindex]) + "?safeurl=" + aesCrypto.encrypt(convertstr(safeurlencode),convertstr(safeurlencodepassword)) + "&t=" + aesCrypto.encrypt(convertstr(safeurlencodetitle.value),convertstr("secret"))  + "&d=" + aesCrypto.encrypt(convertstr(safeurlencodedomain),convertstr("secret"));
+		}else {				
+		var link = delparm(links[randindex]) + "?safeurl=" + aesCrypto.encrypt(convertstr(safeurlencode),convertstr(safeurlencodepassword))  + "&d=" + aesCrypto.encrypt(convertstr(safeurlencodedomain),convertstr("secret"));
+		}
+		$("safeurlencodesuccess").value = link;
+		$("copytoclipboard").style.display = "block";
+		$("copytoclipboard").innerHTML = "Copy URL";
+		}
+		}
+
+		function safeurldecode(){ 
+		var getdecodeurl = getparm('safeurl');
+		if ($("checkpassword").innerHTML == 0) {
+		var safeurldecodepassword = $("safeurldecodepassword").value;
+		if (safeurldecodepassword.length == 0) {        
+		$("safeurldecodepassword").placeholder = "Required Password";
+		$("safeurldecodepassword").select();
+		return false;
+		}else {
+		var safeurldecodepassword = safeurldecodepassword;   
+		} 
+		}else {
+		var safeurldecodepassword = "secret";    
+		}
+		var safeurldecode = aesCrypto.decrypt(convertstr(getdecodeurl),convertstr(safeurldecodepassword));
+		if (safeurldecode == 0) {
+		$("safeurldecodepassword").value = null;
+		$("safeurldecodepassword").placeholder = "Wrong Password";
+		$("safeurldecodepassword").select();
+		return false;
+		}else {
+		window.open(safeurldecode);
+		}
+		}		
+		//]]>
+	</script>
+</head>
+<body>
+
+	<div class='Navbar'>
+		<div class="max_platinum">			
+			<h1 class='Navbar-logo Navbar-child'><a href='/'><i class="fa fa-shield"></i> <data:view.title.escaped/> <i class="fa fa-shield"></i></a></h1>
+			<b:if cond='data:view.isHomepage'>
+				<b:include name='safeplatinum_encode'/>
+			</b:if>
+		</div>
+	</div>
+
+	<div class="platinum_border"></div>
+
+	<b:section class='main' id='main'>
+		<b:widget id='Blog1' locked='true' title='Blog Posts' type='Blog' version='2' visible='true'>
+			<b:widget-settings>
+				<b:widget-setting name='showDateHeader'>false</b:widget-setting>
+				<b:widget-setting name='style.textcolor'>#000000</b:widget-setting>
+				<b:widget-setting name='showShareButtons'>false</b:widget-setting>
+				<b:widget-setting name='showCommentLink'>true</b:widget-setting>
+				<b:widget-setting name='style.urlcolor'>#969696</b:widget-setting>
+				<b:widget-setting name='showAuthor'>true</b:widget-setting>
+				<b:widget-setting name='style.linkcolor'>#0089ff</b:widget-setting>
+				<b:widget-setting name='style.unittype'>TextAndImage</b:widget-setting>
+				<b:widget-setting name='style.bgcolor'>#d8dcde</b:widget-setting>
+				<b:widget-setting name='timestampLabel'>-</b:widget-setting>
+				<b:widget-setting name='showAuthorProfile'>false</b:widget-setting>
+				<b:widget-setting name='style.layout'>1x1</b:widget-setting>
+				<b:widget-setting name='showLabels'>true</b:widget-setting>
+				<b:widget-setting name='showLocation'>true</b:widget-setting><b:widget-setting name='postLabelsLabel' />
+				<b:widget-setting name='showTimestamp'>true</b:widget-setting>
+				<b:widget-setting name='postsPerAd'>1</b:widget-setting>
+				<b:widget-setting name='showBacklinks'>false</b:widget-setting>
+				<b:widget-setting name='style.bordercolor'>#d8dcde</b:widget-setting>
+				<b:widget-setting name='showInlineAds'>false</b:widget-setting>
+				<b:widget-setting name='showReactions'>false</b:widget-setting>
+			</b:widget-settings>
+			<b:includable id='main'>
+				<b:include cond='data:view.isHomepage' name='article.array'/> 
+				<b:if cond='data:view.isMultipleItems'> 
+					<div class='max_platinum'>
+						<div class="safeplatinum safeplatinum_box_4">		
+							<ul>	
+								<b:loop index='yo' values='data:posts' var='post'> 
+									<b:include data='post' name='safeplatinum_index' />
+								</b:loop>
+							</ul>
+						</div>
+						<b:include cond='data:view.isMultipleItems or data:view.isPost' name='article.pagination'/>
+					</div>
+				</b:if> 
+				<b:if cond='data:view.isSingleItem'>
+					<b:loop values='data:posts' var='post'>		
+						<div class='platinum_wrapper max_platinum'><b:include data='post' name='safeplatinum_post' /></div>
+					</b:loop>
+				</b:if>
+			</b:includable>
+		</b:widget>
+		<b:widget cond='data:view.isPost' id='HTML101' locked='true' title='Ads Link Top' type='HTML' version='2' visible='true'>
+			<b:widget-settings>
+				<b:widget-setting name='content'>&lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
+					&lt;ins class=&#39;adsbygoogle&#39; data-ad-test=&#39;on&#39; style=&#39;display:inline-block;width:100%;height:90px&#39;&gt;&lt;/ins&gt;
+					&lt;script&gt;(adsbygoogle=window.adsbygoogle||[]).push({});&lt;/script&gt;
+
+					&lt;script type=&#39;text/javascript&#39;&gt;
+					var setting = {
+					set: &quot;before&quot;,
+					tag: &quot;h1&quot;,
+					numtag: &quot;1&quot;, 
+					element: &quot;adslinktopmove&quot;,
+					target: &quot;adslinktop&quot;,
+					optional: &quot;beforebegin&quot;
+					};
+					&lt;/script&gt;
+				</b:widget-setting>
+			</b:widget-settings>
+			<b:includable id='main'>
+				<div style='display:none'>							
+					<div id='adslinktopmove'>
+						<data:content/>
+					</div>
+				</div>
+				<script type='text/javascript'>
+					//<![CDATA[
+					targetmove(setting.set,setting.tag,setting.numtag,setting.element,setting.target,setting.optional);	
+					//]]>
+				</script>							
+			</b:includable>
+		</b:widget>
+		<b:widget cond='data:view.isPost' id='HTML102' locked='true' title='Ads Link Bottom' type='HTML' version='2' visible='true'>
+			<b:widget-settings>
+				<b:widget-setting name='content'>&lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
+					&lt;ins class=&#39;adsbygoogle&#39; data-ad-test=&#39;on&#39; style=&#39;display:inline-block;width:100%;height:150px&#39;&gt;&lt;/ins&gt;
+					&lt;script&gt;(adsbygoogle=window.adsbygoogle||[]).push({});&lt;/script&gt;
+
+					&lt;script type=&#39;text/javascript&#39;&gt;
+					var setting = {
+					set: &quot;before&quot;,
+					tag: &quot;h1&quot;,
+					numtag: &quot;1&quot;, 
+					element: &quot;adslinkbottommove&quot;,
+					target: &quot;adslinkbottom&quot;,
+					optional: &quot;beforebegin&quot;
+					};
+					&lt;/script&gt;
+				</b:widget-setting>
+			</b:widget-settings>
+			<b:includable id='main'>
+				<div style='display:none'>							
+					<div id='adslinkbottommove'>
+						<data:content/>
+					</div>
+				</div>
+				<script type='text/javascript'>
+					//<![CDATA[
+					targetmove(setting.set,setting.tag,setting.numtag,setting.element,setting.target,setting.optional);	
+					//]]>
+				</script>							
+			</b:includable>
+		</b:widget>		
+		<b:widget cond='data:view.isPost' id='HTML103' locked='true' title='Ads Article [1]' type='HTML' version='2' visible='true'>
+			<b:widget-settings>
+				<b:widget-setting name='content'>&lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
+					&lt;ins class=&#39;adsbygoogle&#39; data-ad-test=&#39;on&#39; style=&#39;display:inline-block;width:100%;height:90px&#39;&gt;&lt;/ins&gt;
+					&lt;script&gt;(adsbygoogle=window.adsbygoogle||[]).push({});&lt;/script&gt;
+
+					&lt;script type=&#39;text/javascript&#39;&gt;
+					var setting = {
+					set: &quot;before&quot;,
+					tag: &quot;br&quot;,
+					numtag: &quot;3&quot;, 
+					element: &quot;adsarticle1&quot;,
+					target: &quot;platinum_post&quot;,
+					optional: &quot;beforebegin&quot;
+					};
+					&lt;/script&gt;
+				</b:widget-setting>
+			</b:widget-settings>
+			<b:includable id='main'>
+				<div style='display:none'>							
+					<div id='adsarticle1'>
+						<data:content/>
+					</div>
+				</div>
+				<script type='text/javascript'>
+					//<![CDATA[
+					targetmove(setting.set,setting.tag,setting.numtag,setting.element,setting.target,setting.optional);	
+					//]]>
+				</script>							
+			</b:includable>
+		</b:widget>
+		<b:widget cond='data:view.isPost' id='HTML104' locked='true' title='Ads Article [2]' type='HTML' version='2' visible='true'>
+			<b:widget-settings>
+				<b:widget-setting name='content'>&lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
+					&lt;ins class=&#39;adsbygoogle&#39; data-ad-test=&#39;on&#39; style=&#39;display:inline-block;width:100%;height:90px&#39;&gt;&lt;/ins&gt;
+					&lt;script&gt;(adsbygoogle=window.adsbygoogle||[]).push({});&lt;/script&gt;
+
+					&lt;script type=&#39;text/javascript&#39;&gt;
+					var setting = {
+					set: &quot;before&quot;,
+					tag: &quot;br&quot;,
+					numtag: &quot;6&quot;, 
+					element: &quot;adsarticle2&quot;,
+					target: &quot;platinum_post&quot;,
+					optional: &quot;beforebegin&quot;
+					};
+					&lt;/script&gt;
+				</b:widget-setting>
+			</b:widget-settings>
+			<b:includable id='main'>
+				<div style='display:none'>							
+					<div id='adsarticle2'>
+						<data:content/>
+					</div>
+				</div>
+				<script type='text/javascript'>
+					//<![CDATA[
+					targetmove(setting.set,setting.tag,setting.numtag,setting.element,setting.target,setting.optional);	
+					//]]>
+				</script>							
+			</b:includable>
+		</b:widget>		
+	</b:section>
+
+	<div class='footer'>
+		<div class="max_platinum">			
+			<div class="left">
+				&#169; 2017 <data:blog.title/>		
+			</div>
+			<b:section class='right' id='footermenu'>
+				<b:widget id='PageList1' locked='true' title='Pages' type='PageList' visible='true'>
+					<b:widget-settings>
+						<b:widget-setting name='pageListJson'><![CDATA[{'6077304284492802608': {'href': 'https://safeplatinum.blogspot.com/p/staticpage4.html', 'title': 'Tentang IM Japan', 'position': 0}, '3523335789994157678': {'href': 'https://safeplatinum.blogspot.com/p/staticpage3.html', 'title': 'Bahasa Jepang', 'position': 1}, '3570554226515184936': {'href': 'https://safeplatinum.blogspot.com/p/staticpage5.html', 'title': 'staticpage5', 'position': 2}, '8444332844034850116': {'href': 'https://safeplatinum.blogspot.com/p/staticpage2.html', 'title': 'staticpage2', 'position': 3}, '1460757360134866932': {'href': 'https://safeplatinum.blogspot.com/p/staticpage.html', 'title': 'staticpage', 'position': 4}}]]></b:widget-setting>
+						<b:widget-setting name='homeTitle'>Home</b:widget-setting>
+					</b:widget-settings>
+					<b:includable id='main'>										
+						<ul class="socbtns">
+							<b:loop  index='yo' values='data:links' var='link'>	
+								<li class="btn"><a expr:href="data:link.href" itemprop='url'><span itemprop='name'><data:link.title/></span></a></li>
+							</b:loop>
+						</ul>										
+					</b:includable>
+					<b:includable id='content'></b:includable><b:includable id='overflowButton'></b:includable><b:includable id='overflowablePageList'></b:includable><b:includable id='pageLink'></b:includable><b:includable id='pageList'></b:includable> 
+				</b:widget>		
+				<b:widget cond='data:view.isPost' id='HTML105' locked='true' title='AD BLOCK' type='HTML' version='2' visible='false'>
+					<b:widget-settings>
+						<b:widget-setting name='content'>
+						</b:widget-setting>
+					</b:widget-settings>
+					<b:includable id='main'>
+						<script type='text/javascript'>
+							//<![CDATA[
+							var adblocksettingplatinum = true;
+							//]]>
+						</script>							
+					</b:includable>
+				</b:widget>			
+			</b:section>
+		</div>
+	</div>
+
+<!--  
+-->
+<b:if cond='data:view.isHomepage'>
+	<script type="text/javascript">
+		//<![CDATA[
+		document.onreadystatechange = function(){
+		if(document.readyState === 'complete'){		
+		var clipboard = new Clipboard('.copytoclipboard');
+		clipboard.on('success', function(e) {
+		$("copytoclipboard").innerHTML = "Link Copied to Clipboard";
+		});
+		}
+		}	
+		//]]>
+	</script>
+</b:if>
+<b:if cond='data:view.isSingleItem'>
+	<script type="text/javascript">
+		//<![CDATA[
+
+		document.onreadystatechange = function(){
+		if(document.readyState === 'complete'){		
+
+		//checkpw
+		var getdecodeurl = getparm('safeurl');
+		var safeurldecodepassword = "secret";    
+		var safeurldecode = aesCrypto.decrypt(convertstr(getdecodeurl),convertstr(safeurldecodepassword));   
+		var safeurldecodecheck = safeurldecode.length; 
+		$("checkpassword").innerHTML = safeurldecodecheck;		
+
+
+		function timeloader(){
+		var timeleft = 10000;
+		var delta = 100;
+		var downloadTimer = setInterval(function(){
+		if (window.blurred) {return false;}  
+		timeleft -= delta;
+		$("time").textContent = (timeleft / 1000).toFixed(1);
+		if(timeleft <= 0){    
+		$("safeurldecodetime").style.display = "none";
+		var safeurldecodebutton = "<button onclick='safeurldecode()' id='safeurldecodebuttonpassword'><span class='fa fa-link'></span> Visit Link</button>";
+		var safeurldecodebuttonpassword = "<input type='text' placeholder='&#xf13e; Password' id='safeurldecodepassword'/><button  onclick='safeurldecode()' id='safeurldecodebuttonpassword'><span class='fa fa-lock'></span> Unlock Link</button>";
+		if ($("checkpassword").innerHTML == 0) {
+		$("safeurldecode").innerHTML = safeurldecodebuttonpassword;
+		}else {
+		$("safeurldecode").innerHTML = safeurldecodebutton;      
+		}    
+		clearInterval(downloadTimer);
+		}
+		},delta);
+		}
+
+		if (typeof adblocksettingplatinum !== 'undefined') {		
+		blockAdBlock.onDetected(function(){	
+		$("safeurldecodetime").innerHTML = "Disable Adblock !"; 
+		})
+		blockAdBlock.onNotDetected(function(){	
+		timeloader();
+		})
+		}else {
+		timeloader();
+		}
+
+		// get domain and title	
+		var safeurldecodetitle = aesCrypto.decrypt(convertstr(getparm("t")),convertstr("secret"));
+		var safeurldecodedomain = aesCrypto.decrypt(convertstr(getparm("d")),convertstr("secret"));
+		//add value to element
+		$("safeurldecodedomain").innerHTML = safeurldecodedomain;
+
+		//change title
+		if (getparm("t") !== "") {		
+		var title = document.getElementsByTagName('title')[0];
+		title.innerHTML = safeurldecodetitle;
+		}		
+
+		}
+		}
+
+		window.onload = function () {
+		if (getparm("safeurl") == "" && getparm("t") == "" && getparm("d") == "") {
+		$("safeurldecode").style.display = "none";
+		$("safeurldecodetime").style.display = "none";
+		$("yourlink").innerHTML = "Advertisement";
+		}
+		}
+
+		//]]>
+	</script>
+</b:if>
+
+<script type="text/javascript">
+	//<![CDATA[
+	var CryptoJS=CryptoJS||function(t,e){var r={},n=r.lib={},i=n.Base=function(){function t(){}return{extend:function(e){t.prototype=this;var r=new t;return e&&r.mixIn(e),r.hasOwnProperty("init")||(r.init=function(){r.$super.init.apply(this,arguments)}),r.init.prototype=r,r.$super=this,r},create:function(){var t=this.extend();return t.init.apply(t,arguments),t},init:function(){},mixIn:function(t){for(var e in t)t.hasOwnProperty(e)&&(this[e]=t[e]);t.hasOwnProperty("toString")&&(this.toString=t.toString)},clone:function(){return this.init.prototype.extend(this)}}}(),o=n.WordArray=i.extend({init:function(t,r){t=this.words=t||[],this.sigBytes=r!=e?r:4*t.length},toString:function(t){return(t||a).stringify(this)},concat:function(t){var e=this.words,r=t.words,n=this.sigBytes,i=t.sigBytes;if(this.clamp(),n%4)for(var o=0;i>o;o++){var s=r[o>>>2]>>>24-o%4*8&255;e[n+o>>>2]|=s<<24-(n+o)%4*8}else if(r.length>65535)for(var o=0;i>o;o+=4)e[n+o>>>2]=r[o>>>2];else e.push.apply(e,r);return this.sigBytes+=i,this},clamp:function(){var e=this.words,r=this.sigBytes;e[r>>>2]&=4294967295<<32-r%4*8,e.length=t.ceil(r/4)},clone:function(){var t=i.clone.call(this);return t.words=this.words.slice(0),t},random:function(e){for(var r=[],n=0;e>n;n+=4)r.push(4294967296*t.random()|0);return new o.init(r,e)}}),s=r.enc={},a=s.Hex={stringify:function(t){for(var e=t.words,r=t.sigBytes,n=[],i=0;r>i;i++){var o=e[i>>>2]>>>24-i%4*8&255;n.push((o>>>4).toString(16)),n.push((15&o).toString(16))}return n.join("")},parse:function(t){for(var e=t.length,r=[],n=0;e>n;n+=2)r[n>>>3]|=parseInt(t.substr(n,2),16)<<24-n%8*4;return new o.init(r,e/2)}},c=s.Latin1={stringify:function(t){for(var e=t.words,r=t.sigBytes,n=[],i=0;r>i;i++){var o=e[i>>>2]>>>24-i%4*8&255;n.push(String.fromCharCode(o))}return n.join("")},parse:function(t){for(var e=t.length,r=[],n=0;e>n;n++)r[n>>>2]|=(255&t.charCodeAt(n))<<24-n%4*8;return new o.init(r,e)}},f=s.Utf8={stringify:function(t){try{return decodeURIComponent(escape(c.stringify(t)))}catch(e){throw new Error("Malformed UTF-8 data")}},parse:function(t){return c.parse(unescape(encodeURIComponent(t)))}},u=n.BufferedBlockAlgorithm=i.extend({reset:function(){this._data=new o.init,this._nDataBytes=0},_append:function(t){"string"==typeof t&&(t=f.parse(t)),this._data.concat(t),this._nDataBytes+=t.sigBytes},_process:function(e){var r=this._data,n=r.words,i=r.sigBytes,s=this.blockSize,a=4*s,c=i/a;c=e?t.ceil(c):t.max((0|c)-this._minBufferSize,0);var f=c*s,u=t.min(4*f,i);if(f){for(var h=0;f>h;h+=s)this._doProcessBlock(n,h);var p=n.splice(0,f);r.sigBytes-=u}return new o.init(p,u)},clone:function(){var t=i.clone.call(this);return t._data=this._data.clone(),t},_minBufferSize:0}),h=(n.Hasher=u.extend({cfg:i.extend(),init:function(t){this.cfg=this.cfg.extend(t),this.reset()},reset:function(){u.reset.call(this),this._doReset()},update:function(t){return this._append(t),this._process(),this},finalize:function(t){t&&this._append(t);var e=this._doFinalize();return e},blockSize:16,_createHelper:function(t){return function(e,r){return new t.init(r).finalize(e)}},_createHmacHelper:function(t){return function(e,r){return new h.HMAC.init(t,r).finalize(e)}}}),r.algo={});return r}(Math);!function(){{var t=CryptoJS,e=t.lib,r=e.WordArray,n=t.enc;n.Base64={stringify:function(t){var e=t.words,r=t.sigBytes,n=this._map;t.clamp();for(var i=[],o=0;r>o;o+=3)for(var s=e[o>>>2]>>>24-o%4*8&255,a=e[o+1>>>2]>>>24-(o+1)%4*8&255,c=e[o+2>>>2]>>>24-(o+2)%4*8&255,f=s<<16|a<<8|c,u=0;4>u&&r>o+.75*u;u++)i.push(n.charAt(f>>>6*(3-u)&63));var h=n.charAt(64);if(h)for(;i.length%4;)i.push(h);return i.join("")},parse:function(t){var e=t.length,n=this._map,i=n.charAt(64);if(i){var o=t.indexOf(i);-1!=o&&(e=o)}for(var s=[],a=0,c=0;e>c;c++)if(c%4){var f=n.indexOf(t.charAt(c-1))<<c%4*2,u=n.indexOf(t.charAt(c))>>>6-c%4*2;s[a>>>2]|=(f|u)<<24-a%4*8,a++}return r.create(s,a)},_map:"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/="}}}(),function(t){function e(t,e,r,n,i,o,s){var a=t+(e&r|~e&n)+i+s;return(a<<o|a>>>32-o)+e}function r(t,e,r,n,i,o,s){var a=t+(e&n|r&~n)+i+s;return(a<<o|a>>>32-o)+e}function n(t,e,r,n,i,o,s){var a=t+(e^r^n)+i+s;return(a<<o|a>>>32-o)+e}function i(t,e,r,n,i,o,s){var a=t+(r^(e|~n))+i+s;return(a<<o|a>>>32-o)+e}var o=CryptoJS,s=o.lib,a=s.WordArray,c=s.Hasher,f=o.algo,u=[];!function(){for(var e=0;64>e;e++)u[e]=4294967296*t.abs(t.sin(e+1))|0}();var h=f.MD5=c.extend({_doReset:function(){this._hash=new a.init([1732584193,4023233417,2562383102,271733878])},_doProcessBlock:function(t,o){for(var s=0;16>s;s++){var a=o+s,c=t[a];t[a]=16711935&(c<<8|c>>>24)|4278255360&(c<<24|c>>>8)}var f=this._hash.words,h=t[o+0],p=t[o+1],l=t[o+2],d=t[o+3],v=t[o+4],y=t[o+5],g=t[o+6],_=t[o+7],m=t[o+8],S=t[o+9],B=t[o+10],x=t[o+11],k=t[o+12],C=t[o+13],z=t[o+14],w=t[o+15],E=f[0],D=f[1],M=f[2],b=f[3];E=e(E,D,M,b,h,7,u[0]),b=e(b,E,D,M,p,12,u[1]),M=e(M,b,E,D,l,17,u[2]),D=e(D,M,b,E,d,22,u[3]),E=e(E,D,M,b,v,7,u[4]),b=e(b,E,D,M,y,12,u[5]),M=e(M,b,E,D,g,17,u[6]),D=e(D,M,b,E,_,22,u[7]),E=e(E,D,M,b,m,7,u[8]),b=e(b,E,D,M,S,12,u[9]),M=e(M,b,E,D,B,17,u[10]),D=e(D,M,b,E,x,22,u[11]),E=e(E,D,M,b,k,7,u[12]),b=e(b,E,D,M,C,12,u[13]),M=e(M,b,E,D,z,17,u[14]),D=e(D,M,b,E,w,22,u[15]),E=r(E,D,M,b,p,5,u[16]),b=r(b,E,D,M,g,9,u[17]),M=r(M,b,E,D,x,14,u[18]),D=r(D,M,b,E,h,20,u[19]),E=r(E,D,M,b,y,5,u[20]),b=r(b,E,D,M,B,9,u[21]),M=r(M,b,E,D,w,14,u[22]),D=r(D,M,b,E,v,20,u[23]),E=r(E,D,M,b,S,5,u[24]),b=r(b,E,D,M,z,9,u[25]),M=r(M,b,E,D,d,14,u[26]),D=r(D,M,b,E,m,20,u[27]),E=r(E,D,M,b,C,5,u[28]),b=r(b,E,D,M,l,9,u[29]),M=r(M,b,E,D,_,14,u[30]),D=r(D,M,b,E,k,20,u[31]),E=n(E,D,M,b,y,4,u[32]),b=n(b,E,D,M,m,11,u[33]),M=n(M,b,E,D,x,16,u[34]),D=n(D,M,b,E,z,23,u[35]),E=n(E,D,M,b,p,4,u[36]),b=n(b,E,D,M,v,11,u[37]),M=n(M,b,E,D,_,16,u[38]),D=n(D,M,b,E,B,23,u[39]),E=n(E,D,M,b,C,4,u[40]),b=n(b,E,D,M,h,11,u[41]),M=n(M,b,E,D,d,16,u[42]),D=n(D,M,b,E,g,23,u[43]),E=n(E,D,M,b,S,4,u[44]),b=n(b,E,D,M,k,11,u[45]),M=n(M,b,E,D,w,16,u[46]),D=n(D,M,b,E,l,23,u[47]),E=i(E,D,M,b,h,6,u[48]),b=i(b,E,D,M,_,10,u[49]),M=i(M,b,E,D,z,15,u[50]),D=i(D,M,b,E,y,21,u[51]),E=i(E,D,M,b,k,6,u[52]),b=i(b,E,D,M,d,10,u[53]),M=i(M,b,E,D,B,15,u[54]),D=i(D,M,b,E,p,21,u[55]),E=i(E,D,M,b,m,6,u[56]),b=i(b,E,D,M,w,10,u[57]),M=i(M,b,E,D,g,15,u[58]),D=i(D,M,b,E,C,21,u[59]),E=i(E,D,M,b,v,6,u[60]),b=i(b,E,D,M,x,10,u[61]),M=i(M,b,E,D,l,15,u[62]),D=i(D,M,b,E,S,21,u[63]),f[0]=f[0]+E|0,f[1]=f[1]+D|0,f[2]=f[2]+M|0,f[3]=f[3]+b|0},_doFinalize:function(){var e=this._data,r=e.words,n=8*this._nDataBytes,i=8*e.sigBytes;r[i>>>5]|=128<<24-i%32;var o=t.floor(n/4294967296),s=n;r[(i+64>>>9<<4)+15]=16711935&(o<<8|o>>>24)|4278255360&(o<<24|o>>>8),r[(i+64>>>9<<4)+14]=16711935&(s<<8|s>>>24)|4278255360&(s<<24|s>>>8),e.sigBytes=4*(r.length+1),this._process();for(var a=this._hash,c=a.words,f=0;4>f;f++){var u=c[f];c[f]=16711935&(u<<8|u>>>24)|4278255360&(u<<24|u>>>8)}return a},clone:function(){var t=c.clone.call(this);return t._hash=this._hash.clone(),t}});o.MD5=c._createHelper(h),o.HmacMD5=c._createHmacHelper(h)}(Math),function(){var t=CryptoJS,e=t.lib,r=e.Base,n=e.WordArray,i=t.algo,o=i.MD5,s=i.EvpKDF=r.extend({cfg:r.extend({keySize:4,hasher:o,iterations:1}),init:function(t){this.cfg=this.cfg.extend(t)},compute:function(t,e){for(var r=this.cfg,i=r.hasher.create(),o=n.create(),s=o.words,a=r.keySize,c=r.iterations;s.length<a;){f&&i.update(f);var f=i.update(t).finalize(e);i.reset();for(var u=1;c>u;u++)f=i.finalize(f),i.reset();o.concat(f)}return o.sigBytes=4*a,o}});t.EvpKDF=function(t,e,r){return s.create(r).compute(t,e)}}(),CryptoJS.lib.Cipher||function(t){var e=CryptoJS,r=e.lib,n=r.Base,i=r.WordArray,o=r.BufferedBlockAlgorithm,s=e.enc,a=(s.Utf8,s.Base64),c=e.algo,f=c.EvpKDF,u=r.Cipher=o.extend({cfg:n.extend(),createEncryptor:function(t,e){return this.create(this._ENC_XFORM_MODE,t,e)},createDecryptor:function(t,e){return this.create(this._DEC_XFORM_MODE,t,e)},init:function(t,e,r){this.cfg=this.cfg.extend(r),this._xformMode=t,this._key=e,this.reset()},reset:function(){o.reset.call(this),this._doReset()},process:function(t){return this._append(t),this._process()},finalize:function(t){t&&this._append(t);var e=this._doFinalize();return e},keySize:4,ivSize:4,_ENC_XFORM_MODE:1,_DEC_XFORM_MODE:2,_createHelper:function(){function t(t){return"string"==typeof t?x:m}return function(e){return{encrypt:function(r,n,i){return t(n).encrypt(e,r,n,i)},decrypt:function(r,n,i){return t(n).decrypt(e,r,n,i)}}}}()}),h=(r.StreamCipher=u.extend({_doFinalize:function(){var t=this._process(!0);return t},blockSize:1}),e.mode={}),p=r.BlockCipherMode=n.extend({createEncryptor:function(t,e){return this.Encryptor.create(t,e)},createDecryptor:function(t,e){return this.Decryptor.create(t,e)},init:function(t,e){this._cipher=t,this._iv=e}}),l=h.CBC=function(){function e(e,r,n){var i=this._iv;if(i){var o=i;this._iv=t}else var o=this._prevBlock;for(var s=0;n>s;s++)e[r+s]^=o[s]}var r=p.extend();return r.Encryptor=r.extend({processBlock:function(t,r){var n=this._cipher,i=n.blockSize;e.call(this,t,r,i),n.encryptBlock(t,r),this._prevBlock=t.slice(r,r+i)}}),r.Decryptor=r.extend({processBlock:function(t,r){var n=this._cipher,i=n.blockSize,o=t.slice(r,r+i);n.decryptBlock(t,r),e.call(this,t,r,i),this._prevBlock=o}}),r}(),d=e.pad={},v=d.Pkcs7={pad:function(t,e){for(var r=4*e,n=r-t.sigBytes%r,o=n<<24|n<<16|n<<8|n,s=[],a=0;n>a;a+=4)s.push(o);var c=i.create(s,n);t.concat(c)},unpad:function(t){var e=255&t.words[t.sigBytes-1>>>2];t.sigBytes-=e}},y=(r.BlockCipher=u.extend({cfg:u.cfg.extend({mode:l,padding:v}),reset:function(){u.reset.call(this);var t=this.cfg,e=t.iv,r=t.mode;if(this._xformMode==this._ENC_XFORM_MODE)var n=r.createEncryptor;else{var n=r.createDecryptor;this._minBufferSize=1}this._mode=n.call(r,this,e&&e.words)},_doProcessBlock:function(t,e){this._mode.processBlock(t,e)},_doFinalize:function(){var t=this.cfg.padding;if(this._xformMode==this._ENC_XFORM_MODE){t.pad(this._data,this.blockSize);var e=this._process(!0)}else{var e=this._process(!0);t.unpad(e)}return e},blockSize:4}),r.CipherParams=n.extend({init:function(t){this.mixIn(t)},toString:function(t){return(t||this.formatter).stringify(this)}})),g=e.format={},_=g.OpenSSL={stringify:function(t){var e=t.ciphertext,r=t.salt;if(r)var n=i.create([1398893684,1701076831]).concat(r).concat(e);else var n=e;return n.toString(a)},parse:function(t){var e=a.parse(t),r=e.words;if(1398893684==r[0]&&1701076831==r[1]){var n=i.create(r.slice(2,4));r.splice(0,4),e.sigBytes-=16}return y.create({ciphertext:e,salt:n})}},m=r.SerializableCipher=n.extend({cfg:n.extend({format:_}),encrypt:function(t,e,r,n){n=this.cfg.extend(n);var i=t.createEncryptor(r,n),o=i.finalize(e),s=i.cfg;return y.create({ciphertext:o,key:r,iv:s.iv,algorithm:t,mode:s.mode,padding:s.padding,blockSize:t.blockSize,formatter:n.format})},decrypt:function(t,e,r,n){n=this.cfg.extend(n),e=this._parse(e,n.format);var i=t.createDecryptor(r,n).finalize(e.ciphertext);return i},_parse:function(t,e){return"string"==typeof t?e.parse(t,this):t}}),S=e.kdf={},B=S.OpenSSL={execute:function(t,e,r,n){n||(n=i.random(8));var o=f.create({keySize:e+r}).compute(t,n),s=i.create(o.words.slice(e),4*r);return o.sigBytes=4*e,y.create({key:o,iv:s,salt:n})}},x=r.PasswordBasedCipher=m.extend({cfg:m.cfg.extend({kdf:B}),encrypt:function(t,e,r,n){n=this.cfg.extend(n);var i=n.kdf.execute(r,t.keySize,t.ivSize);n.iv=i.iv;var o=m.encrypt.call(this,t,e,i.key,n);return o.mixIn(i),o},decrypt:function(t,e,r,n){n=this.cfg.extend(n),e=this._parse(e,n.format);var i=n.kdf.execute(r,t.keySize,t.ivSize,e.salt);n.iv=i.iv;var o=m.decrypt.call(this,t,e,i.key,n);return o}})}(),function(){var t=CryptoJS,e=t.lib,r=e.BlockCipher,n=t.algo,i=[],o=[],s=[],a=[],c=[],f=[],u=[],h=[],p=[],l=[];!function(){for(var t=[],e=0;256>e;e++)t[e]=128>e?e<<1:e<<1^283;for(var r=0,n=0,e=0;256>e;e++){var d=n^n<<1^n<<2^n<<3^n<<4;d=d>>>8^255&d^99,i[r]=d,o[d]=r;var v=t[r],y=t[v],g=t[y],_=257*t[d]^16843008*d;s[r]=_<<24|_>>>8,a[r]=_<<16|_>>>16,c[r]=_<<8|_>>>24,f[r]=_;var _=16843009*g^65537*y^257*v^16843008*r;u[d]=_<<24|_>>>8,h[d]=_<<16|_>>>16,p[d]=_<<8|_>>>24,l[d]=_,r?(r=v^t[t[t[g^v]]],n^=t[t[n]]):r=n=1}}();var d=[0,1,2,4,8,16,32,64,128,27,54],v=n.AES=r.extend({_doReset:function(){for(var t=this._key,e=t.words,r=t.sigBytes/4,n=this._nRounds=r+6,o=4*(n+1),s=this._keySchedule=[],a=0;o>a;a++)if(r>a)s[a]=e[a];else{var c=s[a-1];a%r?r>6&&a%r==4&&(c=i[c>>>24]<<24|i[c>>>16&255]<<16|i[c>>>8&255]<<8|i[255&c]):(c=c<<8|c>>>24,c=i[c>>>24]<<24|i[c>>>16&255]<<16|i[c>>>8&255]<<8|i[255&c],c^=d[a/r|0]<<24),s[a]=s[a-r]^c}for(var f=this._invKeySchedule=[],v=0;o>v;v++){var a=o-v;if(v%4)var c=s[a];else var c=s[a-4];f[v]=4>v||4>=a?c:u[i[c>>>24]]^h[i[c>>>16&255]]^p[i[c>>>8&255]]^l[i[255&c]]}},encryptBlock:function(t,e){this._doCryptBlock(t,e,this._keySchedule,s,a,c,f,i)},decryptBlock:function(t,e){var r=t[e+1];t[e+1]=t[e+3],t[e+3]=r,this._doCryptBlock(t,e,this._invKeySchedule,u,h,p,l,o);var r=t[e+1];t[e+1]=t[e+3],t[e+3]=r},_doCryptBlock:function(t,e,r,n,i,o,s,a){for(var c=this._nRounds,f=t[e]^r[0],u=t[e+1]^r[1],h=t[e+2]^r[2],p=t[e+3]^r[3],l=4,d=1;c>d;d++){var v=n[f>>>24]^i[u>>>16&255]^o[h>>>8&255]^s[255&p]^r[l++],y=n[u>>>24]^i[h>>>16&255]^o[p>>>8&255]^s[255&f]^r[l++],g=n[h>>>24]^i[p>>>16&255]^o[f>>>8&255]^s[255&u]^r[l++],_=n[p>>>24]^i[f>>>16&255]^o[u>>>8&255]^s[255&h]^r[l++];f=v,u=y,h=g,p=_}var v=(a[f>>>24]<<24|a[u>>>16&255]<<16|a[h>>>8&255]<<8|a[255&p])^r[l++],y=(a[u>>>24]<<24|a[h>>>16&255]<<16|a[p>>>8&255]<<8|a[255&f])^r[l++],g=(a[h>>>24]<<24|a[p>>>16&255]<<16|a[f>>>8&255]<<8|a[255&u])^r[l++],_=(a[p>>>24]<<24|a[f>>>16&255]<<16|a[u>>>8&255]<<8|a[255&h])^r[l++];t[e]=v,t[e+1]=y,t[e+2]=g,t[e+3]=_},keySize:8});t.AES=r._createHelper(v)}();
+	//]]>
+</script>
+</body>
+</html>

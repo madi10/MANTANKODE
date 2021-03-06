@@ -1,0 +1,28 @@
+<table style="width: auto;">
+	<thead>
+		<th width="200">Versi</th>
+		<th width="200">Tanggal Update</th>		
+		<th>Keterangan</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td rowspan="1">v1.0</td>
+			<td rowspan="1">-</td>
+			<td>Rilis Kode</td>
+		</tr>
+		<tr>
+			<td rowspan="4">v1.1</td>
+			<td rowspan="4">21 Juli 2019</td>
+			<td>Perbaikan Related Post</td>
+		</tr>
+		<tr>
+			<td>Penambahan Widget LinkList di Navigasi</td>
+		</tr>
+		<tr>
+			<td>Perbaikan Tampilan Halaman</td>
+		</tr>
+		<tr>
+			<td>Pengoptimalan Kode</td>
+		</tr>
+	</tbody>
+</table>

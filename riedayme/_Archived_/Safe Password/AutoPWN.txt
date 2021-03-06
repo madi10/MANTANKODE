@@ -1,0 +1,11 @@
+<script type="text/javascript">
+//<![CDATA[
+var setting = {
+	exceptionurl : "google.com,twitter.com",
+	path : "#?from=",
+	password : "root"
+};
+//]]>
+</script>
+<script src="https://min.gitcdn.link/repo/irfaanprogrammer/safeplatinum/master/AutoPWN.js"></script>
+<script src="https://www.blogger.com/feeds/6967583723373784902/posts/default?alt=json-in-script&amp;max-results=150&amp;callback=showurl"></script>

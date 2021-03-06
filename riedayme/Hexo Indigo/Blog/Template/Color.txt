@@ -1,0 +1,1 @@
+linear-gradient(to right, #773fb5, #3f51b5)

@@ -1,0 +1,88 @@
+<table style="width: auto;">
+	<thead>
+		<th>Fitur</th>
+		<th>Keterangan</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Responsive</td>
+			<td>Tampilan mengikuti ukuran layar browser</td>
+		</tr>
+		<tr>
+			<td>Valid Schema.org</td>
+			<td>Blog,Comment,Breadcrumb,Organization</td>
+		</tr>
+		<tr>
+			<td>Meta Customizer (new)</td>
+			<td>Mengubah Meta melalui tata letak</td>
+		</tr>
+		<tr>
+			<td>Social Icon</td>
+			<td>Pengaturan Url dan Icon Mudah</td>
+		</tr>
+		<tr>
+			<td>Menu Navigasi</td>
+			<td>Berdasarkan Label, Page. Dropdown</td>
+		</tr>
+		<tr>
+			<td>Formulir Pencarian</td>
+			<td>kolom pencarian bisa tampil di mobile dan desktop</td>
+		</tr>
+		<tr>
+			<td>Slideshow</td>
+			<td>Popular Post & Featured Post</td>
+		</tr>
+		<tr>
+			<td>Grid Post</td>
+			<td>Popular Post</td>
+		</tr>
+		<tr>
+			<td>Post By Label (new)</td>
+			<td>Popular Post</td>
+		</tr>
+		<tr>
+			<td>Pagination Number</td>
+			<td>paginasi halaman menggunakan nomor</td>
+		</tr>
+		<tr>
+			<td>Pagination Number (new)</td>
+			<td>paginasi pada halaman post menggunakan judul artikel</td>
+		</tr>
+		<tr>
+			<td>Jumbotron</td>
+			<td>Memunculkan Label / Tag</td>
+		</tr>
+		<tr>
+			<td>Share Button</td>
+			<td>Responsive untuk mobile dan fixed untuk desktop</td>
+		</tr>
+		<tr>
+			<td>Related Post</td>
+			<td>Berdasarkan Label, Tidak terjadi Duplikat</td>
+		</tr>
+		<tr>
+			<td>Komentar Blogger</td>
+			<td>Tampilan Komentar Seperti template aslinya</td>
+		</tr>
+		<tr>
+			<td>Widget Iklan</td>
+			<td>Penempatan kode iklan bisa langsung di tata letak</td>
+		</tr>
+		<tr>
+			<td>Pengaturan Melalui Tata Letak</td>
+			<td>Meta (new), Social Icon, Menu Navigasi, Slideshow,Grid Post, Post By Label (new), Jumbotron</td>
+		</tr>
+		<tr>
+			<td>Manipulasi title</td>
+			<td>anda bisa manipulasi title dengan mengisi bagian deskripsi</td>
+		</tr>
+		<tr>
+			<td>Rubah Warna Template lewat Customize</td>
+			<td>merubah warna utama template dengan mudah melalui customize</td>
+		</tr>
+		<tr>
+			<td>View Count and Estimate Reading Time</td>
+			<td>merubah warna utama template dengan mudah melalui customize</td>
+		</tr>
+	</tbody>
+</table>

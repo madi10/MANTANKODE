@@ -1,0 +1,61 @@
+<table style="width: auto;">
+	<thead>
+		<tr>
+			<th width="200">Versi</th>
+			<th width="200">Tanggal Update</th>
+			<th>Keterangan</th>  
+		</tr>
+	</thead>  
+	<tbody>
+		<tr>  
+			<td rowspan="3">v1.0</td>  
+			<td rowspan="3">14 Juli 2019</td>  
+			<td>Rilis Kode</td>  
+		</tr>
+		<tr>  
+			<td>Penambahan Widget Iklan</td>  
+		</tr>
+		<tr>  
+			<td>Pengoptimalan Kode</td>  
+		</tr>
+		<tr>  
+			<td rowspan="3">v1.1</td>  
+			<td rowspan="3">21 Juli 2019</td>  
+			<td>Perbaikan Related Post</td>  
+		</tr>
+		<tr>  
+			<td>Penambahan Widget LinkList di Navigasi</td>  
+		</tr>
+		<tr>  
+			<td>Perbaikan Tampilan Halaman</td>  
+		</tr>
+		<tr>  
+			<td rowspan="2">v1.2 - v1.3</td>  
+			<td rowspan="2">9 September 2019</td>  
+			<td>Pengoptimalan Kode</td>  
+		</tr>
+		<tr>  
+			<td>Penambahakan fitur post by label, lazy load, manipulasi title, meta customize, paginasi post dengan title</td>  
+		</tr>
+		<tr>  
+			<td rowspan="6">v1.4</td>  
+			<td rowspan="6">29 September 2019</td>  
+			<td>Add Again Mansory</td>			 
+		</tr>
+		<tr>
+			<td>Rebuild JSON-LD</td>
+		</tr>
+		<tr>
+			<td>Add Border Radius Grid Post</td>
+		</tr>
+		<tr>
+			<td>Fix Pagination Number on Label (No Support on Search Page)</td>
+		</tr>
+		<tr>
+			<td>Add New Loader Image</td>
+		</tr>
+		<tr>
+			<td>Change MaxRelatedPost to 3</td>
+		</tr>
+	</tbody> 
+</table>

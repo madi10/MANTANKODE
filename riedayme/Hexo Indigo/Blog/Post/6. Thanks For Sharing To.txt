@@ -1,0 +1,12 @@
+<table style="width: auto;">
+	<thead>
+		<th width="200">Alias</th>
+		<th>Keterangan</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td><a href="https://github.com/yscoder/hexo-theme-indigo">yscoder</a></td>
+			<td>Untuk Source Kode yang sangat bagus</td>
+		</tr>	
+	</tbody>
+</table>

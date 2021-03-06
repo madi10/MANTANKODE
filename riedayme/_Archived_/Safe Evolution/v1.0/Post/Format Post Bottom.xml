@@ -1,0 +1,6 @@
+<div class="text-center">
+	<button id='gotolink' class='btn bt-success hidden' disabled=''>Go to Link</button>
+	<div style='margin:auto;display:inline-block'>
+		<!-- iklan -->
+	</div>
+</div>

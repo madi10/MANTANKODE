@@ -1,0 +1,4 @@
+<div class="separator" style="display: none;">
+<a href="https://lh3.googleusercontent.com/-9Cs5sCxX4Ig/XPiy2Vdwi8I/AAAAAAAAAEI/bmi7nt5LPd8x4gj988evmQBaOIT9uDfrQCLcBGAs/s1600/hexo%2Bindigo%2Bpreview.png" imageanchor="1"><img border="0" src="https://lh3.googleusercontent.com/-9Cs5sCxX4Ig/XPiy2Vdwi8I/AAAAAAAAAEI/bmi7nt5LPd8x4gj988evmQBaOIT9uDfrQCLcBGAs/s1600/hexo%2Bindigo%2Bpreview.png" /></a></div>
+<div class="buttons">
+<a class="button waves-effect" href="https://demomediumish.blogspot.com/" rel="" target="_blank">Demo</a> <a class="button waves-effect" href="https://raw.githubusercontent.com/riedayme/bloggertemplate/master/Mediumish/Template.xml" id="download" rel="" target="_blank">Download v1.0</a></div>
