@@ -1,2 +1,0 @@
-<script type='text/javascript'>/*<![CDATA[*/var numfeed=999,startfeed=0,namelabel="Novel",urlprevious,urlnext;/*]]>*/</script>
-<div class="cl row-fetty row" id="novellist_post"><span class='novellist_load'>Loading..</span></div><div id="novellist_nav"></div>

@@ -19,3 +19,7 @@ Blog saya [https://www.mantankode.net/](https://www.mantankode.net/)
 
 Donasi Agar saya lebih semangat :)
 [https://trakteer.id/mantankode](https://trakteer.id/mantankode)
+
+[![Updated Badge](https://badges.pufler.dev/updated/madi10/MANTANKODE)](https://badges.pufler.dev)
+
+

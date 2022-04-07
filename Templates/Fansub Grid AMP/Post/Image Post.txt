@@ -1,3 +1,0 @@
-﻿<amp-img alt="TITLE POST" layout="responsive" height="360" src="LINK IMAGE" title="TITLE POST" width="640" ></amp-img>
-
-<noscript><img alt="TITLE POST" src="LINK IMAGE" title="TITLE POST"/></noscript>

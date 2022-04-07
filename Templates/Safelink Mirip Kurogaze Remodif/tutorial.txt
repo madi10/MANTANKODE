@@ -1,6 +1,0 @@
-~template ini masih manual~
-
-cara untuk ganti link tujuan adalah cari lalu ganti http://noroianime.blogspot.co.id/
-yang ada dikode didalam postingan atau laman
-
-*tekan ctrl+f lalu tulis noroianime.blogspot.co.id untuk pencarian lebih mudah
