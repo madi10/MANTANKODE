@@ -1,0 +1,22 @@
+Cara Kedua ( Backup ) :
+1.)  Izinkan Termux mengakses penyimpanan  dengan perintah : 
+
+termux-setup-storage 
+
+2.) Pergi ke : 
+
+cd /data/data/com.termux/files 
+
+3.)  Lakukan backup dengan perintah : 
+
+tar -cvzf /sdcard/termux-backup.tgz --owner=0 --group=0 home usr 
+Cara Restore :
+1.) Pergi ke direktori tempat backup dengan perintah : 
+
+cd /data/data/com.termux/files 
+
+2.) Lakukan restore dengan perintah : 
+
+tar -xvzf /sdcard/termux-backup.tgz 
+
+Nah cara yang pertama adalah  melakukan backup package pada repo resmi.
