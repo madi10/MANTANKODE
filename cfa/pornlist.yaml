@@ -12387,3 +12387,26 @@ payload:
   - DOMAIN-SUFFIX,cdn2b.video.pornhub.phncdn.com
   - DOMAIN-SUFFIX,cdn1c.video.pornhub.phncdn.com
   - DOMAIN-SUFFIX,cs.pornhub.phncdn.com
+
+  - DOMAIN-SUFFIX,v1.semprot.com
+  - DOMAIN-SUFFIX,www.semprot.com
+  - DOMAIN-SUFFIX,mail.semprot.com
+  - DOMAIN-SUFFIX,semprot.com
+  - DOMAIN-SUFFIX,ns2.semprot.com
+  - DOMAIN-SUFFIX,m.semprot.com
+  - DOMAIN-SUFFIX,mail.gambar123.com
+  - DOMAIN-SUFFIX,www.gambar123.com
+  - DOMAIN-SUFFIX,gambar123.com
+  - DOMAIN-SUFFIX,cdn-a.gambar123.com
+  - DOMAIN-SUFFIX,cdn-b.gambar123.com
+  - DOMAIN-SUFFIX,cdn-static.gambar123.com
+  - DOMAIN-SUFFIX,cdn-static-sm.gambar123.com
+  - DOMAIN-SUFFIX,cpanel.gambar123.com
+  - DOMAIN-SUFFIX,cpcalendars.gambar123.com
+  - DOMAIN-SUFFIX,cpcontacts.gambar123.com
+  - DOMAIN-SUFFIX,webdisk.gambar123.com
+  - DOMAIN-SUFFIX,webmail.gambar123.com
+  - DOMAIN-SUFFIX,www.cdn-static-sm.gambar123.com
+  - DOMAIN-SUFFIX,www.cdn-b.gambar123.com
+  - DOMAIN-SUFFIX,www.cdn-static.gambar123.com
+  - DOMAIN-SUFFIX,www.cdn-a.gambar123.com
