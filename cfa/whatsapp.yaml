@@ -11,3 +11,19 @@ payload:
   - DOMAIN-SUFFIX,media.fbdj2-1.fna.whatsapp.net
   - DOMAIN-SUFFIX,media-xsp1-2.cdn.whatsapp.net
   - DST-PORT,38211
+  - IP-CIDR,157.240.218.0/16,no-resolve 
+  - IP-CIDR,157.240.217.0/16,no-resolve 
+  - IP-CIDR,31.13.68.0/24,no-resolve 
+  - IP-CIDR,157.240.235.0/16,no-resolve 
+  - IP-CIDR,74.125.24.0/24,no-resolve 
+  - IP-CIDR,118.98.76.0/24,no-resolve 
+  - IP-CIDR,157.240.208.0/16,no-resolve 
+  - IP-CIDR,118.98.93.0/24,no-resolve 
+  - IP-CIDR,23.32.20.0/24,no-resolve 
+  - IP-CIDR,118.98.76.0/24,no-resolve 
+  - IP-CIDR,118.98.93.0/24,no-resolve 
+  - IP-CIDR,23.32.20.0/24,no-resolve 
+  - IP-CIDR,63.33.136.0/24,no-resolve 
+  - IP-CIDR,103.136.220.0/24,no-resolve 
+  - IP-CIDR,65.8.113.0/24,no-resolve 
+  - IP-CIDR,142.250.199.0/16,no-resolve
