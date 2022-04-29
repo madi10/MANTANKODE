@@ -8281,3 +8281,5 @@ payload:
   # > HUBSPOT.COM
   - DOMAIN-SUFFIX,track.hubspot.com
   - DOMAIN-SUFFIX,px.ads.linkedin.com
+
+  - DOMAIN-SUFFIX,googleads.g.doubleclick.net
