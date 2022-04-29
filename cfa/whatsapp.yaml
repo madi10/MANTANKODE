@@ -1,0 +1,13 @@
+payload:
+
+  # > WHATSAPP
+  - DOMAIN-SUFFIX,g.whatsapp.net
+  - DOMAIN-SUFFIX,web.whatsapp.com
+  - DOMAIN-SUFFIX,scontent.whatsapp.net
+  - DOMAIN-SUFFIX,whatsapp.com
+  - DOMAIN-SUFFIX,static.whatsapp.net
+  - DOMAIN-SUFFIX,whatsapp.net
+  - DOMAIN-SUFFIX,mmg.whatsapp.net
+  - DOMAIN-SUFFIX,media.fbdj2-1.fna.whatsapp.net
+  - DOMAIN-SUFFIX,media-xsp1-2.cdn.whatsapp.net
+  - DST-PORT,38211
