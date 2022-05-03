@@ -4,16 +4,13 @@
 
 # MANTANKODE
 
-Semua template blogger yang ada disini memiliki berbagai macam sumber.
-Untuk Nama desainer, website, versi, ada pada file yang tersedia.
-
-apabila ada template yang anda buat disini, dan diharuskan untuk di hapus. silahkan kontak saya lewat fanspage facebook mantankode [https://www.facebook.com/mantankode](https://www.facebook.com/mantankode)
+Apabila ada file, dan diharuskan untuk di hapus. silahkan kontak saya bisa lewat repo ini atau lewat fanspage facebook mantankode [https://www.facebook.com/mantankode](https://www.facebook.com/mantankode)
 
 ## Informasi
-Template yang ada disini merupakan template
+File yang ada disini merupakan hasil uji coba saya, karena ke ingin tahuan yang cukup besar. Seperti halnya
 - redesign
 - optimasi
-- backup
+- ide, dan lainnya
 
 Blog saya [https://www.mantankode.net/](https://www.mantankode.net/)
 
