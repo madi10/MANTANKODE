@@ -8277,3 +8277,6 @@ payload:
   # - URL-REGEX,https?://sax\w?.sina.com.cn
   # - URL-REGEX,https?://server-\w+.imrworldwide.com
   # - URL-REGEX,https?://www.bldimg.com/(background|splash)/.+.png$
+
+  # > Penipuan
+  - DOMAIN-SUFFIX,v-tube.biz
