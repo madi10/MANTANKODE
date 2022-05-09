@@ -4,7 +4,7 @@
 
 # MANTANKODE
 
-Apabila ada file, dan diharuskan untuk di hapus. silahkan kontak saya bisa lewat repo ini atau lewat fanspage facebook mantankode [https://www.facebook.com/mantankode](https://www.facebook.com/mantankode)
+Apabila ada file, dan diharuskan untuk di hapus. silahkan kontak saya bisa lewat repo ini atau lewat fanspage facebook mantankode [MANTANKODE](https://www.facebook.com/mantankode)
 
 ## Informasi
 File yang ada disini merupakan hasil uji coba saya, karena ke ingin tahuan yang cukup besar. Seperti halnya
@@ -18,5 +18,3 @@ Donasi Agar saya lebih semangat :)
 [https://trakteer.id/mantankode](https://trakteer.id/mantankode)
 
 [![Updated Badge](https://badges.pufler.dev/updated/madi10/MANTANKODE)](https://badges.pufler.dev)
-
-
