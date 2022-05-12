@@ -8278,8 +8278,10 @@ payload:
   # - URL-REGEX,https?://server-\w+.imrworldwide.com
   # - URL-REGEX,https?://www.bldimg.com/(background|splash)/.+.png$
 
-  # > Penipuan
+  # > Penipuan / Scam / Phishing
   - DOMAIN-SUFFIX,v-tube.biz
+  - DOMAIN-SUFFIX,contmporyproper.top
+  - DOMAIN-SUFFIX,kdtzml.top
 
   # > Judi
   - DOMAIN-SUFFIX,52.74.55.245
