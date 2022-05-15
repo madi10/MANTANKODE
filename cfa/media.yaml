@@ -124,3 +124,22 @@ payload:
   
 # imagebam.com
   - DOMAIN-SUFFIX,imagebam.com
+
+# goodjpe.com
+  - DOMAIN-SUFFIX,goodjpe.com
+  - DOMAIN-SUFFIX,live.goodjpe.com
+  - DOMAIN-SUFFIX,www.live.goodjpe.com
+  - DOMAIN-SUFFIX,play.goodjpe.com
+  - DOMAIN-SUFFIX,www.play.goodjpe.com
+  - DOMAIN-SUFFIX,losemp.goodjpe.com
+  - DOMAIN-SUFFIX,www.losemp.goodjpe.com
+  - DOMAIN-SUFFIX,stream.goodjpe.com
+  - DOMAIN-SUFFIX,www.stream.goodjpe.com
+  - DOMAIN-SUFFIX,cpanel.goodjpe.com
+  - DOMAIN-SUFFIX,cpcalendars.goodjpe.com
+  - DOMAIN-SUFFIX,cpcontacts.goodjpe.com
+  - DOMAIN-SUFFIX,goodjpe.com
+  - DOMAIN-SUFFIX,mail.goodjpe.com
+  - DOMAIN-SUFFIX,webdisk.goodjpe.com
+  - DOMAIN-SUFFIX,webmail.goodjpe.com
+  - DOMAIN-SUFFIX,www.goodjpe.com
