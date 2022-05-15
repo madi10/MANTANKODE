@@ -118,3 +118,9 @@ payload:
   - DOMAIN-SUFFIX,www.gdrive.doodstream.com
   - DOMAIN-SUFFIX,takedown.doodstream.com
   - DOMAIN-SUFFIX,www.takedown.doodstream.com
+  
+# imgbox.com
+  - DOMAIN-SUFFIX,imgbox.com
+  
+# imagebam.com
+  - DOMAIN-SUFFIX,imagebam.com
