@@ -5,11 +5,13 @@ termux-setup-storage
 
 2.) Pergi ke : 
 
-cd /data/data/com.termux/files 
+cd /data/data/com.termux/files/
 
 3.)  Lakukan backup dengan perintah : 
 
-tar -cvzf /sdcard/termux-backup.tgz --owner=0 --group=0 home usr 
+tar -cvzf /sdcard/termux-backup.tgz --owner=0 --group=0 home usr
+
+
 Cara Restore :
 1.) Pergi ke direktori tempat backup dengan perintah : 
 

@@ -1,0 +1,2 @@
+cd ../usr/etc
+nano bash.bashrc
