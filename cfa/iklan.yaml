@@ -1,5 +1,5 @@
 payload:
-
+  - DOMAIN-SUFFIX,
   # > iqiyi & pps
   - DOMAIN-SUFFIX,a.ckm.iqiyi.com
   - DOMAIN-SUFFIX,ad.m.iqiyi.com
