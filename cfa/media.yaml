@@ -1,6 +1,7 @@
 payload:
 
-# jpegbb.com
+  # > jpegbb.com
+  - DOMAIN-SUFFIX,jpegbb.com
   - DOMAIN-SUFFIX,imgs.jpegbb.com
   - DOMAIN-SUFFIX,www.imgs.jpegbb.com
   - DOMAIN-SUFFIX,img.jpegbb.com
@@ -41,7 +42,7 @@ payload:
   - DOMAIN-SUFFIX,www2.jpegbb.com
   - DOMAIN-SUFFIX,www.www2.jpegbb.com
 
-  # streamable.com
+  # > streamable.com
   - DOMAIN-SUFFIX,apps.streamable.com
   - DOMAIN-SUFFIX,data.streamable.com
   - DOMAIN-SUFFIX,cdn-sh-west.streamable.com
@@ -94,7 +95,7 @@ payload:
   - DOMAIN-SUFFIX,cdn-staging.streamable.com
   - DOMAIN-SUFFIX,www.cdn-staging.streamable.com
 
-# dood.pm doodstream.com
+  # > dood.pm doodstream.com
   - DOMAIN-SUFFIX,dood.pm
   - DOMAIN-SUFFIX,www.doodstream.com
   - DOMAIN-SUFFIX,img.sinb.doodstream.com
@@ -119,13 +120,13 @@ payload:
   - DOMAIN-SUFFIX,takedown.doodstream.com
   - DOMAIN-SUFFIX,www.takedown.doodstream.com
   
-# imgbox.com
+  # > imgbox.com
   - DOMAIN-SUFFIX,imgbox.com
   
-# imagebam.com
+  # > imagebam.com
   - DOMAIN-SUFFIX,imagebam.com
 
-# goodjpe.com
+  # > goodjpe.com
   - DOMAIN-SUFFIX,goodjpe.com
   - DOMAIN-SUFFIX,live.goodjpe.com
   - DOMAIN-SUFFIX,www.live.goodjpe.com
