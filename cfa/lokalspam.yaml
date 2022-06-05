@@ -1,0 +1,15 @@
+payload:
+  - DOMAIN-SUFFIX,
+  # > Penipuan / Scam / Phishing
+  - DOMAIN-SUFFIX,v-tube.biz
+  - DOMAIN-SUFFIX,contmporyproper.top
+  - DOMAIN-SUFFIX,kdtzml.top
+  - DOMAIN-SUFFIX,agtkantors.com
+  - DOMAIN-SUFFIX,venkysfarmidn.com
+  - DOMAIN-SUFFIX,agtoffice.com
+  - DOMAIN-SUFFIX,idenel.shop
+  - DOMAIN-SUFFIX,avxkk.com
+
+  # > Judi
+  - DOMAIN-SUFFIX,52.74.55.245
+  - DOMAIN-SUFFIX,recehoki.net
