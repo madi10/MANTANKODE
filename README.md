@@ -18,7 +18,15 @@ Tetapi jika anda berminat, silahkan digunakan.
 |  | CorelDraw | [Link](https://github.com/madi10/MANTANKODE/blob/master/AdGuard/Corel.txt) |
 |  | IDN_Spam | [Link](https://github.com/madi10/MANTANKODE/blob/master/AdGuard/lokalspam.txt) |
 |  | Media_Warning | [Link](https://github.com/madi10/MANTANKODE/blob/master/AdGuard/media.txt) |
-| CFA |
+|  | Pornlist | [Link](https://github.com/madi10/MANTANKODE/blob/master/AdGuard/pornlist.txt) |
+|  | TikTok | [Link](https://github.com/madi10/MANTANKODE/blob/master/AdGuard/tiktok.txt) |
+|  | Tokopedia | [Link](https://github.com/madi10/MANTANKODE/blob/master/AdGuard/tokopedia.txt) |
+|  | Windows | [Link](https://github.com/madi10/MANTANKODE/blob/master/AdGuard/windows.txt) |
+|  | WhatsApp | [Link](https://github.com/madi10/MANTANKODE/blob/master/AdGuard/WhatsApp.txt) |
+|  | XLAxiata | [Link](https://github.com/madi10/MANTANKODE/blob/master/AdGuard/xlaxiata.txt) |
+| CFA | IDN_Spam | [Link](https://github.com/madi10/MANTANKODE/blob/master/cfa/lokalspam.yaml) |
+|  | Media_Warning | [Link](https://github.com/madi10/MANTANKODE/blob/master/cfa/media.yaml) |
+
 
 # Donasi
 Agar saya lebih semangat :) yuk di bantu dengan traktirannya.
