@@ -1,7 +1,9 @@
 payload:
-  # > Update 2022-06-10
+  # > Update 2022-06-29
   - DOMAIN-SUFFIX,
-  # > Penipuan / Scam / Phishing
+  # > Mencegah sebelum terjadi
+  # > 
+  # > Penipuan / Scam / Phishing / MLM
   - DOMAIN-SUFFIX,v-tube.biz
   - DOMAIN-SUFFIX,contmporyproper.top
   - DOMAIN-SUFFIX,kdtzml.top
@@ -42,3 +44,6 @@ payload:
   - DOMAIN-SUFFIX,firstsolaridn.com
   - DOMAIN-SUFFIX,tspowerwall.com
   - DOMAIN-SUFFIX,minepi.com
+  - DOMAIN-SUFFIX,megaminex.com
+  - DOMAIN-SUFFIX,energyhijau.com
+  - DOMAIN-SUFFIX,coinmarketcap.com
