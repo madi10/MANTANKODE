@@ -2,8 +2,8 @@ payload:
   # > Update 2022-06-29
   - DOMAIN-SUFFIX,
   # > Mencegah sebelum terjadi
-  # > 
-  # > Penipuan / Scam / Phishing / MLM
+  # > Punya daftar seperti dibawah ini? ayo bantu saya melengkapi, agar hari selalu cerah.
+  # > Daftar hitam domain Penipuan / Scam / Phishing / MLM
   - DOMAIN-SUFFIX,v-tube.biz
   - DOMAIN-SUFFIX,contmporyproper.top
   - DOMAIN-SUFFIX,kdtzml.top
