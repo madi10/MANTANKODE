@@ -13,10 +13,11 @@ Tetapi jika anda berminat, silahkan digunakan.
 - dan sedikit catatan saya
 
 | Jenis | Nama | link |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | AdGuard | ADS | [Link](https://raw.githubusercontent.com/madi10/MANTANKODE/master/AdGuard/ADS.txt) |
 |  | CorelDraw | [Link](https://github.com/madi10/MANTANKODE/blob/master/AdGuard/Corel.txt) |
-|  |
+|  | IDN_Spam | [Link](https://github.com/madi10/MANTANKODE/blob/master/AdGuard/lokalspam.txt) |
+|  | Media_Warning | [Link](https://github.com/madi10/MANTANKODE/blob/master/AdGuard/media.txt) |
 | CFA |
 
 # Donasi
