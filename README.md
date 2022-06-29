@@ -35,9 +35,12 @@ Tetapi jika anda berminat, silahkan digunakan.
 
 # Donasi
 Agar saya lebih semangat :) yuk di bantu dengan traktirannya.
-[https://trakteer.id/mantankode](https://trakteer.id/mantankode)
+[Trakteer](https://trakteer.id/mantankode)
 
 # Bantu Pembaruan Daftar
 bagi anda punya daftar tersendiri dari file yang saya punya ini, bisa memasukkan daftar anda di link ini [New Issue](https://github.com/madi10/MANTANKODE/issues/new)
+
+# Kontrubusi
+[![Contributors Display](https://badges.pufler.dev/contributors/madi10/MANTANKODE?size=50&padding=5&bots=true)](https://badges.pufler.dev)
 
 [![Updated Badge](https://badges.pufler.dev/updated/madi10/MANTANKODE)](https://badges.pufler.dev)
