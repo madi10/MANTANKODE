@@ -1,0 +1,55 @@
+payload:
+  # > Update 2022-06-29
+  - DOMAIN-SUFFIX,
+  # > Mencegah sebelum terjadi
+  # > Punya daftar seperti dibawah ini? ayo bantu saya melengkapi, agar hari selalu cerah.
+  # > Daftar hitam domain Penipuan / Scam / Phishing / MLM
+  - DOMAIN-SUFFIX,52.74.55.245
+  - DOMAIN-SUFFIX,agtkantors.com
+  - DOMAIN-SUFFIX,agtlive.site
+  - DOMAIN-SUFFIX,agtoffice.com
+  - DOMAIN-SUFFIX,avxkk.com
+  - DOMAIN-SUFFIX,aximtradeindo.com
+  - DOMAIN-SUFFIX,bestcommunity.biz
+  - DOMAIN-SUFFIX,best-world.id
+  - DOMAIN-SUFFIX,bisnisyoutube.com
+  - DOMAIN-SUFFIX,bri-ib.online
+  - DOMAIN-SUFFIX,c.mql5.com
+  - DOMAIN-SUFFIX,cbrluxury.com
+  - DOMAIN-SUFFIX,coinmarketcap.com
+  - DOMAIN-SUFFIX,contmporyproper.top
+  - DOMAIN-SUFFIX,currencycoin.cash
+  - DOMAIN-SUFFIX,currencycoin.com
+  - DOMAIN-SUFFIX,digiassetindo.com
+  - DOMAIN-SUFFIX,digiassetindo.io
+  - DOMAIN-SUFFIX,digitalscommunity.co.id
+  - DOMAIN-SUFFIX,enel-id.com
+  - DOMAIN-SUFFIX,enelid.net
+  - DOMAIN-SUFFIX,enelit.net
+  - DOMAIN-SUFFIX,enelpk.com
+  - DOMAIN-SUFFIX,energyhijau.com
+  - DOMAIN-SUFFIX,firstsolaridn.com
+  - DOMAIN-SUFFIX,greenfruitvip.com
+  - DOMAIN-SUFFIX,harianrakyat.site
+  - DOMAIN-SUFFIX,idenel.net
+  - DOMAIN-SUFFIX,idenel.shop
+  - DOMAIN-SUFFIX,idenel.shop
+  - DOMAIN-SUFFIX,instal.id
+  - DOMAIN-SUFFIX,jazeera.co.id
+  - DOMAIN-SUFFIX,joincryptotrade.com
+  - DOMAIN-SUFFIX,kdtzml.top
+  - DOMAIN-SUFFIX,kekuatan-enel.com
+  - DOMAIN-SUFFIX,koppracentre.com
+  - DOMAIN-SUFFIX,megaminex.com
+  - DOMAIN-SUFFIX,minepi.com
+  - DOMAIN-SUFFIX,mql5.com
+  - DOMAIN-SUFFIX,pesta-bankbri2022.blogspot.com
+  - DOMAIN-SUFFIX,pkh22.my.id
+  - DOMAIN-SUFFIX,psgball.net
+  - DOMAIN-SUFFIX,recehoki.net
+  - DOMAIN-SUFFIX,rhinobt.com
+  - DOMAIN-SUFFIX,starmediago.com
+  - DOMAIN-SUFFIX,tspowerwall.com
+  - DOMAIN-SUFFIX,venkysfarmidn.com
+  - DOMAIN-SUFFIX,v-tube.biz
+  - DOMAIN-SUFFIX,www.mql5.com

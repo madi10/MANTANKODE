@@ -9,7 +9,7 @@ Tetapi jika anda berminat, silahkan digunakan.
 
 # Isi Repo ini.
 - Filter AdGuard
-- Filter Clash For Android
+- Filter Clash For Android (CFA)
 - dan sedikit catatan saya
 
 | Jenis | Nama | link |
