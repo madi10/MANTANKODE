@@ -34,7 +34,7 @@ payload:
   - DOMAIN-SUFFIX,recehoki.net
   - DOMAIN-SUFFIX,instal.id
   - DOMAIN-SUFFIX,currencycoin.cash
-  - DOMAIN-SUFFIX,mobile.digiassetindo.com
+  - DOMAIN-SUFFIX,digiassetindo.com
   - DOMAIN-SUFFIX,bisnisyoutube.com
   - DOMAIN-SUFFIX,bri-ib.online
   - DOMAIN-SUFFIX,psgball.net
@@ -47,3 +47,7 @@ payload:
   - DOMAIN-SUFFIX,megaminex.com
   - DOMAIN-SUFFIX,energyhijau.com
   - DOMAIN-SUFFIX,coinmarketcap.com
+  - DOMAIN-SUFFIX,jazeera.co.id
+  - DOMAIN-SUFFIX,rhinobt.com
+  - DOMAIN-SUFFIX,currencycoin.com
+  - DOMAIN-SUFFIX,digiassetindo.io
