@@ -4,53 +4,52 @@ payload:
   # > Mencegah sebelum terjadi
   # > Punya daftar seperti dibawah ini? ayo bantu saya melengkapi, agar hari selalu cerah.
   # > Daftar hitam domain Penipuan / Scam / Phishing / MLM
-  - DOMAIN-SUFFIX,v-tube.biz
-  - DOMAIN-SUFFIX,contmporyproper.top
-  - DOMAIN-SUFFIX,kdtzml.top
+  - DOMAIN-SUFFIX,52.74.55.245
   - DOMAIN-SUFFIX,agtkantors.com
-  - DOMAIN-SUFFIX,venkysfarmidn.com
+  - DOMAIN-SUFFIX,agtlive.site
   - DOMAIN-SUFFIX,agtoffice.com
-  - DOMAIN-SUFFIX,idenel.shop
-  - DOMAIN-SUFFIX,enelpk.com
-  - DOMAIN-SUFFIX,kekuatan-enel.com
   - DOMAIN-SUFFIX,avxkk.com
   - DOMAIN-SUFFIX,aximtradeindo.com
-  - DOMAIN-SUFFIX,koppracentre.com
-  - DOMAIN-SUFFIX,joincryptotrade.com
-  - DOMAIN-SUFFIX,mql5.com
-  - DOMAIN-SUFFIX,www.mql5.com
-  - DOMAIN-SUFFIX,c.mql5.com
-  - DOMAIN-SUFFIX,enel-id.com
-  - DOMAIN-SUFFIX,idenel.net
-  - DOMAIN-SUFFIX,enelid.net
-  - DOMAIN-SUFFIX,starmediago.com
-  - DOMAIN-SUFFIX,greenfruitvip.com
+  - DOMAIN-SUFFIX,bestcommunity.biz
   - DOMAIN-SUFFIX,best-world.id
-  - DOMAIN-SUFFIX,harianrakyat.site
-  - DOMAIN-SUFFIX,pesta-bankbri2022.blogspot.com
-  - DOMAIN-SUFFIX,enelit.net
-  - DOMAIN-SUFFIX,cbrluxury.com
-  - DOMAIN-SUFFIX,52.74.55.245
-  - DOMAIN-SUFFIX,recehoki.net
-  - DOMAIN-SUFFIX,instal.id
-  - DOMAIN-SUFFIX,currencycoin.cash
-  - DOMAIN-SUFFIX,digiassetindo.com
   - DOMAIN-SUFFIX,bisnisyoutube.com
   - DOMAIN-SUFFIX,bri-ib.online
-  - DOMAIN-SUFFIX,psgball.net
-  - DOMAIN-SUFFIX,digitalscommunity.co.id
-  - DOMAIN-SUFFIX,agtlive.site
-  - DOMAIN-SUFFIX,idenel.shop
-  - DOMAIN-SUFFIX,firstsolaridn.com
-  - DOMAIN-SUFFIX,tspowerwall.com
-  - DOMAIN-SUFFIX,minepi.com
-  - DOMAIN-SUFFIX,megaminex.com
-  - DOMAIN-SUFFIX,energyhijau.com
+  - DOMAIN-SUFFIX,c.mql5.com
+  - DOMAIN-SUFFIX,cbrluxury.com
   - DOMAIN-SUFFIX,coinmarketcap.com
-  - DOMAIN-SUFFIX,jazeera.co.id
-  - DOMAIN-SUFFIX,rhinobt.com
+  - DOMAIN-SUFFIX,contmporyproper.top
+  - DOMAIN-SUFFIX,currencycoin.cash
   - DOMAIN-SUFFIX,currencycoin.com
+  - DOMAIN-SUFFIX,digiassetindo.com
   - DOMAIN-SUFFIX,digiassetindo.io
-  - DOMAIN-SUFFIX,bestcommunity.biz
+  - DOMAIN-SUFFIX,digitalscommunity.co.id
+  - DOMAIN-SUFFIX,enel-id.com
+  - DOMAIN-SUFFIX,enelid.net
+  - DOMAIN-SUFFIX,enelit.net
+  - DOMAIN-SUFFIX,enelpk.com
+  - DOMAIN-SUFFIX,energyhijau.com
+  - DOMAIN-SUFFIX,firstsolaridn.com
+  - DOMAIN-SUFFIX,greenfruitvip.com
+  - DOMAIN-SUFFIX,harianrakyat.site
+  - DOMAIN-SUFFIX,idenel.net
+  - DOMAIN-SUFFIX,idenel.shop
+  - DOMAIN-SUFFIX,idenel.shop
+  - DOMAIN-SUFFIX,instal.id
+  - DOMAIN-SUFFIX,jazeera.co.id
+  - DOMAIN-SUFFIX,joincryptotrade.com
+  - DOMAIN-SUFFIX,kdtzml.top
+  - DOMAIN-SUFFIX,kekuatan-enel.com
+  - DOMAIN-SUFFIX,koppracentre.com
+  - DOMAIN-SUFFIX,megaminex.com
+  - DOMAIN-SUFFIX,minepi.com
+  - DOMAIN-SUFFIX,mql5.com
+  - DOMAIN-SUFFIX,pesta-bankbri2022.blogspot.com
   - DOMAIN-SUFFIX,pkh22.my.id
-  - DOMAIN-SUFFIX,b
+  - DOMAIN-SUFFIX,psgball.net
+  - DOMAIN-SUFFIX,recehoki.net
+  - DOMAIN-SUFFIX,rhinobt.com
+  - DOMAIN-SUFFIX,starmediago.com
+  - DOMAIN-SUFFIX,tspowerwall.com
+  - DOMAIN-SUFFIX,venkysfarmidn.com
+  - DOMAIN-SUFFIX,v-tube.biz
+  - DOMAIN-SUFFIX,www.mql5.com
