@@ -12,6 +12,13 @@ Tetapi jika anda berminat, silahkan digunakan.
 - Filter Clash For Android
 - dan sedikit catatan saya
 
+| Jenis | Nama | link |
+| --- | --- | --- | --- |
+| AdGuard | ADS | [Link](https://raw.githubusercontent.com/madi10/MANTANKODE/master/AdGuard/ADS.txt) |
+|  | CorelDraw | [Link](https://github.com/madi10/MANTANKODE/blob/master/AdGuard/Corel.txt) |
+|  |
+| CFA |
+
 # Donasi
 Agar saya lebih semangat :) yuk di bantu dengan traktirannya.
 [https://trakteer.id/mantankode](https://trakteer.id/mantankode)
