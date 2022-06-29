@@ -15,18 +15,23 @@ Tetapi jika anda berminat, silahkan digunakan.
 | Jenis | Nama | link |
 | --- | --- | --- |
 | AdGuard | ADS | [Link](https://raw.githubusercontent.com/madi10/MANTANKODE/master/AdGuard/ADS.txt) |
-|  | CorelDraw | [Link](https://github.com/madi10/MANTANKODE/blob/master/AdGuard/Corel.txt) |
-|  | IDN_Spam | [Link](https://github.com/madi10/MANTANKODE/blob/master/AdGuard/lokalspam.txt) |
-|  | Media_Warning | [Link](https://github.com/madi10/MANTANKODE/blob/master/AdGuard/media.txt) |
-|  | Pornlist | [Link](https://github.com/madi10/MANTANKODE/blob/master/AdGuard/pornlist.txt) |
-|  | TikTok | [Link](https://github.com/madi10/MANTANKODE/blob/master/AdGuard/tiktok.txt) |
-|  | Tokopedia | [Link](https://github.com/madi10/MANTANKODE/blob/master/AdGuard/tokopedia.txt) |
-|  | Windows | [Link](https://github.com/madi10/MANTANKODE/blob/master/AdGuard/windows.txt) |
-|  | WhatsApp | [Link](https://github.com/madi10/MANTANKODE/blob/master/AdGuard/WhatsApp.txt) |
-|  | XLAxiata | [Link](https://github.com/madi10/MANTANKODE/blob/master/AdGuard/xlaxiata.txt) |
-| CFA | IDN_Spam | [Link](https://github.com/madi10/MANTANKODE/blob/master/cfa/lokalspam.yaml) |
-|  | Media_Warning | [Link](https://github.com/madi10/MANTANKODE/blob/master/cfa/media.yaml) |
-
+|  | CorelDraw | [Link](https://raw.githubusercontent.com/madi10/MANTANKODE/master/AdGuard/Corel.txt) |
+|  | IDN_Spam | [Link](https://raw.githubusercontent.com/madi10/MANTANKODE/master/AdGuard/lokalspam.txt) |
+|  | Media_Warning | [Link](https://raw.githubusercontent.com/madi10/MANTANKODE/master/AdGuard/media.txt) |
+|  | Pornlist | [Link](https://raw.githubusercontent.com/madi10/MANTANKODE/master/AdGuard/pornlist.txt) |
+|  | TikTok | [Link](https://raw.githubusercontent.com/madi10/MANTANKODE/master/AdGuard/tiktok.txt) |
+|  | Tokopedia | [Link](https://raw.githubusercontent.com/madi10/MANTANKODE/master/AdGuard/tokopedia.txt) |
+|  | Windows | [Link](https://raw.githubusercontent.com/madi10/MANTANKODE/master/AdGuard/windows.txt) |
+|  | WhatsApp | [Link](https://raw.githubusercontent.com/madi10/MANTANKODE/master/AdGuard/WhatsApp.txt) |
+|  | XLAxiata | [Link](https://raw.githubusercontent.com/madi10/MANTANKODE/master/AdGuard/xlaxiata.txt) |
+| CFA | IDN_Spam | [Link](https://raw.githubusercontent.com/madi10/MANTANKODE/master/CFA/lokalspam.yaml) |
+|  | Media_Warning | [Link](https://raw.githubusercontent.com/madi10/MANTANKODE/master/CFA/media.yaml) |
+|  | Playstore | [Link](https://raw.githubusercontent.com/madi10/MANTANKODE/master/CFA/playstore.yaml) |
+|  | TikTok | [Link](https://raw.githubusercontent.com/madi10/MANTANKODE/master/CFA/tiktok.yaml) |
+|  | Tokopedia | [Link](https://raw.githubusercontent.com/madi10/MANTANKODE/master/CFA/tokopedia.yaml) |
+|  | WhatsApp | [Link](https://raw.githubusercontent.com/madi10/MANTANKODE/master/CFA/whatsapp.yaml) |
+|  | Windows | [Link](https://raw.githubusercontent.com/madi10/MANTANKODE/master/CFA/Windows.yaml) |
+|  | XLAxiata | [Link](https://raw.githubusercontent.com/madi10/MANTANKODE/master/CFA/xlaxiata.yaml) |
 
 # Donasi
 Agar saya lebih semangat :) yuk di bantu dengan traktirannya.
