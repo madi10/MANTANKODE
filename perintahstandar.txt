@@ -1,1 +1,3 @@
 git add * && git commit -m "update" && git push -u origin master
+
+<script async='async' crossorigin='anonymous' data-category='General' data-category-id='DIC_kwDOCxbvvc4COT5K' data-emit-metadata='0' data-mapping='pathname' data-reactions-enabled='1' data-repo='madi10/MANTANKODE' data-repo-id='MDEwOlJlcG9zaXRvcnkxODYwNTI1NDE=' data-theme='preferred_color_scheme' src='https://tegursapa.banghasan.com/client.js'></script>
