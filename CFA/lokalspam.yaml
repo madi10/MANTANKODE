@@ -1,6 +1,7 @@
 payload:
   # > Daftar hitam domain Penipuan / Scam / Phishing / MLM
   - DOMAIN-SUFFIX,52.74.55.245
+  - DOMAIN-SUFFIX,206.189.151.151
   - DOMAIN-SUFFIX,agtkantors.com
   - DOMAIN-SUFFIX,agtlive.site
   - DOMAIN-SUFFIX,agtoffice.com
@@ -27,6 +28,7 @@ payload:
   - DOMAIN-SUFFIX,firstsolaridn.com
   - DOMAIN-SUFFIX,greenfruitvip.com
   - DOMAIN-SUFFIX,harianrakyat.site
+  - DOMAIN-SUFFIX,hy-masker.shop
   - DOMAIN-SUFFIX,idenel.net
   - DOMAIN-SUFFIX,idenel.shop
   - DOMAIN-SUFFIX,idenel.shop
@@ -38,28 +40,26 @@ payload:
   - DOMAIN-SUFFIX,koppracentre.com
   - DOMAIN-SUFFIX,megaminex.com
   - DOMAIN-SUFFIX,minepi.com
-  - DOMAIN-SUFFIX,pimarket.id
-  - DOMAIN-SUFFIX,pitago.app
-  - DOMAIN-SUFFIX,pixu.vn
+  - DOMAIN-SUFFIX,mql5.com
   - DOMAIN-SUFFIX,okpi.shop
   - DOMAIN-SUFFIX,paypi.ai
+  - DOMAIN-SUFFIX,pesta-bankbri2022.blogspot.com
+  - DOMAIN-SUFFIX,pi-emporium.com
+  - DOMAIN-SUFFIX,pi-games.ga
   - DOMAIN-SUFFIX,pigoods.vn
   - DOMAIN-SUFFIX,pimallmetro.com
-  - DOMAIN-SUFFIX,pi-games.ga
-  - DOMAIN-SUFFIX,pi-emporium.com
-  - DOMAIN-SUFFIX,pitradecenter.com
+  - DOMAIN-SUFFIX,pimarket.id
   - DOMAIN-SUFFIX,pinetworkmarket.com
-  - DOMAIN-SUFFIX,mql5.com
-  - DOMAIN-SUFFIX,pesta-bankbri2022.blogspot.com
+  - DOMAIN-SUFFIX,pitago.app
+  - DOMAIN-SUFFIX,pitradecenter.com
+  - DOMAIN-SUFFIX,pixu.vn
   - DOMAIN-SUFFIX,pkh22.my.id
   - DOMAIN-SUFFIX,psgball.net
   - DOMAIN-SUFFIX,recehoki.net
   - DOMAIN-SUFFIX,rhinobt.com
   - DOMAIN-SUFFIX,starmediago.com
   - DOMAIN-SUFFIX,tspowerwall.com
+  - DOMAIN-SUFFIX,ultima7.net
   - DOMAIN-SUFFIX,venkysfarmidn.com
   - DOMAIN-SUFFIX,v-tube.biz
   - DOMAIN-SUFFIX,www.mql5.com
-  - DOMAIN-SUFFIX,206.189.151.151
-  - DOMAIN-SUFFIX,hy-masker.shop
-  - DOMAIN-SUFFIX,ultima7.net
