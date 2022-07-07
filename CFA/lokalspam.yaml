@@ -5,6 +5,8 @@ payload:
   # >  url: "https://raw.githubusercontent.com/madi10/MANTANKODE/master/CFA/lokalspam.yaml"
   # >  path: ./lokalspam.yaml
   # >  interval: 86400
+  # > 
+  # > 
   # > Daftar hitam domain Penipuan / Scam / Phishing / MLM
   - DOMAIN-SUFFIX,52.74.55.245
   - DOMAIN-SUFFIX,agtkantors.com
