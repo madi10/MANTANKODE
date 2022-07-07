@@ -16,6 +16,7 @@
 ||bri-ib.online^
 ||c.mql5.com^
 ||cbrluxury.com^
+||cerdassaham.com^
 ||coinmarketcap.com^
 ||contmporyproper.top^
 ||currencycoin.cash^
@@ -29,6 +30,8 @@
 ||enelpk.com^
 ||energyhijau.com^
 ||firstsolaridn.com^
+||gleam.io^
+||goldcoin.co.id^
 ||greenfruitvip.com^
 ||harianrakyat.site^
 ||hy-masker.shop^
@@ -41,6 +44,7 @@
 ||kdtzml.top^
 ||kekuatan-enel.com^
 ||koppracentre.com^
+||kowloon-global.tv^
 ||megaminex.com^
 ||minepi.com^
 ||mql5.com^
@@ -57,10 +61,12 @@
 ||pitradecenter.com^
 ||pixu.vn^
 ||pkh22.my.id^
+||ppgames.net^
 ||psgball.net^
 ||recehoki.net^
 ||rhinobt.com^
 ||starmediago.com^
+||tracker.winudf.com^
 ||tspowerwall.com^
 ||ultima7.net^
 ||venkysfarmidn.com^
