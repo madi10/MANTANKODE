@@ -9,6 +9,8 @@ payload:
   # > 
   # > Daftar hitam domain Penipuan / Scam / Phishing / MLM
   - DOMAIN-SUFFIX,52.74.55.245
+  - DOMAIN-SUFFIX,206.189.151.151
+  - DOMAIN-SUFFIX,4.227.187.119
   - DOMAIN-SUFFIX,agtkantors.com
   - DOMAIN-SUFFIX,agtlive.site
   - DOMAIN-SUFFIX,agtoffice.com
@@ -20,6 +22,7 @@ payload:
   - DOMAIN-SUFFIX,bri-ib.online
   - DOMAIN-SUFFIX,c.mql5.com
   - DOMAIN-SUFFIX,cbrluxury.com
+  - DOMAIN-SUFFIX,cerdassaham.com
   - DOMAIN-SUFFIX,coinmarketcap.com
   - DOMAIN-SUFFIX,contmporyproper.top
   - DOMAIN-SUFFIX,currencycoin.cash
@@ -33,10 +36,12 @@ payload:
   - DOMAIN-SUFFIX,enelpk.com
   - DOMAIN-SUFFIX,energyhijau.com
   - DOMAIN-SUFFIX,firstsolaridn.com
+  - DOMAIN-SUFFIX,gleam.io
+  - DOMAIN-SUFFIX,goldcoin.co.id
   - DOMAIN-SUFFIX,greenfruitvip.com
   - DOMAIN-SUFFIX,harianrakyat.site
+  - DOMAIN-SUFFIX,hy-masker.shop
   - DOMAIN-SUFFIX,idenel.net
-  - DOMAIN-SUFFIX,idenel.shop
   - DOMAIN-SUFFIX,idenel.shop
   - DOMAIN-SUFFIX,instal.id
   - DOMAIN-SUFFIX,jazeera.co.id
@@ -44,40 +49,34 @@ payload:
   - DOMAIN-SUFFIX,kdtzml.top
   - DOMAIN-SUFFIX,kekuatan-enel.com
   - DOMAIN-SUFFIX,koppracentre.com
+  - DOMAIN-SUFFIX,kowloon-global.tv
   - DOMAIN-SUFFIX,megaminex.com
   - DOMAIN-SUFFIX,minepi.com
-  - DOMAIN-SUFFIX,pimarket.id
-  - DOMAIN-SUFFIX,pitago.app
-  - DOMAIN-SUFFIX,pixu.vn
+  - DOMAIN-SUFFIX,mql5.com
+  - DOMAIN-SUFFIX,nagaya.co
   - DOMAIN-SUFFIX,okpi.shop
   - DOMAIN-SUFFIX,paypi.ai
+  - DOMAIN-SUFFIX,pemain168.ink
+  - DOMAIN-SUFFIX,pesta-bankbri2022.blogspot.com
+  - DOMAIN-SUFFIX,pi-emporium.com
+  - DOMAIN-SUFFIX,pi-games.ga
   - DOMAIN-SUFFIX,pigoods.vn
   - DOMAIN-SUFFIX,pimallmetro.com
-  - DOMAIN-SUFFIX,pi-games.ga
-  - DOMAIN-SUFFIX,pi-emporium.com
-  - DOMAIN-SUFFIX,pitradecenter.com
+  - DOMAIN-SUFFIX,pimarket.id
   - DOMAIN-SUFFIX,pinetworkmarket.com
-  - DOMAIN-SUFFIX,mql5.com
-  - DOMAIN-SUFFIX,pesta-bankbri2022.blogspot.com
+  - DOMAIN-SUFFIX,pitago.app
+  - DOMAIN-SUFFIX,pitradecenter.com
+  - DOMAIN-SUFFIX,pixu.vn
   - DOMAIN-SUFFIX,pkh22.my.id
+  - DOMAIN-SUFFIX,ppgames.net
   - DOMAIN-SUFFIX,psgball.net
   - DOMAIN-SUFFIX,recehoki.net
   - DOMAIN-SUFFIX,rhinobt.com
+  - DOMAIN-SUFFIX,sini4d.xn--6frz82g
   - DOMAIN-SUFFIX,starmediago.com
+  - DOMAIN-SUFFIX,tracker.winudf.com
   - DOMAIN-SUFFIX,tspowerwall.com
+  - DOMAIN-SUFFIX,ultima7.net
   - DOMAIN-SUFFIX,venkysfarmidn.com
   - DOMAIN-SUFFIX,v-tube.biz
   - DOMAIN-SUFFIX,www.mql5.com
-  - DOMAIN-SUFFIX,206.189.151.151
-  - DOMAIN-SUFFIX,hy-masker.shop
-  - DOMAIN-SUFFIX,ultima7.net
-  - DOMAIN-SUFFIX,ppgames.net
-  - DOMAIN-SUFFIX,cerdassaham.com
-  - DOMAIN-SUFFIX,goldcoin.co.id
-  - DOMAIN-SUFFIX,kowloon-global.tv
-  - DOMAIN-SUFFIX,gleam.io
-  - DOMAIN-SUFFIX,tracker.winudf.com
-  - DOMAIN-SUFFIX,pemain168.ink
-  - DOMAIN-SUFFIX,4.227.187.119
-  - DOMAIN-SUFFIX,sini4d.xn--6frz82g
-  - DOMAIN-SUFFIX,nagaya.co
