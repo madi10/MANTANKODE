@@ -518,7 +518,6 @@ payload:
   - DOMAIN-SUFFIX,saveu.tiktokv.com
   - DOMAIN-SUFFIX,api3-normal-c-useast1a.tiktokv.com
   - DOMAIN-SUFFIX,api3-core-c-useast1a.tiktokv.com
-  
   # tiktokcdn
   - DOMAIN-SUFFIX,p16-test.tiktokcdn.com
   - DOMAIN-SUFFIX,v25-us.tiktokcdn.com
@@ -653,3 +652,9 @@ payload:
   - DOMAIN-SUFFIX,sf77-webcast.tiktokcdn.com
   - DOMAIN-SUFFIX,p58-sign-sg.tiktokcdn.com
   - DOMAIN-SUFFIX,sf16-sg.tiktokcdn.com
+  - DOMAIN-SUFFIX,mon16-normal-useast1a.tiktokv.com
+  - DOMAIN-SUFFIX,pitaya.tiktokv.com
+  - DOMAIN-SUFFIX,v39-id.tiktokcdn.com
+  - DOMAIN-SUFFIX,log16-normal-useast2a.tiktokv.com
+  - DOMAIN-SUFFIX,search16-normal-useast2a.tiktokv.com
+  - DOMAIN-SUFFIX,search22-normal-useast2a.tiktokv.com

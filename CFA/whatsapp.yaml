@@ -5,6 +5,13 @@ payload:
   - DOMAIN-SUFFIX,mmg.whatsapp.net
   - DOMAIN-SUFFIX,media.fbdj2-1.fna.whatsapp.net
   - DOMAIN-SUFFIX,media-xsp1-2.cdn.whatsapp.net
+  - DOMAIN-SUFFIX,g.whatsapp.net
+  - DOMAIN-SUFFIX,w270c56ca1-gqydenzyhazdgnjq.snr.whatsapp.net
+  - DOMAIN-SUFFIX,static.whatsapp.net
+  - DOMAIN-SUFFIX,w19cfae661-ge4dcobxga2dgmrx.snr.whatsapp.net
+  - DOMAIN-SUFFIX,e12.whatsapp.net
+  - DOMAIN-SUFFIX,e3.whatsapp.net
+  - DOMAIN-SUFFIX,pps.whatsapp.net
   - IP-CIDR,31.13.64.51/32,no-resolve 
   - IP-CIDR,31.13.64.53/32,no-resolve 
   - IP-CIDR,31.13.65.49/32,no-resolve 
