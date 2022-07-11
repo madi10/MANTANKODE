@@ -3,9 +3,9 @@
 ### Updated: 2022-06-10
 ### More info: 
 
-||52.74.55.245^
 ||206.189.151.151^
 ||4.227.187.119^
+||52.74.55.245^
 ||agtkantors.com^
 ||agtlive.site^
 ||agtoffice.com^
@@ -25,6 +25,8 @@
 ||digiassetindo.com^
 ||digiassetindo.io^
 ||digitalscommunity.co.id^
+||draguilarcota.com^
+||draguilarcota-com.cdn.ampproject.org^
 ||enel-id.com^
 ||enelid.net^
 ||enelit.net^
@@ -45,6 +47,7 @@
 ||kekuatan-enel.com^
 ||koppracentre.com^
 ||kowloon-global.tv^
+||landak.lol^
 ||megaminex.com^
 ||minepi.com^
 ||mql5.com^
@@ -73,5 +76,7 @@
 ||tspowerwall.com^
 ||ultima7.net^
 ||venkysfarmidn.com^
+||visahoki.com^
 ||v-tube.biz^
 ||www.mql5.com^
+||yuk-mantul-mantul.com^
