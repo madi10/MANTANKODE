@@ -7,7 +7,7 @@ payload:
   # >  interval: 86400
   # > 
   # > 
-  # > Daftar hitam domain Penipuan / Scam / Phishing / MLM
+  # > Daftar hitam domain Penipuan / Scam / Phishing / MLM / Judi
   - DOMAIN-SUFFIX,206.189.151.151
   - DOMAIN-SUFFIX,4.227.187.119
   - DOMAIN-SUFFIX,52.74.55.245
