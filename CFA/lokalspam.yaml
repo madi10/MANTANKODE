@@ -8,22 +8,26 @@ payload:
   # > 
   # > 
   # > Daftar hitam domain Penipuan / Scam / Phishing / MLM / Judi
+  - DOMAIN-SUFFIX,167.172.93.78
   - DOMAIN-SUFFIX,206.189.151.151
   - DOMAIN-SUFFIX,4.227.187.119
   - DOMAIN-SUFFIX,52.74.55.245
+  - DOMAIN-SUFFIX,5gqualcomn.com
   - DOMAIN-SUFFIX,agtkantors.com
   - DOMAIN-SUFFIX,agtlive.site
   - DOMAIN-SUFFIX,agtoffice.com
   - DOMAIN-SUFFIX,avxkk.com
-  - DOMAIN-SUFFIX,x2make.com
   - DOMAIN-SUFFIX,aximtradeindo.com
   - DOMAIN-SUFFIX,bestcommunity.biz
   - DOMAIN-SUFFIX,best-world.id
+  - DOMAIN-SUFFIX,bisnisnoriba.net
   - DOMAIN-SUFFIX,bisnisyoutube.com
+  - DOMAIN-SUFFIX,bokepbocil-id.app.link
   - DOMAIN-SUFFIX,bri-ib.online
   - DOMAIN-SUFFIX,c.mql5.com
   - DOMAIN-SUFFIX,cbrluxury.com
   - DOMAIN-SUFFIX,cerdassaham.com
+  - DOMAIN-SUFFIX,cinemaprofit.com
   - DOMAIN-SUFFIX,coinmarketcap.com
   - DOMAIN-SUFFIX,contmporyproper.top
   - DOMAIN-SUFFIX,currencycoin.cash
@@ -33,11 +37,18 @@ payload:
   - DOMAIN-SUFFIX,digitalscommunity.co.id
   - DOMAIN-SUFFIX,draguilarcota.com
   - DOMAIN-SUFFIX,draguilarcota-com.cdn.ampproject.org
+  - DOMAIN-SUFFIX,ecoracing.biz.id
+  - DOMAIN-SUFFIX,ecoracing.my.id
+  - DOMAIN-SUFFIX,ecoracing.top
+  - DOMAIN-SUFFIX,ecoracing.website
+  - DOMAIN-SUFFIX,ecoracingclub.org
+  - DOMAIN-SUFFIX,ecoracing-world.com
   - DOMAIN-SUFFIX,enel-id.com
   - DOMAIN-SUFFIX,enelid.net
   - DOMAIN-SUFFIX,enelit.net
   - DOMAIN-SUFFIX,enelpk.com
   - DOMAIN-SUFFIX,energyhijau.com
+  - DOMAIN-SUFFIX,erindacredit.com
   - DOMAIN-SUFFIX,firstsolaridn.com
   - DOMAIN-SUFFIX,gleam.io
   - DOMAIN-SUFFIX,goldcoin.co.id
@@ -54,10 +65,17 @@ payload:
   - DOMAIN-SUFFIX,koppracentre.com
   - DOMAIN-SUFFIX,kowloon-global.tv
   - DOMAIN-SUFFIX,landak.lol
+  - DOMAIN-SUFFIX,lgkm.net
+  - DOMAIN-SUFFIX,lgtfundgroup.com
+  - DOMAIN-SUFFIX,lummoshop.com
   - DOMAIN-SUFFIX,megaminex.com
   - DOMAIN-SUFFIX,minepi.com
+  - DOMAIN-SUFFIX,motorplus-online.com
+  - DOMAIN-SUFFIX,motorplus-online.com/amp/252002057/bikin-irit-bensin-motor-pemilik-eco-racing-pastikan-produk-teruji-dan-bisa-dipertanggungjawabkan
   - DOMAIN-SUFFIX,mql5.com
   - DOMAIN-SUFFIX,nagaya.co
+  - DOMAIN-SUFFIX,oeridab.com
+  - DOMAIN-SUFFIX,oeridab.com/857/cukup-1-juta-anda-bawa-honda-mobilio-ala-eco-racing
   - DOMAIN-SUFFIX,okpi.shop
   - DOMAIN-SUFFIX,paypi.ai
   - DOMAIN-SUFFIX,pemain168.ink
@@ -74,8 +92,12 @@ payload:
   - DOMAIN-SUFFIX,pkh22.my.id
   - DOMAIN-SUFFIX,ppgames.net
   - DOMAIN-SUFFIX,psgball.net
+  - DOMAIN-SUFFIX,rajaclosingindonesia.com
   - DOMAIN-SUFFIX,recehoki.net
   - DOMAIN-SUFFIX,rhinobt.com
+  - DOMAIN-SUFFIX,sang-juara.com
+  - DOMAIN-SUFFIX,sinergyclub.ecoracing.top
+  - DOMAIN-SUFFIX,sinergy-world.com
   - DOMAIN-SUFFIX,sini4d.xn--6frz82g
   - DOMAIN-SUFFIX,starmediago.com
   - DOMAIN-SUFFIX,tracker.winudf.com
@@ -84,29 +106,7 @@ payload:
   - DOMAIN-SUFFIX,venkysfarmidn.com
   - DOMAIN-SUFFIX,visahoki.com
   - DOMAIN-SUFFIX,v-tube.biz
-  - DOMAIN-SUFFIX,www.mql5.com
-  - DOMAIN-SUFFIX,yuk-mantul-mantul.com
-  - DOMAIN-SUFFIX,lgkm.net
-  - DOMAIN-SUFFIX,erindacredit.com
-  - DOMAIN-SUFFIX,ecoracing.biz.id
-  - DOMAIN-SUFFIX,oeridab.com
-  - DOMAIN-SUFFIX,ecoracing.top
-  - DOMAIN-SUFFIX,sinergyclub.ecoracing.top
-  - DOMAIN-SUFFIX,ecoracing-world.com
-  - DOMAIN-SUFFIX,oeridab.com/857/cukup-1-juta-anda-bawa-honda-mobilio-ala-eco-racing
-  - DOMAIN-SUFFIX,ecoracingclub.org
-  - DOMAIN-SUFFIX,ecoracing.my.id
   - DOMAIN-SUFFIX,wigatos.com/5267-cara-kerja-eco-racing/
-  - DOMAIN-SUFFIX,sang-juara.com
-  - DOMAIN-SUFFIX,167.172.93.78
-  - DOMAIN-SUFFIX,lgtfundgroup.com
-  - DOMAIN-SUFFIX,lummoshop.com
-  - DOMAIN-SUFFIX,sinergy-world.com
-  - DOMAIN-SUFFIX,5gqualcomn.com
-  - DOMAIN-SUFFIX,cinemaprofit.com
-  - DOMAIN-SUFFIX,bokepbocil-id.app.link
-  - DOMAIN-SUFFIX,bisnisnoriba.net
-  - DOMAIN-SUFFIX,rajaclosingindonesia.com
-  - DOMAIN-SUFFIX,ecoracing.website
-  - DOMAIN-SUFFIX,motorplus-online.com
-  - DOMAIN-SUFFIX,motorplus-online.com/amp/252002057/bikin-irit-bensin-motor-pemilik-eco-racing-pastikan-produk-teruji-dan-bisa-dipertanggungjawabkan
+  - DOMAIN-SUFFIX,www.mql5.com
+  - DOMAIN-SUFFIX,x2make.com
+  - DOMAIN-SUFFIX,yuk-mantul-mantul.com
