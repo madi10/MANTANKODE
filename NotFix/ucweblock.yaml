@@ -1,0 +1,5 @@
+payload:
+  - DOMAIN-SUFFIX,attr.union.ucweb.com
+  - DOMAIN-SUFFIX,gjtrack.ucweb.com
+  - DOMAIN-SUFFIX,gjapplog.ucweb.com
+  - DOMAIN-SUFFIX,plugin.ucads.ucweb.com
