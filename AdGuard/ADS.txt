@@ -1,7 +1,8 @@
-### LokalSpam - AdGuard
+### Pornlist - AdGuard
 ### License: MIT
 ### Updated: 2022-06-10
 ### Duplicat for: https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/reject.txt
+### Duplicat for: For Me
 
 ||0.code.cotsta.ru^
 ||0.nextyourcontent.com^
@@ -53518,3 +53519,146 @@
 ||zzyonghao.com^
 ||zzyytt.top^
 ||zzznews.ru^
+# Google Ads
+||pagead2.googlesyndication.com^
+||pagead2.googleadservices.com^
+||ads.google.com^
+#Media.net^
+||static.media.net^
+||adservetx.media.net^
+#Doubleclick.net^
+||mediavisor.doubleclick.net^
+||m.doubleclick.net^
+||static.doubleclick.net^
+||ad.doubleclick.net^
+#FastClick
+||media.fastclick.net^
+||cdn.fastclick.net^
+#Amazon
+||adtago.s3.amazonaws.com^
+||analyticsengine.s3.amazonaws.com^
+||advice-ads.s3.amazonaws.com^
+||affiliationjs.s3.amazonaws.com^
+||advertising-api-eu.amazon.com^
+||amazonclix.com^
+## Analytics ====================
+# Yahoo
+||global.adserver.yahoo.com^
+||us.adserver.yahoo.com^
+||adspecs.yahoo.com^
+||br.adspecs.yahoo.com^
+||latam.adspecs.yahoo.com^
+||ush.adspecs.yahoo.com^
+||advertising.yahoo.com^
+||de.advertising.yahoo.com^
+||es.advertising.yahoo.com^
+||fr.advertising.yahoo.com^
+||in.advertising.yahoo.com^
+||it.advertising.yahoo.com^
+||sea.advertising.yahoo.com^
+||uk.advertising.yahoo.com^
+||cms.analytics.yahoo.com^
+||opus.analytics.yahoo.com^
+||sp.analytics.yahoo.com^
+||comet.yahoo.com^
+||log.fc.yahoo.com^
+||gemini.yahoo.com^
+||pclick.yahoo.com^
+||geo.query.yahoo.com^
+||onepush.query.yahoo.com^
+||m.yap.yahoo.com^
+# Yandex
+||redirect.appmetrica.yandex.com^
+||19534.redirect.appmetrica.yandex.com^
+||3.redirect.appmetrica.yandex.com^
+||30488.redirect.appmetrica.yandex.com^
+||4.redirect.appmetrica.yandex.com^
+||report.appmetrica.yandex.net^
+||offerwall.yandex.net^
+||matchid.adfox.yandex.ru^
+||redirect.appmetrica.yandex.ru^
+||bs-meta.yandex.ru^
+||clck.yandex.ru^
+||grade.market.yandex.ru^
+||metrika.yandex.ru^
+||click.sender.yandex.ru^
+||share.yandex.ru^
+||mobile.yandexadexchange.net^
+#Google Analytics
+||ssl.google-analytics.com^
+#Hotjar
+||api-hotjar.com^
+||hotjar-analytics.com^
+||static.hotjar.com^
+#MouseFlow
+||a.mouseflow.com^
+#FreshMarketer
+#Luckyorange
+||cdn.luckyorange.com^
+||w1.luckyorange.com^
+||upload.luckyorange.net^
+||cs.luckyorange.net^
+||settings.luckyorange.net^
+#Stats WP Plugin
+##Error Trackers ====================
+#Bugsnag
+||api.bugsnag.com^
+||app.bugsnag.com^
+#Sentry
+||browser.sentry-cdn.com^
+||app.getsentry.com^
+##Social ====================
+#Facebook
+||ads.facebook.com^
+#Twitter
+||ads-api.twitter.com^
+||advertising.twitter.com^
+||static.ads-twitter.com^
+#LinkedIn
+#Pinterest
+||widgets.pinterest.com^
+#Reddit
+||ads.reddit.com^
+||d.reddit.com^
+# TikTok
+#YouTube
+||youtube.cleverads.vn^
+##Mix ====================
+##OEM ====================
+#Realme
+||bdapi-in-ads.realmemobile.com^
+#OPPO
+||adsfs.oppomobile.com^
+||adx.ads.oppomobile.com^
+||bdapi.ads.oppomobile.com^
+||ck.ads.oppomobile.com^
+||data.ads.oppomobile.com^
+||g1.ads.oppomobile.com^
+#Xiaomi
+||api.ad.xiaomi.com^
+||app.chat.xiaomi.net^
+||data.mistat.xiaomi.com^
+||data.mistat.ru^s.xiaomi.com^
+||sdkconfig.ad.xiaomi.com^
+||sdkconfig.ad.intl.xiaomi.com^
+||globalapi.ad.xiaomi.com^
+||www.cdn.ad.xiaomi.com^
+||tracking.india.miui.com^
+||tracking.ru^s.miui.com^
+#OnePlus
+||analytics.oneplus.cn^
+#Huawei
+||metrics.data.hicloud.com^
+||metrics1.data.hicloud.com^
+||metrics2.data.hicloud.com^
+||metrics3.data.hicloud.com^
+||metrics4.data.hicloud.com^
+||metrics5.data.hicloud.com^
+#Samsung
+||ad.samsungadhub.com^
+||samsung-com.112.2o7.net^
+||business.samsungusa.com^
+||config.samsungads.com^
+#Apple
+||metrics.apple.com^
+||dzc-metrics.mzstatic.com^
