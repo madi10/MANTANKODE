@@ -121,3 +121,5 @@
 ||static.nukeasset.com^
 ||nukeasset.com^
 ||moadsense.com^
+||app.ptppii.com^
+||ptppii.com^
