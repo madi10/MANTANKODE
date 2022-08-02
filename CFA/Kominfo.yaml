@@ -1,0 +1,5 @@
+payload:
+  # > Config regex Kominfo
+  - 'kominfo.*'
+  - '*.kominfo.*'
+  - '*.kominfo'
