@@ -4,6 +4,7 @@
 ### Duplicat for: https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/reject.txt
 ### Duplicat for: For Me
 
+||advice-ads.s3.amazonaws.com^
 ||0.code.cotsta.ru^
 ||0.nextyourcontent.com^
 ||0001.best^
