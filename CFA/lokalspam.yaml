@@ -8,45 +8,37 @@ payload:
   # > 
   # > 
   # > Daftar hitam domain Penipuan / Scam / Phishing / MLM / Judi
+  - DOMAIN-KEYWORD,bokep
+  - DOMAIN-KEYWORD,ecoracing
+  - DOMAIN-KEYWORD,enel
+  - DOMAIN-KEYWORD,porn
+  - DOMAIN-KEYWORD,skor88
+  - DOMAIN-SUFFIX,103.5.47.11
+  - DOMAIN-SUFFIX,165.22.218.75
   - DOMAIN-SUFFIX,167.172.93.78
   - DOMAIN-SUFFIX,206.189.151.151
   - DOMAIN-SUFFIX,4.227.187.119
   - DOMAIN-SUFFIX,52.74.55.245
   - DOMAIN-SUFFIX,5gqualcomn.com
+  - DOMAIN-SUFFIX,68.183.33.181
   - DOMAIN-SUFFIX,agtkantors.com
   - DOMAIN-SUFFIX,agtlive.site
   - DOMAIN-SUFFIX,agtoffice.com
-  - DOMAIN-SUFFIX,avxkk.com
-  - DOMAIN-SUFFIX,xtoko.co
-  - DOMAIN-KEYWORD,skor88
-  - DOMAIN-KEYWORD,bokep
-  - DOMAIN-KEYWORD,porn
-  - DOMAIN-KEYWORD,ecoracing
-  - DOMAIN-KEYWORD,enel
-  - DOMAIN-SUFFIX,m.atomy.com
-  - DOMAIN-SUFFIX,atomy.com
-  - DOMAIN-SUFFIX,skor88.news
-  - DOMAIN-SUFFIX,68.183.33.181
-  - DOMAIN-SUFFIX,165.22.218.75
-  - DOMAIN-SUFFIX,103.5.47.11
-  - DOMAIN-SUFFIX,sk-88.xyz
-  - DOMAIN-SUFFIX,pgweb.uplus.co.kr
-  - DOMAIN-SUFFIX,unitedmin.com
-  - DOMAIN-SUFFIX,dable.io
-  - DOMAIN-SUFFIX,myazaria.com
-  - DOMAIN-SUFFIX,shell-plan.com
-  - DOMAIN-SUFFIX,pomf2.lain.la
+  - DOMAIN-SUFFIX,app.ptppii.com
   - DOMAIN-SUFFIX,aschoolz.com
+  - DOMAIN-SUFFIX,atomy.com
+  - DOMAIN-SUFFIX,avxkk.com
   - DOMAIN-SUFFIX,aximtradeindo.com
   - DOMAIN-SUFFIX,bestcommunity.biz
   - DOMAIN-SUFFIX,best-world.id
+  - DOMAIN-SUFFIX,bisanetwork.id
   - DOMAIN-SUFFIX,bisnisnoriba.net
   - DOMAIN-SUFFIX,bisnisyoutube.com
+  - DOMAIN-SUFFIX,bokepbocil.app.link
   - DOMAIN-SUFFIX,bokepbocil-id.app.link
+  - DOMAIN-SUFFIX,bokeptiktok.app.link
   - DOMAIN-SUFFIX,bri-ib.online
   - DOMAIN-SUFFIX,c.mql5.com
-  - DOMAIN-SUFFIX,bisanetwork.id
-  - DOMAIN-SUFFIX,produkbisa.com
   - DOMAIN-SUFFIX,cbrluxury.com
   - DOMAIN-SUFFIX,cerdassaham.com
   - DOMAIN-SUFFIX,cinemaprofit.com
@@ -54,20 +46,20 @@ payload:
   - DOMAIN-SUFFIX,contmporyproper.top
   - DOMAIN-SUFFIX,currencycoin.cash
   - DOMAIN-SUFFIX,currencycoin.com
+  - DOMAIN-SUFFIX,dable.io
   - DOMAIN-SUFFIX,digiassetindo.com
   - DOMAIN-SUFFIX,digiassetindo.io
   - DOMAIN-SUFFIX,digitalscommunity.co.id
   - DOMAIN-SUFFIX,draguilarcota.com
   - DOMAIN-SUFFIX,draguilarcota-com.cdn.ampproject.org
+  - DOMAIN-SUFFIX,ecofarming.support
   - DOMAIN-SUFFIX,ecoracing.biz.id
   - DOMAIN-SUFFIX,ecoracing.my.id
   - DOMAIN-SUFFIX,ecoracing.top
-  - DOMAIN-SUFFIX,ecofarming.support
   - DOMAIN-SUFFIX,ecoracing.website
   - DOMAIN-SUFFIX,ecoracingclub.org
   - DOMAIN-SUFFIX,ecoracing-world.com
   - DOMAIN-SUFFIX,enel-id.com
-  - DOMAIN-SUFFIX,ifinex.id
   - DOMAIN-SUFFIX,enelid.net
   - DOMAIN-SUFFIX,enelit.net
   - DOMAIN-SUFFIX,enelpk.com
@@ -75,40 +67,45 @@ payload:
   - DOMAIN-SUFFIX,erindacredit.com
   - DOMAIN-SUFFIX,firstsolaridn.com
   - DOMAIN-SUFFIX,gleam.io
-  - DOMAIN-SUFFIX,plain.za.com
-  - DOMAIN-SUFFIX,bokepbocil-id.app.link
-  - DOMAIN-SUFFIX,bokepbocil.app.link
-  - DOMAIN-SUFFIX,bokeptiktok.app.link
   - DOMAIN-SUFFIX,goldcoin.co.id
   - DOMAIN-SUFFIX,greenfruitvip.com
   - DOMAIN-SUFFIX,harianrakyat.site
   - DOMAIN-SUFFIX,hy-masker.shop
   - DOMAIN-SUFFIX,idenel.net
   - DOMAIN-SUFFIX,idenel.shop
+  - DOMAIN-SUFFIX,ifinex.id
   - DOMAIN-SUFFIX,instal.id
   - DOMAIN-SUFFIX,jazeera.co.id
   - DOMAIN-SUFFIX,joincryptotrade.com
   - DOMAIN-SUFFIX,kdtzml.top
   - DOMAIN-SUFFIX,kekuatan-enel.com
+  - DOMAIN-SUFFIX,klabee.com
   - DOMAIN-SUFFIX,koppracentre.com
   - DOMAIN-SUFFIX,kowloon-global.tv
   - DOMAIN-SUFFIX,landak.lol
   - DOMAIN-SUFFIX,layananpromo.com
   - DOMAIN-SUFFIX,lgkm.net
   - DOMAIN-SUFFIX,lgtfundgroup.com
+  - DOMAIN-SUFFIX,lgtfundgroup.net
+  - DOMAIN-SUFFIX,ltgfundsbest.net
   - DOMAIN-SUFFIX,lummoshop.com
+  - DOMAIN-SUFFIX,m.atomy.com
   - DOMAIN-SUFFIX,megaminex.com
   - DOMAIN-SUFFIX,minepi.com
+  - DOMAIN-SUFFIX,moadsense.com
   - DOMAIN-SUFFIX,motorplus-online.com
   - DOMAIN-SUFFIX,motorplus-online.com/amp/252002057/bikin-irit-bensin-motor-pemilik-eco-racing-pastikan-produk-teruji-dan-bisa-dipertanggungjawabkan
   - DOMAIN-SUFFIX,mql5.com
+  - DOMAIN-SUFFIX,myazaria.com
   - DOMAIN-SUFFIX,nagaya.co
+  - DOMAIN-SUFFIX,nukeasset.com
   - DOMAIN-SUFFIX,oeridab.com
   - DOMAIN-SUFFIX,oeridab.com/857/cukup-1-juta-anda-bawa-honda-mobilio-ala-eco-racing
   - DOMAIN-SUFFIX,okpi.shop
   - DOMAIN-SUFFIX,paypi.ai
   - DOMAIN-SUFFIX,pemain168.ink
   - DOMAIN-SUFFIX,pesta-bankbri2022.blogspot.com
+  - DOMAIN-SUFFIX,pgweb.uplus.co.kr
   - DOMAIN-SUFFIX,pi-emporium.com
   - DOMAIN-SUFFIX,pi-games.ga
   - DOMAIN-SUFFIX,pigoods.vn
@@ -119,36 +116,37 @@ payload:
   - DOMAIN-SUFFIX,pitradecenter.com
   - DOMAIN-SUFFIX,pixu.vn
   - DOMAIN-SUFFIX,pkh22.my.id
+  - DOMAIN-SUFFIX,plain.za.com
+  - DOMAIN-SUFFIX,pomf2.lain.la
   - DOMAIN-SUFFIX,ppgames.net
+  - DOMAIN-SUFFIX,produkbisa.com
   - DOMAIN-SUFFIX,psgball.net
+  - DOMAIN-SUFFIX,ptppii.com
   - DOMAIN-SUFFIX,rajaclosingindonesia.com
   - DOMAIN-SUFFIX,recehoki.net
   - DOMAIN-SUFFIX,rhinobt.com
+  - DOMAIN-SUFFIX,sakura188.online
   - DOMAIN-SUFFIX,sang-juara.com
+  - DOMAIN-SUFFIX,shell-plan.com
   - DOMAIN-SUFFIX,sinergyclub.ecoracing.top
   - DOMAIN-SUFFIX,sinergy-world.com
   - DOMAIN-SUFFIX,sini4d.xn--6frz82g
+  - DOMAIN-SUFFIX,sk-88.xyz
+  - DOMAIN-SUFFIX,skor88.news
   - DOMAIN-SUFFIX,starmediago.com
+  - DOMAIN-SUFFIX,static.nukeasset.com
+  - DOMAIN-SUFFIX,steexp.com
+  - DOMAIN-SUFFIX,stellar.org
   - DOMAIN-SUFFIX,tracker.winudf.com
   - DOMAIN-SUFFIX,tspowerwall.com
   - DOMAIN-SUFFIX,ultima7.net
+  - DOMAIN-SUFFIX,ultima7.xn--6frz82g
+  - DOMAIN-SUFFIX,unitedmin.com
   - DOMAIN-SUFFIX,venkysfarmidn.com
   - DOMAIN-SUFFIX,visahoki.com
   - DOMAIN-SUFFIX,v-tube.biz
   - DOMAIN-SUFFIX,wigatos.com/5267-cara-kerja-eco-racing/
   - DOMAIN-SUFFIX,www.mql5.com
   - DOMAIN-SUFFIX,x2make.com
+  - DOMAIN-SUFFIX,xtoko.co
   - DOMAIN-SUFFIX,yuk-mantul-mantul.com
-  - DOMAIN-SUFFIX,lgtfundgroup.com
-  - DOMAIN-SUFFIX,lgtfundgroup.net
-  - DOMAIN-SUFFIX,ltgfundsbest.net
-  - DOMAIN-SUFFIX,sakura188.online
-  - DOMAIN-SUFFIX,ultima7.xn--6frz82g
-  - DOMAIN-SUFFIX,static.nukeasset.com
-  - DOMAIN-SUFFIX,nukeasset.com
-  - DOMAIN-SUFFIX,moadsense.com
-  - DOMAIN-SUFFIX,app.ptppii.com
-  - DOMAIN-SUFFIX,ptppii.com
-  - DOMAIN-SUFFIX,steexp.com
-  - DOMAIN-SUFFIX,stellar.org
-  - DOMAIN-SUFFIX,klabee.com
