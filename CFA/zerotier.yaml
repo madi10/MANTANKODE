@@ -1,7 +1,7 @@
 payload:
   #zerotier
   - IP-CIDR,183.195.103.0/24 
-  - IP-CIDR, 84.17.53.0/24
-  - IP-CIDR, 50.7.252.0/24
-  - DST-PORT, 9993
-  - DST-PORT, 20431
+  - IP-CIDR,84.17.53.0/24
+  - IP-CIDR,50.7.252.0/24
+  - DST-PORT,9993
+  - DST-PORT,20431
