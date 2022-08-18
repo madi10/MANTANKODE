@@ -98,6 +98,8 @@ payload:
 
   # > dood.pm doodstream.com
   - DOMAIN-SUFFIX,dood.pm
+  - DOMAIN-SUFFIX,dood.wf
+  - DOMAIN-SUFFIX,dood.so
   - DOMAIN-SUFFIX,www.doodstream.com
   - DOMAIN-SUFFIX,img.sinb.doodstream.com
   - DOMAIN-SUFFIX,doodstream.com
@@ -127,6 +129,25 @@ payload:
   # > imagebam.com
   - DOMAIN-SUFFIX,imagebam.com
 
+  # > sendvid.com
+  - DOMAIN-SUFFIX,sendvid.com
+  - DOMAIN-SUFFIX,1.sendvid.com
+  - DOMAIN-SUFFIX,cache-1.sendvid.com
+  - DOMAIN-SUFFIX,2.sendvid.com
+  - DOMAIN-SUFFIX,cache-2.sendvid.com
+  - DOMAIN-SUFFIX,thumbs2.sendvid.com
+  - DOMAIN-SUFFIX,videos2.sendvid.com
+  - DOMAIN-SUFFIX,3.sendvid.com
+  - DOMAIN-SUFFIX,cache-3.sendvid.com
+  - DOMAIN-SUFFIX,thumbs3.sendvid.com
+  - DOMAIN-SUFFIX,videos3.sendvid.com
+  - DOMAIN-SUFFIX,4.sendvid.com
+  - DOMAIN-SUFFIX,cache-4.sendvid.com
+  - DOMAIN-SUFFIX,videos3-h.sendvid.com
+  - DOMAIN-SUFFIX,webmail.sendvid.com
+  - DOMAIN-SUFFIX,www.sendvid.com
+  - DOMAIN-SUFFIX,support.sendvid.com
+
   # > goodjpe.com
   - DOMAIN-SUFFIX,goodjpe.com
   - DOMAIN-SUFFIX,live.goodjpe.com
@@ -145,3 +166,26 @@ payload:
   - DOMAIN-SUFFIX,webdisk.goodjpe.com
   - DOMAIN-SUFFIX,webmail.goodjpe.com
   - DOMAIN-SUFFIX,www.goodjpe.com
+
+  # > sharejpg.com
+  - DOMAIN-SUFFIX,autodiscover.sharejpg.com
+  - DOMAIN-SUFFIX,cpanel.sharejpg.com
+  - DOMAIN-SUFFIX,cpcalendars.sharejpg.com
+  - DOMAIN-SUFFIX,cpcontacts.sharejpg.com
+  - DOMAIN-SUFFIX,mail.sharejpg.com
+  - DOMAIN-SUFFIX,sharejpg.com
+  - DOMAIN-SUFFIX,webdisk.sharejpg.com
+  - DOMAIN-SUFFIX,webmail.sharejpg.com
+  - DOMAIN-SUFFIX,www.sharejpg.com
+  - DOMAIN-SUFFIX,images.sharejpg.com
+  - DOMAIN-SUFFIX,www.images.sharejpg.com
+  - DOMAIN-SUFFIX,mp4.sharejpg.com
+  - DOMAIN-SUFFIX,www.mp4.sharejpg.com
+  - DOMAIN-SUFFIX,movie.sharejpg.com
+  - DOMAIN-SUFFIX,www.movie.sharejpg.com
+  - DOMAIN-SUFFIX,blog.sharejpg.com
+  - DOMAIN-SUFFIX,www.blog.sharejpg.com
+  - DOMAIN-SUFFIX,video.sharejpg.com
+  - DOMAIN-SUFFIX,www.video.sharejpg.com
+  - DOMAIN-SUFFIX,upload.sharejpg.com
+  - DOMAIN-SUFFIX,www.upload.sharejpg.com
