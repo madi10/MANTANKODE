@@ -45,6 +45,9 @@ payload:
   - DOMAIN-SUFFIX,advice-ads.s3.amazonaws.com
   - DOMAIN-SUFFIX,affiliationjs.s3.amazonaws.com
   - DOMAIN-SUFFIX,advertising-api-eu.amazon.com
+  - DOMAIN-SUFFIX,ads.reddit.com
+  - DOMAIN-SUFFIX,advertising.twitter.com
+  - DOMAIN-SUFFIX,app.getsentry.com
   - DOMAIN-SUFFIX,amazonaax.com
   - DOMAIN-SUFFIX,api.bugsnag.com
   - DOMAIN-SUFFIX,app.bugsnag.com
