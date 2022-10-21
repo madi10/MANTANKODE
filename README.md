@@ -8,7 +8,7 @@ Tetapi jika anda berminat, silahkan digunakan.
 
 ![Stars](https://img.shields.io/github/stars/madi10/MANTANKODE?style=for-the-badge)
 ![Follow](https://img.shields.io/github/followers/madi10?style=for-the-badge)
-![Subscribe](https://img.shields.io/youtube/channel/subscribers/yUCMFQytY2sjobgA75FQwbPwQ?style=for-the-badge)
+![Subscribe](https://img.shields.io/youtube/channel/subscribers/UCMFQytY2sjobgA75FQwbPwQ?style=for-the-badge)
 [![Donate](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://trakteer.id/mantankode)
 
 
