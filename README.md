@@ -4,7 +4,12 @@
 # Tentang
 ini saya gunakan untuk melakukan blok akses ke situs tertentu yang digunakan secara pribadi.
 
+ada juga menggunakan asset dari pihak lain. sumber tertera.
+
 Tetapi jika anda berminat, silahkan digunakan.
+
+![Stars](https://img.shields.io/github/stars/madi10/MANTANKODE?style=for-the-badge)
+[![Donate](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://trakteer.id/mantankode)
 
 # Isi Repo ini.
 - Filter AdGuard
@@ -32,7 +37,6 @@ Tetapi jika anda berminat, silahkan digunakan.
 |  | Windows | [Link](https://raw.githubusercontent.com/madi10/MANTANKODE/master/CFA/Windows.yaml) |
 |  | XLAxiata | [Link](https://raw.githubusercontent.com/madi10/MANTANKODE/master/CFA/xlaxiata.yaml) |
 
-# Donasi
 Agar saya lebih semangat :) yuk di bantu dengan traktirannya.
 [Trakteer](https://trakteer.id/mantankode)
 

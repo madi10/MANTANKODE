@@ -1,0 +1,2 @@
+curl -o add3ward.txt "https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt"
+curl -o adpantsufan.txt "https://raw.githubusercontent.com/pantsufan/Magisk-Ad-Blocking-Module/master/hosts"
