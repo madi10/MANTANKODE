@@ -1,5 +1,3 @@
-![Youtube Channel](https://img.shields.io/yUCMFQytY2sjobgA75FQwbPwQ?style=social)
-![GitHub followers](https://img.shields.io/github/followers/madi10?style=social)
 
 # Tentang
 ini saya gunakan untuk melakukan blok akses ke situs tertentu yang digunakan secara pribadi.
