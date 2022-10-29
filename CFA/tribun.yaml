@@ -1,0 +1,35 @@
+payload:
+  # > Update 2022-10-29
+
+  # > Tribunnews
+  - DOMAIN-SUFFIX,belanja-staging.tribunnews.com
+  - DOMAIN-SUFFIX,belanja.tribunnews.com
+  - DOMAIN-SUFFIX,jba.tribunnews.com
+  - DOMAIN-SUFFIX,pgi.tribunnews.com
+  - DOMAIN-SUFFIX,tribunnews.com
+  - DOMAIN-SUFFIX,belanja-staging.tribunnews.com
+  - DOMAIN-SUFFIX,belanja.tribunnews.com
+  - DOMAIN-SUFFIX,beta-jb.tribunnews.com
+  - DOMAIN-SUFFIX,beta.tribunnews.com
+  - DOMAIN-SUFFIX,cpanel.paypal.www.tribunnews.com
+  - DOMAIN-SUFFIX,cpanel.web.jakarta.tribunnews.com
+  - DOMAIN-SUFFIX,diskon.tribunnews.com
+  - DOMAIN-SUFFIX,fudezz.tribunnews.com
+  - DOMAIN-SUFFIX,iklan.tribunnews.com
+  - DOMAIN-SUFFIX,jba.tribunnews.com
+  - DOMAIN-SUFFIX,jixieamp.tribunnews.com
+  - DOMAIN-SUFFIX,mail.paypal.www.tribunnews.com
+  - DOMAIN-SUFFIX,mail.web.jakarta.tribunnews.com
+  - DOMAIN-SUFFIX,paypal.www.tribunnews.com
+  - DOMAIN-SUFFIX,pgi.tribunnews.com
+  - DOMAIN-SUFFIX,sindoro.tribunnews.com
+  - DOMAIN-SUFFIX,travel-beta.tribunnews.com
+  - DOMAIN-SUFFIX,tribunnews.com
+  - DOMAIN-SUFFIX,web.jakarta.tribunnews.com
+  - DOMAIN-SUFFIX,webdisk.paypal.www.tribunnews.com
+  - DOMAIN-SUFFIX,webdisk.web.jakarta.tribunnews.com
+  - DOMAIN-SUFFIX,webmail.paypal.www.tribunnews.com
+  - DOMAIN-SUFFIX,webmail.web.jakarta.tribunnews.com
+  - DOMAIN-SUFFIX,www.beta.tribunnews.com
+  - DOMAIN-SUFFIX,www.iklan.tribunnews.com
+  - DOMAIN-SUFFIX,www.paypal.www.tribunnews.com
