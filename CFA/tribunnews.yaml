@@ -1,4 +1,5 @@
 payload:
   - '*.tribunnews.com'
-  - '*.bokep.*'
-  - '*bokep*'
+  - '*.tribun*'
+  - '*.tribun.*'
+  - '*tribun*'
