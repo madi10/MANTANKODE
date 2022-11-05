@@ -5,6 +5,6 @@ payload:
   - DOMAIN-SUFFIX,yummykimmy.live
   - DOMAIN-SUFFIX,mvngokitty.com
   - DOMAIN-SUFFIX,mvngokitty.live
-fansly.com
-onlyfans.com
-fans.ly
+  - DOMAIN-SUFFIX,fansly.com
+  - DOMAIN-SUFFIX,onlyfans.com
+  - DOMAIN-SUFFIX,fans.ly
