@@ -1,6 +1,6 @@
 ### LokalSpam - AdGuard
 ### License: MIT
-### Updated: 2022-08-20
+### Updated: 2022-11-07
 ### More info: 
 
 ||103.5.47.11^
@@ -16,14 +16,9 @@
 ||6a73j.app.link^
 ||9ecd37.huyts.eu.org^
 ||adbosgame.com^
-||ads.facebook.com^
-||ads.google.com^
-||ads.reddit.com^
-||ads-api.twitter.com^
 ||adtago.s3.amazonaws.com^
 ||advertising.twitter.com^
 ||advertising-api-eu.amazon.com^
-||advice-ads.s3.amazonaws.com^
 ||affiliationjs.s3.amazonaws.com^
 ||agtkantors.com^
 ||agtlive.site^
@@ -79,6 +74,7 @@
 ||erindacredit.com^
 ||ewallet.bar^
 ||firstsolaridn.com^
+||fit188game.net^
 ||frances2213.macaulay102.one^
 ||gleam.io^
 ||goldcoin.co.id^
@@ -111,7 +107,6 @@
 ||megaminex.com^
 ||merdekaglobal.com^
 ||minepi.com^
-||moadsense.com^
 ||motorplus-online.com^
 ||motorplus-online.com/amp/252002057/bikin-irit-bensin-motor-pemilik-eco-racing-pastikan-produk-teruji-dan-bisa-dipertanggungjawabkan^
 ||mql5.com^
@@ -163,8 +158,6 @@
 ||ternaklebah.co.id^
 ||totalkesehatananda.com^
 ||tracker.winudf.com^
-||tracking.india.miui.com^
-||tracking.rus.miui.com^
 ||tspowerwall.com^
 ||ultima7.net^
 ||ultima7.xn--6frz82g^

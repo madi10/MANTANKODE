@@ -1,5 +1,3 @@
 payload:
-  # > Config regex Kominfo
-  - 'kominfo.*'
-  - '*.kominfo.*'
-  - '*.kominfo'
+  # > 
+  - DOMAIN-KEYWORD,kominfo

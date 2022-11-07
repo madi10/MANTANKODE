@@ -1,5 +1,6 @@
 payload:
   # > LOCALSPAM:
+  - DOMAIN-KEYWORD,coreldraw
   - DOMAIN-SUFFIX,account.corel.com
   - DOMAIN-SUFFIX,accounts.corel.com
   - DOMAIN-SUFFIX,activate.corel.com

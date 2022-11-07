@@ -1,14 +1,15 @@
-rentry.co
-uptime.lain.la
-pages.lain.la
-uptime-infra.lain.la
-uptime-hentai.lain.la
-gitlab.lain.la
-lain.la
-pomf2.lain.la
-asupankimochi.blogspot.com
-dood.re
-avtub.click
-avtub.info
-adstub.net
-bacol69.me
+payload:
+  - DOMAIN-SUFFIX,rentry.co
+  - DOMAIN-SUFFIX,uptime.lain.la
+  - DOMAIN-SUFFIX,pages.lain.la
+  - DOMAIN-SUFFIX,uptime-infra.lain.la
+  - DOMAIN-SUFFIX,uptime-hentai.lain.la
+  - DOMAIN-SUFFIX,gitlab.lain.la
+  - DOMAIN-SUFFIX,lain.la
+  - DOMAIN-SUFFIX,pomf2.lain.la
+  - DOMAIN-SUFFIX,asupankimochi.blogspot.com
+  - DOMAIN-SUFFIX,dood.re
+  - DOMAIN-SUFFIX,avtub.click
+  - DOMAIN-SUFFIX,avtub.info
+  - DOMAIN-SUFFIX,adstub.net
+  - DOMAIN-SUFFIX,bacol69.me

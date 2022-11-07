@@ -1,7 +1,7 @@
 # Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tiktok
 
 # Behavior: domain
-# > Update 2022-06-10
+# > Update 2022-11-07
 
 payload:
 # - "+.byteoversea.com"
@@ -14,6 +14,7 @@ payload:
 # - "p16-tiktokcdn-com.akamaized.net"
 
 # tiktok
+  - DOMAIN-KEYWORD,tiktok
   - DOMAIN-SUFFIX,zendesk1.tiktok.com
   - DOMAIN-SUFFIX,zendesk2.tiktok.com
   - DOMAIN-SUFFIX,zendesk3.tiktok.com
