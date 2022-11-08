@@ -6,7 +6,8 @@ payload:
   # >  path: ./lokalspam.yaml
   # >  interval: 86400
   # > 
-  # > 
+  # > sc: https://www.facebook.com/groups/3683782238340120/?ref=share 
+  # >
   # > Daftar hitam domain Penipuan / Scam / Phishing / MLM / Judi
   - DOMAIN-KEYWORD,bokep
   - DOMAIN-KEYWORD,ecoracing
