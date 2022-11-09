@@ -8,9 +8,13 @@ payload:
   # > 
   # > sc: https://www.facebook.com/groups/3683782238340120/?ref=share 
   # > sc: https://www.facebook.com/groups/204514354616684/?ref=share
+  # > sc: https://t.me/xX9Na7vn1mtkMGAB
   # >
   # > Daftar hitam domain Penipuan / Scam / Phishing / MLM / Judi
   - DOMAIN-KEYWORD,bokep
+  - DOMAIN-KEYWORD,pinetwork
+  - DOMAIN-KEYWORD,sobat99
+  - DOMAIN-KEYWORD,vtube
   - DOMAIN-KEYWORD,ecoracing
   - DOMAIN-KEYWORD,enel
   - DOMAIN-KEYWORD,fit188
@@ -202,3 +206,4 @@ payload:
   - DOMAIN-SUFFIX,pitradecenter.com
   - DOMAIN-SUFFIX,jakartainsider.id
   - DOMAIN-SUFFIX,kabartujuhsatu.news
+  - DOMAIN-SUFFIX,waterval.wixsite.com
