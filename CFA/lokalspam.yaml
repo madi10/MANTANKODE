@@ -11,20 +11,6 @@ payload:
   # > sc: https://t.me/xX9Na7vn1mtkMGAB
   # >
   # > Daftar hitam domain Penipuan / Scam / Phishing / MLM / Judi
-  - DOMAIN-KEYWORD,bokep
-  - DOMAIN-KEYWORD,pinetwork
-  - DOMAIN-KEYWORD,sobat99
-  - DOMAIN-KEYWORD,vtube
-  - DOMAIN-KEYWORD,ecoracing
-  - DOMAIN-KEYWORD,enel
-  - DOMAIN-KEYWORD,fit188
-  - DOMAIN-KEYWORD,porn
-  - DOMAIN-KEYWORD,eco-racing
-  - DOMAIN-KEYWORD,skor88
-  - DOMAIN-SUFFIX,allianceinmotion.com
-  - DOMAIN-SUFFIX,pi-coreteam.com
-  - DOMAIN-SUFFIX,minepi.com
-  - DOMAIN-SUFFIX,fit188game.net
   - DOMAIN-SUFFIX,ternaklebah.co.id
   - DOMAIN-SUFFIX,www.best-world.id
   - DOMAIN-SUFFIX,merdekaglobal.com
@@ -42,8 +28,6 @@ payload:
   - DOMAIN-SUFFIX,103.5.47.11
   - DOMAIN-SUFFIX,165.22.218.75
   - DOMAIN-SUFFIX,167.172.93.78
-  - DOMAIN-SUFFIX,206.189.151.151
-  - DOMAIN-SUFFIX,4.227.187.119
   - DOMAIN-SUFFIX,lynk.id
   - DOMAIN-SUFFIX,52.74.55.245
   - DOMAIN-SUFFIX,totalkesehatananda.com
@@ -197,14 +181,69 @@ payload:
   - DOMAIN-SUFFIX,yuk-mantul-mantul.com
   - DOMAIN-SUFFIX,perubahan-tarif-bertransaksi.site
   - DOMAIN-SUFFIX,update-tarif-baru.com
-  - DOMAIN-SUFFIX,egold.farm
-  - DOMAIN-SUFFIX,pimainnet.xyz
-  - DOMAIN-SUFFIX,bsisukses.com
-  - DOMAIN-SUFFIX,pi.xahrj.com
-  - DOMAIN-SUFFIX,xahrj.com
-  - DOMAIN-SUFFIX,bsc.news
-  - DOMAIN-SUFFIX,pibridge.org
-  - DOMAIN-SUFFIX,pitradecenter.com
-  - DOMAIN-SUFFIX,jakartainsider.id
-  - DOMAIN-SUFFIX,kabartujuhsatu.news
-  - DOMAIN-SUFFIX,waterval.wixsite.com
+  - DOMAIN-SUFFIX,beritaku.site
+  - DOMAIN-SUFFIX,btcs.love
+  - DOMAIN-SUFFIX,shuswaplakewatch.com
+  - DOMAIN-SUFFIX,examqa.com
+  - DOMAIN-SUFFIX,splayce.eu
+  - DOMAIN-SUFFIX,jurnalagrin.net
+  - DOMAIN-SUFFIX,thegrouphug.com
+  - DOMAIN-SUFFIX,best4x4.landrover.com
+  - DOMAIN-SUFFIX,landrover.com
+  - DOMAIN-SUFFIX,winmaxout.one
+  - DOMAIN-SUFFIX,ktqt.ftu.edu.vn
+  - DOMAIN-SUFFIX,online24jam.net
+  - DOMAIN-SUFFIX,taruhan77slot.com
+  - DOMAIN-SUFFIX,x90x.net
+  - DOMAIN-SUFFIX,iklanslotgacor.com
+  - DOMAIN-SUFFIX,idsa-india.org
+  - DOMAIN-SUFFIX,winmax777.com
+  - DOMAIN-SUFFIX,526betpialadunia2022.xn--6frz82g
+  - DOMAIN-SUFFIX,krjnews.com
+  - DOMAIN-SUFFIX,neskafe.shop
+  - DOMAIN-SUFFIX,dewamaxwin.com
+  - DOMAIN-SUFFIX,157.245.201.74
+  - DOMAIN-SUFFIX,winmax.com.sg
+  - DOMAIN-SUFFIX,winmax.co.th
+  - DOMAIN-SUFFIX,winamax.fr
+  - DOMAIN-SUFFIX,157.245.201.74
+  - DOMAIN-SUFFIX,gacor99.me
+  - DOMAIN-SUFFIX,slot-gacor.net
+  - DOMAIN-SUFFIX,zeuspetir.com
+  - DOMAIN-SUFFIX,rtplives.xyz
+  - DOMAIN-SUFFIX,izingacor.com
+  - DOMAIN-SUFFIX,gacor88.website
+  - DOMAIN-SUFFIX,mpogacor11.com
+  - DOMAIN-SUFFIX,maxim178.com
+  - DOMAIN-SUFFIX,sambalpetir.xyz
+  - DOMAIN-SUFFIX,jamslotgacor.ornop.org
+  - DOMAIN-SUFFIX,gogacor.online
+  - DOMAIN-SUFFIX,theoverlanddenver.com
+  - DOMAIN-SUFFIX,istana-911.com
+  - DOMAIN-SUFFIX,okarhaiair.com
+  - DOMAIN-SUFFIX,mmmrevolution.org
+  - DOMAIN-SUFFIX,idaxfund.com
+  - DOMAIN-SUFFIX,pupukorganikmikroba.my.id
+  - DOMAIN-SUFFIX,pinetbook.com
+  - DOMAIN-SUFFIX,eulogiasukses.co.id
+  - DOMAIN-SUFFIX,isyakarimanacademy.com
+  - DOMAIN-SUFFIX,autosultan.net
+  - DOMAIN-SUFFIX,roktoto.net
+  - DOMAIN-SUFFIX,roktoto.net.cutestat.com
+  - DOMAIN-SUFFIX,rog-toto.zyrosite.com
+  - DOMAIN-SUFFIX,roktoto.xyz
+  - DOMAIN-SUFFIX,rogtoto.com
+  - DOMAIN-SUFFIX,roktoto.website
+  - DOMAIN-SUFFIX,167.172.84.237
+  - DOMAIN-SUFFIX,rtpnagagg.com
+  - DOMAIN-SUFFIX,nagagg.one
+  - DOMAIN-SUFFIX,nagagg.io
+  - DOMAIN-SUFFIX,nagagg.co
+  - DOMAIN-SUFFIX,huobi.com
+  - DOMAIN-SUFFIX,totokasino1.com
+  - DOMAIN-SUFFIX,toto.nl
+  - DOMAIN-SUFFIX,casino.toto.nl
+  - DOMAIN-SUFFIX,ggbet258.com
+  - DOMAIN-SUFFIX,cdn.bncloudfl.com
+  - DOMAIN-SUFFIX,bncloudfl.com
+  - DOMAIN-SUFFIX,methafarm.com
