@@ -6,15 +6,23 @@ payload:
   # >  path: ./lokalspam.yaml
   # >  interval: 86400
   # > 
-  # > 
+  # > sc: https://www.facebook.com/groups/3683782238340120/?ref=share 
+  # > sc: https://www.facebook.com/groups/204514354616684/?ref=share
+  # > sc: https://t.me/xX9Na7vn1mtkMGAB
+  # >
   # > Daftar hitam domain Penipuan / Scam / Phishing / MLM / Judi
   - DOMAIN-KEYWORD,bokep
+  - DOMAIN-KEYWORD,pinetwork
+  - DOMAIN-KEYWORD,sobat99
+  - DOMAIN-KEYWORD,vtube
   - DOMAIN-KEYWORD,ecoracing
   - DOMAIN-KEYWORD,enel
   - DOMAIN-KEYWORD,fit188
   - DOMAIN-KEYWORD,porn
   - DOMAIN-KEYWORD,eco-racing
   - DOMAIN-KEYWORD,skor88
+  - DOMAIN-SUFFIX,allianceinmotion.com
+  - DOMAIN-SUFFIX,pi-coreteam.com
   - DOMAIN-SUFFIX,minepi.com
   - DOMAIN-SUFFIX,fit188game.net
   - DOMAIN-SUFFIX,ternaklebah.co.id
@@ -189,3 +197,14 @@ payload:
   - DOMAIN-SUFFIX,yuk-mantul-mantul.com
   - DOMAIN-SUFFIX,perubahan-tarif-bertransaksi.site
   - DOMAIN-SUFFIX,update-tarif-baru.com
+  - DOMAIN-SUFFIX,egold.farm
+  - DOMAIN-SUFFIX,pimainnet.xyz
+  - DOMAIN-SUFFIX,bsisukses.com
+  - DOMAIN-SUFFIX,pi.xahrj.com
+  - DOMAIN-SUFFIX,xahrj.com
+  - DOMAIN-SUFFIX,bsc.news
+  - DOMAIN-SUFFIX,pibridge.org
+  - DOMAIN-SUFFIX,pitradecenter.com
+  - DOMAIN-SUFFIX,jakartainsider.id
+  - DOMAIN-SUFFIX,kabartujuhsatu.news
+  - DOMAIN-SUFFIX,waterval.wixsite.com
