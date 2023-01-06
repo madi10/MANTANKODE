@@ -37,8 +37,7 @@ Agar saya lebih semangat :) yuk di bantu dengan traktirannya.
 ## TikTok
 ```https://raw.githubusercontent.com/madi10/MANTANKODE/master/AdGuard/tiktok.txt```
 ## Tokopedia
-```https://raw.githubusercontent.com/madi10/MANTANKODE/master/A
-Guard/tokopedia.txt```
+```https://raw.githubusercontent.com/madi10/MANTANKODE/master/AGuard/tokopedia.txt```
 ## XLAxiata
 ```https://raw.githubusercontent.com/madi10/MANTANKODE/master/AdGuard/xlaxiata.txt```
 
