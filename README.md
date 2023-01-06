@@ -23,13 +23,25 @@ Agar saya lebih semangat :) yuk di bantu dengan traktirannya.
 
 # Url AdGuard - Surfboard
 ## Ads
-```
-https://github.com/madi10/MANTANKODE/blob/master/AdGuard/ADS.txt
-```
+```https://raw.githubusercontent.com/madi10/MANTANKODE/master/AdGuard/ADS.txt```
+## CorelDraw
+```https://raw.githubusercontent.com/madi10/MANTANKODE/master/AdGuard/Corel.txt```
 ## Spam
-```
-https://github.com/madi10/MANTANKODE/blob/master/AdGuard/lokalspam.txt
-```
+```https://raw.githubusercontent.com/madi10/MANTANKODE/master/AdGuard/lokalspam.txt```
+## Pornlist
+```https://raw.githubusercontent.com/madi10/MANTANKODE/master/AdGuard/pornlist.txt```
+## WhatsApp
+```https://raw.githubusercontent.com/madi10/MANTANKODE/master/AdGuard/WhatsApp.txt```
+## Windows
+```https://raw.githubusercontent.com/madi10/MANTANKODE/master/AdGuard/windows.txt```
+## TikTok
+```https://raw.githubusercontent.com/madi10/MANTANKODE/master/AdGuard/tiktok.txt```
+## Tokopedia
+```https://raw.githubusercontent.com/madi10/MANTANKODE/master/A
+Guard/tokopedia.txt```
+## XLAxiata
+```https://raw.githubusercontent.com/madi10/MANTANKODE/master/AdGuard/xlaxiata.txt```
+
 # Bantu Pembaruan Daftar
 bagi anda punya daftar tersendiri dari file yang saya punya ini, bisa memasukkan daftar anda di link ini [New Issue](https://github.com/madi10/MANTANKODE/issues/new)
 
