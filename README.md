@@ -15,36 +15,21 @@ Tetapi jika anda berminat, silahkan digunakan.
 # Isi Repo ini.
 - Filter AdGuard
 - Filter Clash For Android (CFA)
+- Filter Surfboard
 - dan sedikit catatan saya
-
-| Jenis | Nama | link |
-| --- | --- | --- |
-| AdGuard | ADS | [Link](https://raw.githubusercontent.com/madi10/MANTANKODE/master/AdGuard/ADS.txt) |
-|  | CorelDraw | [Link](https://raw.githubusercontent.com/madi10/MANTANKODE/master/AdGuard/Corel.txt) |
-|  | IDN_Spam | [Link](https://raw.githubusercontent.com/madi10/MANTANKODE/master/AdGuard/lokalspam.txt) |
-|  | Media_Warning | [Link](https://raw.githubusercontent.com/madi10/MANTANKODE/master/AdGuard/media.txt) |
-|  | Pornlist | [Link](https://raw.githubusercontent.com/madi10/MANTANKODE/master/AdGuard/pornlist.txt) |
-|  | TikTok | [Link](https://raw.githubusercontent.com/madi10/MANTANKODE/master/AdGuard/tiktok.txt) |
-|  | Tokopedia | [Link](https://raw.githubusercontent.com/madi10/MANTANKODE/master/AdGuard/tokopedia.txt) |
-|  | Windows | [Link](https://raw.githubusercontent.com/madi10/MANTANKODE/master/AdGuard/windows.txt) |
-|  | WhatsApp | [Link](https://raw.githubusercontent.com/madi10/MANTANKODE/master/AdGuard/WhatsApp.txt) |
-|  | XLAxiata | [Link](https://raw.githubusercontent.com/madi10/MANTANKODE/master/AdGuard/xlaxiata.txt) |
-| CFA | IDN_Spam | [Link](https://raw.githubusercontent.com/madi10/MANTANKODE/master/CFA/lokalspam.yaml) |
-|  | Media_Warning | [Link](https://raw.githubusercontent.com/madi10/MANTANKODE/master/CFA/media.yaml) |
-|  | Playstore | [Link](https://raw.githubusercontent.com/madi10/MANTANKODE/master/CFA/playstore.yaml) |
-|  | TikTok | [Link](https://raw.githubusercontent.com/madi10/MANTANKODE/master/CFA/tiktok.yaml) |
-|  | Tokopedia | [Link](https://raw.githubusercontent.com/madi10/MANTANKODE/master/CFA/tokopedia.yaml) |
-|  | WhatsApp | [Link](https://raw.githubusercontent.com/madi10/MANTANKODE/master/CFA/whatsapp.yaml) |
-|  | Windows | [Link](https://raw.githubusercontent.com/madi10/MANTANKODE/master/CFA/Windows.yaml) |
-|  | XLAxiata | [Link](https://raw.githubusercontent.com/madi10/MANTANKODE/master/CFA/xlaxiata.yaml) |
 
 Agar saya lebih semangat :) yuk di bantu dengan traktirannya.
 [Trakteer](https://trakteer.id/mantankode)
 
+# Url AdGuard - Surfboard
+## Ads
+```
+https://github.com/madi10/MANTANKODE/blob/master/AdGuard/ADS.txt
+```
+## Spam
+```
+https://github.com/madi10/MANTANKODE/blob/master/AdGuard/lokalspam.txt
+```
 # Bantu Pembaruan Daftar
 bagi anda punya daftar tersendiri dari file yang saya punya ini, bisa memasukkan daftar anda di link ini [New Issue](https://github.com/madi10/MANTANKODE/issues/new)
 
-# Kontrubusi
-[![Contributors Display](https://badges.pufler.dev/contributors/madi10/MANTANKODE?size=50&padding=5&bots=true)](https://badges.pufler.dev)
-
-[![Updated Badge](https://badges.pufler.dev/updated/madi10/MANTANKODE)](https://badges.pufler.dev)
