@@ -1,0 +1,6 @@
+### LokalSpam - AdGuard
+### License: MIT
+### Updated: 2022-06-10
+### More info:
+
+netpub.media
