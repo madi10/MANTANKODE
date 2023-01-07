@@ -1,16 +1,9 @@
 payload:
-  # > LOCALSPAM:
-  # >  type: file
-  # >  behavior: classical
-  # >  url: "https://raw.githubusercontent.com/madi10/MANTANKODE/master/CFA/lokalspam.yaml"
-  # >  path: ./lokalspam.yaml
-  # >  interval: 86400
-  # > 
-  # > sc: https://www.facebook.com/groups/3683782238340120/?ref=share 
-  # > sc: https://www.facebook.com/groups/204514354616684/?ref=share
-  # > sc: https://t.me/xX9Na7vn1mtkMGAB
-  # >
-  # > Daftar hitam domain Penipuan / Scam / Phishing / MLM / Judi
+  # Porn - CFA & CFM
+  # License: MIT
+  # More info: https://github.com/madi10/MANTANKODE/
+  # Update:
+  # 7 Januari 2023
   - DOMAIN-SUFFIX,ternaklebah.co.id
   - DOMAIN-SUFFIX,www.best-world.id
   - DOMAIN-SUFFIX,merdekaglobal.com
@@ -247,3 +240,28 @@ payload:
   - DOMAIN-SUFFIX,cdn.bncloudfl.com
   - DOMAIN-SUFFIX,bncloudfl.com
   - DOMAIN-SUFFIX,methafarm.com
+  - DOMAIN-SUFFIX,pinetwork-official.medium.com
+  - DOMAIN-SUFFIX,superex.live
+  - DOMAIN-SUFFIX,hiznethome.com
+  - DOMAIN-SUFFIX,tableunixerzs.com
+  - DOMAIN-SUFFIX,chairrextersz.com
+  - DOMAIN-SUFFIX,airconditionerestz.com
+  - DOMAIN-SUFFIX,triunsur.com
+  - DOMAIN-SUFFIX,bocoranslotpragmatic.info
+  - DOMAIN-SUFFIX,laskar89.xyz
+  - DOMAIN-SUFFIX,horas88.buzz
+  - DOMAIN-SUFFIX,vivapasarantogel.com
+  - DOMAIN-SUFFIX,apiasmara.com
+  - DOMAIN-SUFFIX,slotcc1.top
+  - DOMAIN-SUFFIX,run113.biz
+  - DOMAIN-SUFFIX,beycandra.bestbisnis.com
+  - DOMAIN-SUFFIX,bestbisnis.com
+  - DOMAIN-SUFFIX,sonic88.shop
+  - DOMAIN-SUFFIX,nagacash.win
+  - DOMAIN-SUFFIX,netpub.media
+  - DOMAIN-SUFFIX,bringsconserve.com
+  - DOMAIN-SUFFIX,beacons.ai
+  - DOMAIN-SUFFIX,omtch.com
+  - DOMAIN-SUFFIX,ggbet258.com
+  - DOMAIN-SUFFIX,forumitu.com
+
