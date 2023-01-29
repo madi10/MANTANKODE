@@ -1,0 +1,34 @@
+payload:
+  # E-Wallet / Dompet Digital
+  - DOMAIN-SUFFIX,gojek.com
+  - DOMAIN-SUFFIX,gobiz.co.id
+  - DOMAIN-SUFFIX,ovo.id
+  - DOMAIN-SUFFIX,dana.id
+  - DOMAIN-SUFFIX,linkaja.id
+  - DOMAIN-SUFFIX,octoclicks.co.id
+  - DOMAIN-SUFFIX,i-saku.com
+  - DOMAIN-SUFFIX,doku.com
+  - DOMAIN-SUFFIX,shopeepay.co.id
+  - DOMAIN-SUFFIX,grab.com
+  - DOMAIN-SUFFIX,grabtaxi.com
+  - DOMAIN-KEYWORD,gojek
+  - DOMAIN-KEYWORD,gobiz
+  - DOMAIN-KEYWORD,ovo
+  - DOMAIN-KEYWORD,dana
+  - DOMAIN-KEYWORD,linkaja
+  - DOMAIN-KEYWORD,octoclicks
+  - DOMAIN-KEYWORD,i-saku
+  - DOMAIN-KEYWORD,doku
+  - DOMAIN-KEYWORD,shopeepay
+  - DOMAIN-KEYWORD,grab
+  - DOMAIN-KEYWORD,grabtaxi
+
+  # Banking
+  - DOMAIN-SUFFIX,btn.co.id
+  - DOMAIN-SUFFIX,bri.co.id
+  - DOMAIN-SUFFIX,bni.co.id
+  - DOMAIN-SUFFIX,bankmandiri.co.id
+  - DOMAIN-KEYWORD,btn
+  - DOMAIN-KEYWORD,bri
+  - DOMAIN-KEYWORD,bni
+  - DOMAIN-KEYWORD,bankmandiri
