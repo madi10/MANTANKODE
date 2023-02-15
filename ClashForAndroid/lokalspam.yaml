@@ -2,7 +2,8 @@ payload:
   # Porn - CFA & CFM
   # License: MIT
   # More info: https://github.com/madi10/MANTANKODE/
-  # Update: 18 Januari 2023
+  # Update: 15 Februari 2023
+  - DOMAIN-SUFFIX,minepi.com
   - DOMAIN-SUFFIX,ternaklebah.co.id
   - DOMAIN-SUFFIX,www.best-world.id
   - DOMAIN-SUFFIX,merdekaglobal.com
@@ -272,3 +273,8 @@ payload:
   - DOMAIN-SUFFIX,ecofarming.support
   - DOMAIN-SUFFIX,sagaranesia.com
   - DOMAIN-SUFFIX,kassa-sinergy.com
+  - DOMAIN-SUFFIX,regarsport.net
+  - DOMAIN-SUFFIX,kgrs-kmh.id
+  - DOMAIN-SUFFIX,mediafire11141982.cloud-mb1.my.id
+  - DOMAIN-SUFFIX,meta-force.space
+  - DOMAIN-SUFFIX,dobel.co.id
