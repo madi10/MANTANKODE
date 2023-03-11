@@ -11,6 +11,11 @@ payload:
   # > sc: https://t.me/xX9Na7vn1mtkMGAB
   # >
   # > Daftar hitam domain Penipuan / Scam / Phishing / MLM / Judi
+  # LokalSpam - CFA & CFM
+  # License: MIT
+  # More info: https://github.com/madi10/MANTANKODE/
+  # Update: 11-Mar-23
+  - DOMAIN-SUFFIX,minepi.com
   - DOMAIN-SUFFIX,ternaklebah.co.id
   - DOMAIN-SUFFIX,www.best-world.id
   - DOMAIN-SUFFIX,merdekaglobal.com
@@ -119,7 +124,6 @@ payload:
   - DOMAIN-SUFFIX,lummoshop.com
   - DOMAIN-SUFFIX,m.atomy.com
   - DOMAIN-SUFFIX,megaminex.com
-  - DOMAIN-SUFFIX,minepi.com
   - DOMAIN-SUFFIX,motorplus-online.com
   - DOMAIN-SUFFIX,motorplus-online.com/amp/252002057/bikin-irit-bensin-motor-pemilik-eco-racing-pastikan-produk-teruji-dan-bisa-dipertanggungjawabkan
   - DOMAIN-SUFFIX,mql5.com
@@ -206,7 +210,6 @@ payload:
   - DOMAIN-SUFFIX,winmax.com.sg
   - DOMAIN-SUFFIX,winmax.co.th
   - DOMAIN-SUFFIX,winamax.fr
-  - DOMAIN-SUFFIX,157.245.201.74
   - DOMAIN-SUFFIX,gacor99.me
   - DOMAIN-SUFFIX,slot-gacor.net
   - DOMAIN-SUFFIX,zeuspetir.com
@@ -247,3 +250,51 @@ payload:
   - DOMAIN-SUFFIX,cdn.bncloudfl.com
   - DOMAIN-SUFFIX,bncloudfl.com
   - DOMAIN-SUFFIX,methafarm.com
+  - DOMAIN-SUFFIX,pinetwork-official.medium.com
+  - DOMAIN-SUFFIX,superex.live
+  - DOMAIN-SUFFIX,hiznethome.com
+  - DOMAIN-SUFFIX,tableunixerzs.com
+  - DOMAIN-SUFFIX,chairrextersz.com
+  - DOMAIN-SUFFIX,airconditionerestz.com
+  - DOMAIN-SUFFIX,triunsur.com
+  - DOMAIN-SUFFIX,bocoranslotpragmatic.info
+  - DOMAIN-SUFFIX,laskar89.xyz
+  - DOMAIN-SUFFIX,horas88.buzz
+  - DOMAIN-SUFFIX,vivapasarantogel.com
+  - DOMAIN-SUFFIX,apiasmara.com
+  - DOMAIN-SUFFIX,slotcc1.top
+  - DOMAIN-SUFFIX,run113.biz
+  - DOMAIN-SUFFIX,beycandra.bestbisnis.com
+  - DOMAIN-SUFFIX,bestbisnis.com
+  - DOMAIN-SUFFIX,sonic88.shop
+  - DOMAIN-SUFFIX,nagacash.win
+  - DOMAIN-SUFFIX,netpub.media
+  - DOMAIN-SUFFIX,bringsconserve.com
+  - DOMAIN-SUFFIX,beacons.ai
+  - DOMAIN-SUFFIX,omtch.com
+  - DOMAIN-SUFFIX,forumitu.com
+  - DOMAIN-SUFFIX,office-mmm.com
+  - DOMAIN-SUFFIX,albaslot.vip
+  - DOMAIN-SUFFIX,fauziluxury.bestbisnis.com
+  - DOMAIN-SUFFIX,analysgc.com
+  - DOMAIN-SUFFIX,amazonoooc.com
+  - DOMAIN-SUFFIX,webteam.id
+  - DOMAIN-SUFFIX,sagaranesia.com
+  - DOMAIN-SUFFIX,kassa-sinergy.com
+  - DOMAIN-SUFFIX,regarsport.net
+  - DOMAIN-SUFFIX,kgrs-kmh.id
+  - DOMAIN-SUFFIX,mediafire11141982.cloud-mb1.my.id
+  - DOMAIN-SUFFIX,meta-force.space
+  - DOMAIN-SUFFIX,dobel.co.id
+  - DOMAIN-SUFFIX,dana-kaget3fTxHkk.zqxl-pxzr.me
+  - DOMAIN-SUFFIX,clentrk.com
+  - DOMAIN-SUFFIX,primeteam.id
+  - DOMAIN-SUFFIX,inves2021.space
+  - DOMAIN-SUFFIX,pokemonuonline.com
+  - DOMAIN-SUFFIX,armadabersatu.site
+  - DOMAIN-SUFFIX,armada888.com
+  - DOMAIN-SUFFIX,demoslotpp.com
+  - DOMAIN-SUFFIX,bintang777.website
+  - DOMAIN-SUFFIX,162.0.235.37
+  - DOMAIN-SUFFIX,bzh5.net
+  - DOMAIN-SUFFIX,modgila.com
