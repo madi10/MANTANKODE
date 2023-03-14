@@ -1,6 +1,10 @@
 payload:
   # > Update 2022-06-18
 
+  # > Apk & Win
+  - PROCESS-NAME,com.whatsapp.w4b
+  - PROCESS-NAME,com.whatsapp 
+
   # > WHATSAPP
   - DOMAIN-SUFFIX,mmg.whatsapp.net
   - DOMAIN-SUFFIX,media.fbdj2-1.fna.whatsapp.net
