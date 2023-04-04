@@ -1,9 +1,8 @@
 ### LokalSpam - AdGuard
 ### License: MIT
 ### More info: https://github.com/madi10/MANTANKODE/
-### Update:
-### 18 Januari 2023
-
+### Update: 4 April 2023
+||minepi.com^
 ||ternaklebah.co.id^
 ||www.best-world.id^
 ||merdekaglobal.com^
@@ -273,3 +272,27 @@
 ||ecofarming.support^
 ||sagaranesia.com^
 ||kassa-sinergy.com^
+||regarsport.net^
+||kgrs-kmh.id^
+||mediafire11141982.cloud-mb1.my.id^
+||meta-force.space^
+||dobel.co.id^
+||dana-kaget3fTxHkk.zqxl-pxzr.me^
+||clentrk.com^
+||primeteam.id^
+||inves2021.space^
+||pokemonuonline.com^
+||armadabersatu.site^
+||armada888.com^
+||demoslotpp.com^
+||bintang777.website^
+||162.0.235.37^
+||bzh5.net^
+||modgila.com^
+||dewi188.com^
+||adsdewi188.com^
+||aff.ohmy188.com^
+||ohmy188.com^
+||pucuk138.org^
+||siaff.kr^
+||pipcm.com^
