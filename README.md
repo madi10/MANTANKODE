@@ -1,10 +1,16 @@
 
 # Tentang
-ini saya gunakan untuk melakukan blok akses ke situs tertentu yang digunakan secara pribadi.
+Merupakan suatu Blog yang berisikan tutorial dan tips, blog tersebut bernama [MANTANKODE](https://www.mantankode.net/).
+
+di Repositori **Github ini**, yang bernama **MANTANKODE** tempat berbagi url / host / address / url / https suatu Website ataupun Blog yang dapat digunakan sesuai kebutuhan.
+
+Seperti melakukan Blokir ataupun sebaliknya.
+
+yang dapat digunakan padai Program: AdGuard, Clash For Android, Surfboard dan lain-lain.
 
 ada juga menggunakan asset dari pihak lain. sumber tertera.
 
-Tetapi jika anda berminat, silahkan digunakan.
+update untuk sementara random, dan masih tahap penggunaan pribdi. Tetapi jika anda berminat, silahkan digunakan. (Dilarang di Salah Gunakan.)
 
 ![Stars](https://img.shields.io/github/stars/madi10/MANTANKODE?style=for-the-badge)
 ![Follow](https://img.shields.io/github/followers/madi10?style=for-the-badge)
