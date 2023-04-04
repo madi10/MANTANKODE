@@ -10,3 +10,4 @@ payload:
   - DOMAIN-SUFFIX,go.microsoft.com
   - DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
   - DOMAIN-SUFFIX,delivery.mp.microsoft.com
+  - DOMAIN-SUFFIX,client.wns.windows.com
