@@ -56,6 +56,33 @@ url yang dapat anda gunakan pada CFA:
 
 </details>
 
+### AdGuard
+
+<details>
+<summary>Expand</summary>
+<br>
+
+Daftar Payload berdasarkan kategory
+
+```
+https://github.com/madi10/MANTANKODE/tree/master/AdGuard
+```
+
+url yang dapat anda gunakan pada AdGuard:
+
+<!-- prettier-ignore -->
+<table>
+  <thead>
+    <tr><th align="left">Kategory</th><th align="left">http</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Local Spam (Indonesia)</td><td nowrap><code>https://raw.githubusercontent.com/madi10/MANTANKODE/master/AdGuard/lokalspam.txt</code></td></tr>
+    <tr><td>PornList</td><td nowrap><code>https://raw.githubusercontent.com/madi10/MANTANKODE/master/AdGuard/pornlist.txt</code></td></tr>
+  </tbody>
+</table>
+
+</details>
+
 # Bantu Pembaruan Daftar
 bagi anda punya daftar tersendiri dari file yang saya punya ini, bisa memasukkan daftar anda di link ini [New Issue](https://github.com/madi10/MANTANKODE/issues/new)
 
