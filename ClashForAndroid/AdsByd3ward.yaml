@@ -123,6 +123,7 @@ payload:
   - DOMAIN-SUFFIX,click.oneplus.cn
   - DOMAIN-SUFFIX,open.oneplus.net
   - DOMAIN-SUFFIX,samsungads.com
+  - DOMAIN-SUFFIX,log.byteoversea.com
   - DOMAIN-SUFFIX,smetrics.samsung.com
   - DOMAIN-SUFFIX,samsung-com.112.2o7.net
   - DOMAIN-SUFFIX,analytics-api.samsunghealthcn.com
