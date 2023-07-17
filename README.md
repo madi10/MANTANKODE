@@ -56,7 +56,7 @@ url yang dapat anda gunakan pada CFA:
     <tr><td>Pornlist v2</td><td nowrap><code>https://raw.githubusercontent.com/madi10/MANTANKODE/master/ClashForAndroid/pornlistv2.yaml</code></td></tr>
     <tr><td>Tiktok</td><td nowrap><code>https://raw.githubusercontent.com/madi10/MANTANKODE/master/ClashForAndroid/tiktok.yaml</code></td></tr>
     <tr><td>WhatsApp</td><td nowrap><code>https://raw.githubusercontent.com/madi10/MANTANKODE/master/ClashForAndroid/whatsapp.yaml</code></td></tr>
-    <tr><td>_keterangan_</td><td nowrap><code>__url_disini__</code></td></tr>
+    <tr><td>Perjudian</td><td nowrap><code>https://raw.githubusercontent.com/madi10/MANTANKODE/master/ClashForAndroid/judi.yaml</code></td></tr>
   </tbody>
 </table>
 
