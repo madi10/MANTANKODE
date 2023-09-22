@@ -4,10 +4,10 @@ payload:
   - DOMAIN-SUFFIX,analytics.s3.amazonaws.com
   - DOMAIN-SUFFIX,advice-ads.s3.amazonaws.com
   - DOMAIN-SUFFIX,advertising-api-eu.amazon.com
-  - DOMAIN-SUFFIX,pagead2.googlesyndication.com
-  - DOMAIN-SUFFIX,adservice.google.com
-  - DOMAIN-SUFFIX,pagead2.googleadservices.com
-  - DOMAIN-SUFFIX,afs.googlesyndication.com
+#  - DOMAIN-SUFFIX,pagead2.googlesyndication.com
+#  - DOMAIN-SUFFIX,adservice.google.com
+#  - DOMAIN-SUFFIX,pagead2.googleadservices.com
+#  - DOMAIN-SUFFIX,afs.googlesyndication.com
   - DOMAIN-SUFFIX,stats.g.doubleclick.net
   - DOMAIN-SUFFIX,ad.doubleclick.net
   - DOMAIN-SUFFIX,static.doubleclick.net
@@ -21,10 +21,10 @@ payload:
   - DOMAIN-SUFFIX,media.net
   - DOMAIN-SUFFIX,adservetx.media.net
   - DOMAIN-SUFFIX,app-measurement.com
-  - DOMAIN-SUFFIX,analytics.google.com
-  - DOMAIN-SUFFIX,click.googleanalytics.com
-  - DOMAIN-SUFFIX,google-analytics.com
-  - DOMAIN-SUFFIX,ssl.google-analytics.com
+#  - DOMAIN-SUFFIX,analytics.google.com
+#  - DOMAIN-SUFFIX,click.googleanalytics.com
+#  - DOMAIN-SUFFIX,google-analytics.com
+#  - DOMAIN-SUFFIX,ssl.google-analytics.com
   - DOMAIN-SUFFIX,adm.hotjar.com
   - DOMAIN-SUFFIX,identify.hotjar.com
   - DOMAIN-SUFFIX,insights.hotjar.com
