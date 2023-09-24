@@ -3,6 +3,10 @@ payload:
   # License: MIT
   # More info: https://github.com/madi10/MANTANKODE/
   # Update: 4 April 2023
+  # LokalSpam - CFA & CFM
+  # License: MIT
+  # More info: https://github.com/madi10/MANTANKODE/
+  # Update: 24 September 2023
   - DOMAIN-SUFFIX,minepi.com
   - DOMAIN-SUFFIX,ternaklebah.co.id
   - DOMAIN-SUFFIX,www.best-world.id
@@ -112,7 +116,6 @@ payload:
   - DOMAIN-SUFFIX,lummoshop.com
   - DOMAIN-SUFFIX,m.atomy.com
   - DOMAIN-SUFFIX,megaminex.com
-  - DOMAIN-SUFFIX,minepi.com
   - DOMAIN-SUFFIX,motorplus-online.com
   - DOMAIN-SUFFIX,motorplus-online.com/amp/252002057/bikin-irit-bensin-motor-pemilik-eco-racing-pastikan-produk-teruji-dan-bisa-dipertanggungjawabkan
   - DOMAIN-SUFFIX,mql5.com
@@ -199,7 +202,6 @@ payload:
   - DOMAIN-SUFFIX,winmax.com.sg
   - DOMAIN-SUFFIX,winmax.co.th
   - DOMAIN-SUFFIX,winamax.fr
-  - DOMAIN-SUFFIX,157.245.201.74
   - DOMAIN-SUFFIX,gacor99.me
   - DOMAIN-SUFFIX,slot-gacor.net
   - DOMAIN-SUFFIX,zeuspetir.com
@@ -262,7 +264,6 @@ payload:
   - DOMAIN-SUFFIX,bringsconserve.com
   - DOMAIN-SUFFIX,beacons.ai
   - DOMAIN-SUFFIX,omtch.com
-  - DOMAIN-SUFFIX,ggbet258.com
   - DOMAIN-SUFFIX,forumitu.com
   - DOMAIN-SUFFIX,office-mmm.com
   - DOMAIN-SUFFIX,albaslot.vip
@@ -270,7 +271,6 @@ payload:
   - DOMAIN-SUFFIX,analysgc.com
   - DOMAIN-SUFFIX,amazonoooc.com
   - DOMAIN-SUFFIX,webteam.id
-  - DOMAIN-SUFFIX,ecofarming.support
   - DOMAIN-SUFFIX,sagaranesia.com
   - DOMAIN-SUFFIX,kassa-sinergy.com
   - DOMAIN-SUFFIX,regarsport.net
@@ -297,3 +297,12 @@ payload:
   - DOMAIN-SUFFIX,pucuk138.org
   - DOMAIN-SUFFIX,siaff.kr
   - DOMAIN-SUFFIX,pipcm.com
+  - DOMAIN-SUFFIX,rtod.net
+  - DOMAIN-SUFFIX,offdeck.telkomsel.com
+  - DOMAIN-SUFFIX,tkp531.com
+  - DOMAIN-SUFFIX,tokenmilestone.com
+  - DOMAIN-SUFFIX,gokkenroyale333.com
+  - DOMAIN-SUFFIX,sensa138.online
+  - DOMAIN-SUFFIX,sensa138.com
+  - DOMAIN-SUFFIX,sensa138.digital
+  - DOMAIN-SUFFIX,affilioshop.com
