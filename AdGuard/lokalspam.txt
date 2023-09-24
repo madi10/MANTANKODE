@@ -1,7 +1,7 @@
 ### LokalSpam - AdGuard
 ### License: MIT
 ### More info: https://github.com/madi10/MANTANKODE/
-### Update: 4 April 2023
+### Update: 24 September 2023
 ||minepi.com^
 ||ternaklebah.co.id^
 ||www.best-world.id^
@@ -111,7 +111,6 @@
 ||lummoshop.com^
 ||m.atomy.com^
 ||megaminex.com^
-||minepi.com^
 ||motorplus-online.com^
 ||motorplus-online.com/amp/252002057/bikin-irit-bensin-motor-pemilik-eco-racing-pastikan-produk-teruji-dan-bisa-dipertanggungjawabkan^
 ||mql5.com^
@@ -198,7 +197,6 @@
 ||winmax.com.sg^
 ||winmax.co.th^
 ||winamax.fr^
-||157.245.201.74^
 ||gacor99.me^
 ||slot-gacor.net^
 ||zeuspetir.com^
@@ -261,7 +259,6 @@
 ||bringsconserve.com^
 ||beacons.ai^
 ||omtch.com^
-||ggbet258.com^
 ||forumitu.com^
 ||office-mmm.com^
 ||albaslot.vip^
@@ -269,7 +266,6 @@
 ||analysgc.com^
 ||amazonoooc.com^
 ||webteam.id^
-||ecofarming.support^
 ||sagaranesia.com^
 ||kassa-sinergy.com^
 ||regarsport.net^
@@ -296,3 +292,63 @@
 ||pucuk138.org^
 ||siaff.kr^
 ||pipcm.com^
+||rtod.net^
+||offdeck.telkomsel.com^
+||tkp531.com^
+||tokenmilestone.com^
+||gokkenroyale333.com^
+||sensa138.online^
+||sensa138.com^
+||sensa138.digital^
+||affilioshop.com^
+||pln123.info^
+||everviva.com^
+||mmediafire.hkqwo.com^
+||controlc.com^
+||manapaten.xyz^
+||vilaslot138.com^
+||vilaslot.com^
+||vilaslot.shop^
+||vilaslot.me^
+||vilaslot.us^
+||vilaslot.cc^
+||vilaslot.fun^
+||vilaslot.pro^
+||vilaslot.biz^
+||vilaslot.work^
+||rtpvilaslot.com^
+||vilaslot.lovestoblog.com^
+||vilaslot.win^
+||198.13.48.166^
+||vilaslot.online^
+||harumslot99.com^
+||rtpharumslot.com^
+||harumslot138.com^
+||harumslot.pro^
+||harumslot.work^
+||harumslot.fun^
+||harumslot128.com^
+||slot.iainfmpapua.ac.id^
+||slot-demo.sukamakmur.opendesa.id^
+||agen5000.tapinkab.go.id^
+||agen5000.duriantinggi.opendesa.id^
+||slot-online.beritaminang.com^
+||slot-qris.pa-probolinggo.go.idgo.id^
+||deposit-5rb.tapinkab.go.id^
+||slotgacor.sukamaju.opendesa.id^
+||slotthailand.al-musaddadiyah.ponpes.id^
+||slot-thailand.pa-sukabumi.go.id^
+||slot88.pn-karawang.go.id^
+||slotdana.madukara-banjarnegara.opendesa.id^
+||slot-gacor.al-musaddadiyah.ponpes.iddiyah.ponpes.id^
+||agtcomers.com^
+||slotonlinegacor78.review-blogger.com^
+||slotonlinegacor78.bluxeblog.com^
+||slotonlinegacor78.diowebhost.com^
+||slotonlinegacor78.thezenweb.com49^
+||akunslotonlinepro.pages10.com^
+||slotonlinegacor78.blogolize.com^
+||slotonlinegacor78.pointblog.net^
+||slotonlinegacor78.onesmablog.com^
+||wg2n642s3tf8.blog.fc2.com^
+||economis88.review-blogger.com^
