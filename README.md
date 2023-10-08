@@ -29,12 +29,10 @@ Agar saya lebih semangat :) yuk di bantu dengan traktirannya.
 [Trakteer](https://trakteer.id/mantankode)
 
 ## Keterangan
-- Type 1
-Type 1 Mendukung (AdGuard, uBlock Orign)
-- Type 2
-Type 2 Mendukung (CFA, CFM, BFM)
-- Type 3
-Type 3 Mendukung (Windows, Linux)
+- **Type 1**, Mendukung (AdGuard, uBlock Orign)
+- **Type 2**, Mendukung (CFA, CFM, BFM)
+- **Type 3**, Mendukung (Windows, Linux)
+- **Type 4**, Mendukung (GatchaNG)
 
 ### Type 1
 
@@ -92,7 +90,6 @@ url yang dapat anda gunakan pada CFA:
     <tr><td>Pornlist v2</td><td nowrap><code>https://raw.githubusercontent.com/madi10/MANTANKODE/master/ClashForAndroid/pornlistv2.yaml</code></td></tr>
     <tr><td>Tiktok</td><td nowrap><code>https://raw.githubusercontent.com/madi10/MANTANKODE/master/ClashForAndroid/tiktok.yaml</code></td></tr>
     <tr><td>WhatsApp</td><td nowrap><code>https://raw.githubusercontent.com/madi10/MANTANKODE/master/ClashForAndroid/whatsapp.yaml</code></td></tr>
-    <tr><td>Perjudian</td><td nowrap><code>https://raw.githubusercontent.com/madi10/MANTANKODE/master/ClashForAndroid/judi.yaml</code></td></tr>
   </tbody>
 </table>
 
@@ -119,6 +116,33 @@ url yang dapat anda gunakan pada Windows:
   </thead>
   <tbody>
     <tr><td>Local Spam (Indonesia)</td><td nowrap><code>https://raw.githubusercontent.com/madi10/MANTANKODE/master/Windows/lokalspam</code></td></tr>
+  </tbody>
+</table>
+
+</details>
+
+### Type 4
+
+<details>
+<summary>Expand</summary>
+<br>
+
+Daftar Payload berdasarkan kategory
+
+```
+https://github.com/madi10/MANTANKODE/tree/master/GatchaNG
+```
+
+langsung di gas:
+
+<!-- prettier-ignore -->
+<table>
+  <thead>
+    <tr><th align="left">Kategory</th><th align="left">http</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Local Spam (Indonesia)</td><td nowrap><code>https://raw.githubusercontent.com/madi10/MANTANKODE/master/GatchaNG/scam_id.txt</code></td></tr>
+    <tr><td>PornList</td><td nowrap><code>https://raw.githubusercontent.com/madi10/MANTANKODE/master/GatchaNG/pornlist.txt</code></td></tr>
   </tbody>
 </table>
 
