@@ -22,12 +22,48 @@ update untuk sementara random, dan masih tahap penggunaan pribdi. Tetapi jika an
 - Filter AdGuard
 - Filter Clash For Android (CFA)
 - Filter Surfboard
+- Filter uBlock Origin
 - dan sedikit catatan saya
 
 Agar saya lebih semangat :) yuk di bantu dengan traktirannya.
 [Trakteer](https://trakteer.id/mantankode)
 
-### Clash For Android
+## Keterangan
+- Type 1
+Type 1 Mendukung (AdGuard, uBlock Orign)
+- Type 2
+Type 2 Mendukung (CFA, CFM, BFM)
+- Type 3
+Type 3 Mendukung (Windows, Linux)
+
+### Type 1
+
+<details>
+<summary>Expand</summary>
+<br>
+
+Daftar Payload berdasarkan kategory
+
+```
+https://github.com/madi10/MANTANKODE/tree/master/AdGuard
+```
+
+url yang dapat anda gunakan pada AdGuard:
+
+<!-- prettier-ignore -->
+<table>
+  <thead>
+    <tr><th align="left">Kategory</th><th align="left">http</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Local Spam (Indonesia)</td><td nowrap><code>https://raw.githubusercontent.com/madi10/MANTANKODE/master/AdGuard/lokalspam.txt</code></td></tr>
+    <tr><td>PornList</td><td nowrap><code>https://raw.githubusercontent.com/madi10/MANTANKODE/master/AdGuard/pornlist.txt</code></td></tr>
+  </tbody>
+</table>
+
+</details>
+
+### Type 2
 
 <details>
 <summary>Expand</summary>
@@ -62,34 +98,7 @@ url yang dapat anda gunakan pada CFA:
 
 </details>
 
-### AdGuard
-
-<details>
-<summary>Expand</summary>
-<br>
-
-Daftar Payload berdasarkan kategory
-
-```
-https://github.com/madi10/MANTANKODE/tree/master/AdGuard
-```
-
-url yang dapat anda gunakan pada AdGuard:
-
-<!-- prettier-ignore -->
-<table>
-  <thead>
-    <tr><th align="left">Kategory</th><th align="left">http</th></tr>
-  </thead>
-  <tbody>
-    <tr><td>Local Spam (Indonesia)</td><td nowrap><code>https://raw.githubusercontent.com/madi10/MANTANKODE/master/AdGuard/lokalspam.txt</code></td></tr>
-    <tr><td>PornList</td><td nowrap><code>https://raw.githubusercontent.com/madi10/MANTANKODE/master/AdGuard/pornlist.txt</code></td></tr>
-  </tbody>
-</table>
-
-</details>
-
-### Windows Host
+### Type 3
 
 <details>
 <summary>Expand</summary>
