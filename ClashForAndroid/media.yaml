@@ -99,8 +99,12 @@ payload:
   # > dood.pm doodstream.com
   - DOMAIN-SUFFIX,dood.pm
   - DOMAIN-SUFFIX,dood.wf
-  - DOMAIN-SUFFIX,dood.so
+  - DOMAIN-SUFFIX,dooood.com
   - DOMAIN-SUFFIX,www.doodstream.com
+  - DOMAIN-SUFFIX,dood.so
+  - DOMAIN-SUFFIX,ds2play.com
+  - DOMAIN-SUFFIX,filelions.live
+  - DOMAIN-SUFFIX,doods.pro  
   - DOMAIN-SUFFIX,img.sinb.doodstream.com
   - DOMAIN-SUFFIX,doodstream.com
   - DOMAIN-SUFFIX,r.sinb.doodstream.com
