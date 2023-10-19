@@ -1,7 +1,7 @@
 ### Porn - AdGuard
 ### License: MIT
 ### More info: https://github.com/madi10/MANTANKODE/
-### Update: 16 Oktober 2023
+### Update: 19 Oktober 2023
 ||lain.la^
 ||pomf2.lain.la^
 ||asupankimochi.blogspot.com^
@@ -6502,3 +6502,5 @@
 ||pizzaseo.com^
 ||masuk123.com^
 ||javtoys.com^
+||asupankimochi.my.id^
+||indoviral.my.id^
