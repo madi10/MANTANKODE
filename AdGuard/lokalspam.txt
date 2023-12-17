@@ -1,7 +1,8 @@
+AdGuard
 ### LokalSpam - AdGuard
 ### License: MIT
 ### More info: https://github.com/madi10/MANTANKODE/
-### Update: 22 Oktober 2023
+### Update: 25 Oktober 2023
 ||galaxyalternatif3.info^
 ||pokerlounge99plus.com^
 ||lounge99alternatif3.info^
@@ -1849,3 +1850,9 @@
 ||poipet.click^
 ||topviral.click^
 ||rubikibur.click^
+||rejekioma.site^
+||pastiwedejumbo.com^
+||dewapg.xyz^
+||mewah99.click^
+||pastipastiaja.website^
+||petirterus.pro^

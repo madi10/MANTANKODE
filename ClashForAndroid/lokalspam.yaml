@@ -1,8 +1,9 @@
 payload:
+CFA - CFM
 # LokalSpam - CFA & CFM
 # License: MIT
 # More info: https://github.com/madi10/MANTANKODE/
-# Update: 22 Oktober 2023
+# Update: 25 Oktober 2023
   - DOMAIN-SUFFIX,galaxyalternatif3.info
   - DOMAIN-SUFFIX,pokerlounge99plus.com
   - DOMAIN-SUFFIX,lounge99alternatif3.info
@@ -1850,3 +1851,9 @@ payload:
   - DOMAIN-SUFFIX,poipet.click
   - DOMAIN-SUFFIX,topviral.click
   - DOMAIN-SUFFIX,rubikibur.click
+  - DOMAIN-SUFFIX,rejekioma.site
+  - DOMAIN-SUFFIX,pastiwedejumbo.com
+  - DOMAIN-SUFFIX,dewapg.xyz
+  - DOMAIN-SUFFIX,mewah99.click
+  - DOMAIN-SUFFIX,pastipastiaja.website
+  - DOMAIN-SUFFIX,petirterus.pro
