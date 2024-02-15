@@ -193,3 +193,8 @@ payload:
   - DOMAIN-SUFFIX,www.video.sharejpg.com
   - DOMAIN-SUFFIX,upload.sharejpg.com
   - DOMAIN-SUFFIX,www.upload.sharejpg.com
+
+# > dood family
+  - DOMAIN-SUFFIX,poop.com.co
+  - DOMAIN-SUFFIX,doodss.pro
+  - DOMAIN-SUFFIX,d000d.com
