@@ -6,7 +6,7 @@ di Repositori **Github ini**, yang bernama **MANTANKODE** tempat berbagi url / h
 
 Seperti melakukan Blokir ataupun sebaliknya.
 
-yang dapat digunakan padai Program: AdGuard, Clash For Android, Surfboard dan lain-lain.
+yang dapat digunakan pada Program: AdGuard, Clash For Android, Surfboard dan lain-lain.
 
 ada juga menggunakan asset dari pihak lain. sumber tertera.
 
