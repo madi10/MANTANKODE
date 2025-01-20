@@ -1,3 +1,5 @@
+DOMAIN-SUFFIX,brewe.sh
+DOMAIN-SUFFIX,narikosumiya.com
 DOMAIN-SUFFIX,galaxyalternatif3.info
 DOMAIN-SUFFIX,pokerlounge99plus.com
 DOMAIN-SUFFIX,lounge99alternatif3.info
