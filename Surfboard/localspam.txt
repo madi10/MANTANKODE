@@ -1,3 +1,4 @@
+DOMAIN-SUFFIX,ahugoid.cc
 DOMAIN-SUFFIX,brewe.sh
 DOMAIN-SUFFIX,narikosumiya.com
 DOMAIN-SUFFIX,galaxyalternatif3.info
