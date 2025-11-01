@@ -1,12 +1,12 @@
 const MKADS_LIBRARY = {
   default: [
     {
-      img: "https://down-id.img.susercontent.com/file/id-11134207-7r98z-lqfqzykq2rhu2b@resize_w450_nl.webp",
+      img: "https://raw.githubusercontent.com/madi10/MANTANKODE/refs/heads/master/Ads/2VjWyw0WSW.webp",
       alt: "Tas Gunung / Carrier Atmos 60 Liter",
       url: "https://s.shopee.co.id/2VjWyw0WSW"
     },
     {
-      img: "https://down-id.img.susercontent.com/file/id-11134207-7r98x-lpj3xbi0j0af82@resize_w450_nl.webp",
+      img: "https://raw.githubusercontent.com/madi10/MANTANKODE/refs/heads/master/Ads/8ANtl8EBxS.webp",
       alt: "Jas Hujan Ponco+Celana Ponco Kalalawar Waterproof",
       url: "https://s.shopee.co.id/8ANtl8EBxS"
     }
