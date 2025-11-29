@@ -1,3 +1,0 @@
-git config --global user.name "usermu"
-git config --global user.email "mailmu@gmail.com"
-git config --global credential.helper cache
