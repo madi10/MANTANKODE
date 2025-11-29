@@ -1,0 +1,59 @@
+name: Optimize Images to WebP
+
+on:
+  push:
+    paths:
+      - "rumah/**.png"
+      - "rumah/**.jpg"
+      - "rumah/**.jpeg"
+      - "rumah/**.webp"
+  workflow_dispatch:
+
+jobs:
+  optimize-images:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install WebP tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y webp
+
+      # 1) Convert semua PNG/JPG/JPEG ke WebP
+      - name: Convert PNG/JPG to WebP
+        run: |
+          find . -type f \( -iname "*.png" -o -iname "*.jpg" -o -iname "*.jpeg" \) | while read img; do
+            webp="${img%.*}.webp"
+
+            # Hanya convert kalau webp belum ada ATAU source lebih baru dari webp
+            if [ ! -f "$webp" ] || [ "$img" -nt "$webp" ]; then
+              echo "Convert: $img -> $webp"
+              # Ubah nilai -q (quality) sesuai kebutuhan, 80 biasanya sudah bagus
+              cwebp -q 90 "$img" -o "$webp"
+            fi
+          done
+
+      # 2) Re-compress semua WebP agar lebih kecil (opsional)
+      - name: Recompress existing WebP
+        run: |
+          find . -type f -iname "*.webp" | while read img; do
+            tmp="${img%.webp}.tmp.webp"
+            echo "Compress: $img"
+            # Bisa beda quality untuk recompress, misal 75 agar lebih kecil
+            cwebp -q 80 "$img" -o "$tmp"
+
+            # Kalau berhasil, ganti file aslinya
+            if [ -f "$tmp" ]; then
+              mv "$tmp" "$img"
+            fi
+          done
+
+      # 3) Auto-commit perubahan
+      - name: Commit optimized images
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: optimize images to webp"
+          file_pattern: "*.webp"
