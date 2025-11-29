@@ -25,35 +25,43 @@ jobs:
       # 1) Convert semua PNG/JPG/JPEG ke WebP
       - name: Convert PNG/JPG to WebP
         run: |
-          find . -type f \( -iname "*.png" -o -iname "*.jpg" -o -iname "*.jpeg" \) | while read img; do
+          find . -type f \( -iname "*.png" -o -iname "*.jpg" -o -iname "*.jpeg" \) \
+            ! -path "./.git/*" | while read img; do
             webp="${img%.*}.webp"
 
             # Hanya convert kalau webp belum ada ATAU source lebih baru dari webp
             if [ ! -f "$webp" ] || [ "$img" -nt "$webp" ]; then
               echo "Convert: $img -> $webp"
-              # Ubah nilai -q (quality) sesuai kebutuhan, 80 biasanya sudah bagus
-              cwebp -q 90 "$img" -o "$webp"
+              cwebp -q 80 "$img" -o "$webp"
             fi
           done
 
       # 2) Re-compress semua WebP agar lebih kecil (opsional)
       - name: Recompress existing WebP
         run: |
-          find . -type f -iname "*.webp" | while read img; do
+          find . -type f -iname "*.webp" ! -path "./.git/*" | while read img; do
             tmp="${img%.webp}.tmp.webp"
             echo "Compress: $img"
-            # Bisa beda quality untuk recompress, misal 75 agar lebih kecil
-            cwebp -q 80 "$img" -o "$tmp"
-
-            # Kalau berhasil, ganti file aslinya
+            cwebp -q 75 "$img" -o "$tmp"
             if [ -f "$tmp" ]; then
               mv "$tmp" "$img"
             fi
           done
 
-      # 3) Auto-commit perubahan
+      # 3) Hapus format gambar lain (PNG/JPG/JPEG)
+      - name: Remove original non-WebP images
+        run: |
+          echo "Removing PNG/JPG/JPEG source images..."
+          find . -type f \( -iname "*.png" -o -iname "*.jpg" -o -iname "*.jpeg" \) \
+            ! -path "./.git/*" -print -delete
+
+      # 4) Auto-commit perubahan (WEBP + penghapusan file lama)
       - name: Commit optimized images
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: optimize images to webp"
-          file_pattern: "*.webp"
+          commit_message: "chore: optimize images to webp & remove originals"
+          file_pattern: |
+            *.webp
+            *.png
+            *.jpg
+            *.jpeg
