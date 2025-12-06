@@ -5,7 +5,7 @@ sidak_produk.py
 - Baca list URL dari rumah/produk.txt
 - Ambil title & og:image
 - Jika og:image tidak ada → dianggap produk tidak aktif → hapus URL
-- Generate rumah/produk.html
+- Generate rumah/produk.html hm
 """
 import httpx, re, html, os
 from bs4 import BeautifulSoup
