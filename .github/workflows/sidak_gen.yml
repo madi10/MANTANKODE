@@ -1,4 +1,4 @@
-name: Generate Produk HTML
+name: Sidak Produk Shopee
 
 # Trigger workflow setiap jam 1 malam + bisa manual
 on:
