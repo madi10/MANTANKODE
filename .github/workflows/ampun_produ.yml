@@ -1,6 +1,6 @@
 name: Sidak Produk Shopee
 
-# Trigger workflow setiap jam 1 malam + bisa manual
+# Trigger workflow: hanya jam 1 malam UTC dan manual
 on:
   schedule:
     - cron: '0 1 * * *'  # jam 01:00 UTC setiap hari
