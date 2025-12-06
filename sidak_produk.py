@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-rumah_update_produk.py
+sidak_produk.py
 
 - Baca list URL dari rumah/produk.txt
 - Ambil title & og:image
