@@ -4,6 +4,7 @@ rumah_produk.py
 
 Baca list URL dari rumah/produk.txt, buat snippet HTML per URL,
 simpan ke rumah/produk.html.
+Title otomatis dipendekkan jika terlalu panjang.
 """
 import httpx, re, json, html
 from bs4 import BeautifulSoup
@@ -14,8 +15,8 @@ import os
 INPUT_FILE = "rumah/produk.txt"
 OUTPUT_FILE = "rumah/produk.html"
 GITHUB_BASE = "https://raw.githubusercontent.com/madi10/MANTANKODE/refs/heads/blogger/rumah/"
-
 UA = "Mozilla/5.0 (TelegramBot)"
+MAX_TITLE_LENGTH = 60  # maksimal karakter title sebelum dipotong
 
 # --- Helper ---
 def fetch_shopee_meta(url, timeout=20):
@@ -55,12 +56,23 @@ def short_code_from_url(url):
 def html_escape(s):
     return html.escape(s or "", quote=True)
 
+def shorten_title(title, max_len=MAX_TITLE_LENGTH):
+    title = title.strip()
+    if len(title) <= max_len:
+        return title
+    cut = title[:max_len]
+    last_space = cut.rfind(' ')
+    if last_space > 0:
+        cut = cut[:last_space]
+    return cut + "…"
+
 def build_snippet(title, final_url, img_src):
+    short_title = shorten_title(title)
     return (
 f'<div class="mkSlot">\n'
 f'  <a href="{html_escape(final_url)}" target="_blank" rel="nofollow noopener">\n'
-f'    <img src="{html_escape(img_src)}" alt="{html_escape(title)}" loading="lazy" />\n'
-f'    <div class="t">Jual {html_escape(title)}</div>\n'
+f'    <img src="{html_escape(img_src)}" alt="{html_escape(short_title)}" loading="lazy" />\n'
+f'    <div class="t">Jual {html_escape(short_title)}</div>\n'
 f'  </a>\n'
 f'</div>'
     )
