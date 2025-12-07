@@ -72,7 +72,7 @@ def build_snippet(title, final_url, img_src):
 f'<div class="mkSlot">\n'
 f'  <a href="{html_escape(final_url)}" target="_blank" rel="nofollow noopener">\n'
 f'    <img src="{html_escape(img_src)}" alt="{html_escape(short_title)}" loading="lazy" />\n'
-f'    <div class="t">Jual {html_escape(short_title)}</div>\n'
+f'    <div class="t">{html_escape(short_title)}</div>\n'
 f'  </a>\n'
 f'</div>'
     )
